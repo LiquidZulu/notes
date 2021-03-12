@@ -1,0 +1,130 @@
+#+TITLE: Public vs Private | The Historic Definitions of Socialism & Capitalism
+#+HREF: https://www.youtube.com/watch?v=ksAqr4lLA_Y
+
+* Ancient Greece and Rome
+** only the family, no concept of the individual[0 pp. 7]
+*** the good or bad that you did was attributed to the family
+*** In roman times each house had to be at least 2.5' apart with no shared walls[0 pp. 12,15-16][1 pp. 61-62,85-91]
+*** The sale of property was forbidden as it wasnt the property of the individual but that of the family[0 pp. 12,15-16][1 pp. 61-62,85-91]
+*** The head of the house would be allowed to kill a member of the house and none could stop him[0 pp. 12,15-16][1 pp. 61-62,85-91]
+*** These families were [[Private]]
+*** Grew in size eventually to a few thousand members, these were called Gentes[0 pp. 14,34][1 pp. 108-109,112-115]
+**** Origin of gentlemen
+*** Multiple gentes could come together in the worship of greater gods they hold in common forming a Phratry or curia, cheif known as Phratriarch[0 pp. 14,20-21][1 pp. 117-119]
+*** Multiple Phratry could form a Tribe[0 pp. 14,20-21][1 pp. 117-119], headed by tribunas or tribune
+*** Multiple tribes could found a city
+**** Rome was founded by; the Ramnes, the Tritienses and the Luceres[3 pp. 22]
+*** above the [[Private]] family atoms there was a greater hierarchy known as the [[Public]], or Publicus
+*** Public sector meaning 'the part of an economy that is controlled by the state'[2 pp. 1435]
+
+* private vs public companies
+** you can tell if its a public company if it gets its money from the state
+
+* Episteme
+** Private
+*** [[Ref]]
+[2 pp. 1413]
+*** Definition
+Belonging to or for the use of one particular person ~or group of people only~
+*** Origin
+Latin /privus/, 'single, individual'
+** Public
+*** [[Ref]]
+[2 pp. 1435][4][5]
+*** Definition
+of or concerning the people as a whole
+*** Origin
+Latin /publicus/, 'of the state'
+** Common
+*** [[Ref]]
+[2 pp. 350-351]
+*** Definition
+belonging to or invoving the whole of a community or the public at large
+** Group
+*** [[Ref]]
+[2 pp. 775]
+*** Definition
+a number of people or things that are located, gathered or classed together
+** Nation
+*** [[Ref]]
+[2 pp. 775]
+*** Definition
+a large body of people united by common descent, history, culture, or language, inhabiting a particular state or territory
+** Private/Free Market
+*** [[Ref]]
+*** Definition
+A society without uconflict
+*** Explanation
+[[Private]] individuals engaging in voulntary interaction
+** Private Sector
+*** [[Ref]]
+[2 pp. 1413][6]
+*** Definition
+1. the part of the national economy that is not under the direct control of the state
+2. businesses and industries that are not owned or controlled by the government
+**  Capitalism
+*** [[Ref]]
+[7 pp. 15][2 pp. 258]
+*** Definition
+1. [[Private]] control of the means of production
+2. an economic and political system in which trade and industry are controlled by [[Private]] owners, rather than by the state
+*** notes
+Laissez-Faire means "leave alone"
+** Private Enterprise
+*** [[Ref]]
+[2 pp. 1413]
+*** Definition
+A business or industry that is managed by independent companies or private individuals rather than being controlled by the state.
+** Collectivism
+*** [[Ref]]
+[2 pp. 341]
+*** Definition
+the practice or principle of giving a group priority over each [[Private]] individual in it.
+** Socialism
+*** [[Ref]]
+[2 pp. 1693]
+*** Definition
+1. A political and economic theory of social organisation which advocates that the means of production, distribution, and exchange should be owned or regulated by the community as a whole.
+2. (in marxist theory) a transitional social state between the overthrow of capitalism and the realisation of communism.
+*** notes
+Prior to Lenin & Stalin Communism was synonymous with socialism
+Ein Volk, ein Reich, ein Fuhrer = One Class, One State, One Comrade
+
+
+* Quotes
+
+** Adolf Hitler
+*** [8 pp. 555]
+The internationalization of our German economic system, that is to say, the transference of our productive forces to the control of Jewish international finance, can be completely carried out only in a State that has been politically Bolshevized. But the Marxist fighting forces, commanded by international and Jewish stock-exchange capital, cannot finally smash the national resistance in Germany without friendly help from outside.
+
+*** [8 pp. 369]
+The racial WELTANSCHAUUNG (worldview) is fundamentally distinguished from the Marxist by reason of the fact that the former recognizes the significance of race and therefore also personal worth and has made these the pillars of its structure.
+... If the National Socialist Movement should fail to understand the fundamental importance of this essential principle, if it should merely varnish the external appearance of the present State and adopt the majority principle, it would really do nothing more than compete with Marxism on its own ground.
+For that reason it would not have the right to call itself a WELTANSCHAUUNG. If the social programme of the movement consisted in eliminating personality and putting the multitude in its place, then National Socialism would be corrupted with the poison of Marxism, just as our national-bourgeois parties are.
+
+*** [8 pp. 370]
+In its organization the State must be established on the principle of personality, starting from the smallest cell and ascending up to the supreme government of the country.
+
+** Peter Temin
+*** [9 pp. 17-18]
+Both governments reorganized industry into larger units, ostensibly to increase state control over economic activity. The Nazis reorganized industry into 13 administrative groups with a large number of subgroups to create a ~private~ public hierarchy for state control. The state therefore could direct the firms' activities without acquiring direct ownership of enterprises. The preexisting tendency to form cartels was encouraged to eliminate competition that would destabilize prices (Guillebaud, 1939, p. 55).
+The Soviets had made a similar move in the 1920s. Faced with a scarcity of administrative personnel, the state encouraged enterprises to combine into trusts and trusts to combine into syndicates (Gregory and Stuart, 1990, p. 61). These large units continued into the 193 0s where they were utilized to bridge the gap between overall plans and actual production.
+
+
+* Arguments and Counterarguments
+
+** Unions were abolished
+No, all private unions were nationalised and absorbed into the DAF, the german labour front.
+
+
+* Ref
+[0] Siedentop, L. “Inventing the Individual: The Origins of Western Liberalism.” Penguin Books, Kindle.
+[1] Fustel de Coulanges, “The Ancient City: A Study of the Religion, Laws, and Institutions of Greece and Rome.” Pantianos Classics, Kindle 2017, first published in 1877.
+[2] Oxford Dictionary of English, Oxford University Press, Third Edition 2010.
+[3] Livy, T. "Ab Urbe Condita, The History of Rome." Hackett Publishing Company, Kindle 2006.
+[4] https://latin-dictionary.net/definition/32212/publicus-publica-publicum
+[5] https://www.etymonline.com/word/public
+[6] https://dictionary.cambridge.org/dictionary/english/private-sector
+[7] Mises, L. V. Socialism
+[8] [[https://greatwar.nl/books/meinkampf/meinkampf.pdf][Hitler, A. Mein Kampf]]
+[9] [[https://ia800502.us.archive.org/34/items/sovietnazieconom00temi/sovietnazieconom00temi.pdf][Temin, P. Soviet and Nazi Economic Planning in the 1930s]]
