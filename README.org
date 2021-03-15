@@ -1,0 +1,12 @@
+#+TITLE:LiquidZulu/notes
+#+AUTHOR:LiquidZulu
+
+* Introduction
+This repo is for storing of various notes, annotations, and resource banks.
+* Folders
+** org
+=org= is for storing of various miscellaneous orgfiles, these are best viewed in Emacs, my [[https://github.com/hlissner/doom-emacs][Doom Emacs]] config can be found [[https://github.com/LiquidZulu/.doom.d][here]].
+*** resources
+=resources= is a folder for storing resource banks on various topics.
+** videos
+=videos= is where I keep all my annotations when studying a video, sorted by author.
