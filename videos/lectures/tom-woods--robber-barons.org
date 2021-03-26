@@ -1,0 +1,185 @@
+#+TITLE:The Robber Barons and the Progressive Era | Tom Woods
+#+HREF:https://youtu.be/-VA9VZeox3g
+#+AUTHOR:LiquidZulu
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medicine.csl
+#+DATE:2021-03-22 GMT Standard Time
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+
+* Referenced Texts
++ Charles Baird, "Labour Law Reform: Lessons from History" Cato Journal
++ Burton Folsom, The Myth of the Robber Barons
++ Folsom, Uncle Sam Can't Count
++ DiLorenzo, how capitalism saved america
++ Dominik Armetino, Antitrust and Monopoly
++ Reisman, Capitalism
++ Kolko, railroads and regulation
++ Kolko, the triumph of conservatism
++ Rob Bradley, Kolko Revisited
+
+
+* Cornelious Vanderbilt
+** Fulton/Livingstone monopoly
++ Lasted 30 years, they got it if they could get a boat up in 2 years
++ NJ based Gibbons hires vanderbilt to defy monopoly
++ Supreme court strikes monopoly down in Gibbons v Ogden
++ Fares go from $7 to $3
+** Vanderbilt goes lone
++ Seeing immense opportunity Vanderbilt splits up from Gibbons and establishes many routes of his own
++ NY to Philidelphia goes from $3 to $1
++ New Brunswick to NYC $0.06 plus free meals
++ eventually NY to albany becomes free
++ NY to providence $8 to $4 to $1
++ NY evening post calls vanderbilt "greatest practical anti-monopolist in the country"
++ Harpers Weekly says "What vanderbilt has done must be judged by the results and the results in every case of the establishment of opposition lines by vanderbilt has been the permenant reduction of fares."
+** British Subsidisation of Steam Ships
++ Late 1830s and into the 1840s british subsidises steam ships
++ Becomes fashionable to advocate the same thing in US to catch up
++ Edward collins promises he will outdo the british by building 5 ships if he can get 3million plus 800k per year
++ congress agrees and also gives 500k per year to 2 lines that would get mailed to cali, panama and back
++ Collins only builds 4 massive steam ships
++ notorious for luxury
++ not cost effective
++ Collins needs to go back for a bigger subsidy of 858k per year
++ kentuky congressman says that this increased subsidy had been brought about by "the most powerful and determined outside pressure I have ever seen brought to bare upon any legislative body"
++ meanwhile 1855 vanderbilt is still on the scene and he pledges that he can deliver the mail for less than half of what they pay collins, congress sticks to collins
++ in 1855 president franklin pierce vetos the collins subsidy bill that year
++ this is a suprise that a standard renewable subsidy would be stopped
++ pierce says to grant the subsidy would be "to deprive commercial enterprise of the benefits of free competition and to establish a monopoly in violation of the soundest principles of public policy and of doubtful compatibility with the competition"
++ congress got collins subsidy through by slipping it into a naval appropriations bill
+** vanderbilt still competes
++ comes up with all sorts of ways to save money to deliver mail along side carrying 2nd and 3rd class passengers
++ collins ships only had 1st class
++ subsidiesd california lines had a $600 fare to get to california
++ vanderbilt charged $150
++ 1856 2 out of 4 collins ships have sunk leading to ~500 people
++ collins spends 1million govt money to built huge replacement that made 2 trips and sold at 900k loss because it was too cumbersome
++ virginia senator says "the hole system was wrrong it ought to have been left like any other trade to competition"
++ kentuky says "give neither this line nor any other line a subsidy, let the collins line die"
+** 1858 collins subsidy revoked
++ he goes bankrupt
++ vanderbilt becomes leading operator of steam ships in america
+
+
+* James J Hill
+** Subsidised railroads
++ State subsidised railroads in 2 ways
+  1. land grants
+  2. low interest loans
++ granted in proportion to the amount of track laid
++ not concerned with the quality of the track
++ want the longest possible route
+** trans-continental railroad
++ 2 lines going to meet up; union pacific and central pacific
++ meet in utah
++ they realise that if they meet they dont get any more subsidies
++ they just build parallel to each other
++ start blowing up each others tracks
+** Hill gets no subsidies
++ comes from modests means --- worked in grocery store, blind in right eye
++ he and some canadian investors byu out incomplete and bankrupt line that they transform into the great northern
++ fares consistently go down
++ when others went bankrupt, hill succeeded
++ he wants to help settlers on his route but with no land grants he has to build his own market
++ imports thousands of cattle that he gives to settlers for free
++ establishes experimental farms to test new livestock seeds and equipment
++ very efficient
++ Cheif Engineer of union pacific says "I never saw so much needless waste in building railroads"
+** Hepburn act 1906
++ cheered by US history textbooks
++ enforces that railroads charges the same rates to all shippers
++ hill had been charges lower rates to those who were shipping to the west coast for selling to japanese and chinese
++ hill wanted to play some role in opening up eastern markets to US products
++ now everyone has to pay the higher, non discounted fare
++ around that time US exports to asia drop (wonder why)
+
+
+* Carnegie
++ reduced cost of steel rails by 90%
++ so efficient that 4000 people who worked at his homestead plant produced 3x the steel as the 15000 people at the Krupp steelworks in Germany
++ for a time carnegie did support tarriffs
+
+
+* Rockefellar
++ Reduced price of kerosine from $1 per gallon to $0.10 per gallon
++ in refining he comes up with 300 products to use oil waste
++ did not predatorially price
++ he bought out competitors instead
++ only had 25% market share by the time of the hearing
++ one guy opened 3 separate refineries selling each to rockefellar
++ the prices kept falling
+
+
+* Predatory Pricing
++ When you have driven out your competitors and have suffered imminse losses in doing so your now bankrupt competitors will sell their equipment to new competitors for pennies on the dollar making each subsequent wave of competition harder to defeat.
++ Whilst the monopoly is pricing predatorialy consumers will stock up on the product as it is so cheap
+** Chain store variant of predatory pricing
++ You have many locations all over the country in your chain
++ You can draw on the profits in other stores to predate in a single store
++ Lets stipulate you own megamart
++ you have 1000 locations and $1 Billion in capital so $1 million per store
++ can megamart use its entire fortune to expand in a single market?
++ lets say megamart makes $300k profit every year from a new store
++ then you capitalise that into the future and its worth an investment of $X < $1 Billion
++ we of course dont know the exact investment, X, but we know its finite
++ you can capitalise into the future the stream of income you expect to get from this store, this is not an infinite amount because there is time preference
++ So anyone who has $X will be just as competitive as megamart in this market
+** Built in way to stop predatory pricing
++ minimum and maximum price resale agreements
++ imagine walmart is offering cheap drugs to be the only drug dispenser in the country
++ what happens when walmart jacks their prices up?
++ fewer drugs are sold
++ Pfizer doesnt want fewer drugs sold
++ ergo pfizer has an incentive to stop walmart becoming a predator
++ pfizer can then build a minimum resale price into their agreement with walmart
++ imagine pfizer forgets to do this and now walmart is the only dispenser of drugs
++ pfizer can implement a maximum resale price in their contract
++ anti-trust laws FORBID the use of these agreements!
+** Flesh and blood example --- chemical magnate herbert dow
++ looking at chlorine and bromine
+*** Chlorine
++ selling at $3.50
++ dow gets in in the mid 1890s
++ at this time the british lower their price to $1.87
++ dow matches this
++ britain cuts to $1.65
++ dow matches
++ drop to $1.25 making a loss
++ other american firms drop out dow stays in
++ in 1903 the price goes to $1.04
++ dow stays in
++ the british say they will sell for $0.885
++ in 1904 dow enters into contracts saying that he will sell at $0.86
++ as soon as the contracts are locked in the british say they will sell at $1.25
++ he honors the contracts
+*** Bromine
++ germany is the prominent seller
++ germany sells at $0.49
++ dow sells at $0.36
++ he gets a visit from the german cartel and they tell him that they have evidence that hes been selling bromine in europe
++ he says yes
++ they tell him that the rule is that he cant do this and he does it anyway
++ they threaten him, saying they will drive him out
++ germans start selling at $0.15 in the US
++ dow decides to buy up their cheap bromine through an agent in the US
++ dow resells the bromine at $0.27 in europe
++ germans go down to $0.105
++ this pleases dow
++ before they figure out whats going on they meet with dow and tell him they will continue to flood the US with cheap bromine
++ eventually they figure out whats going on but they dont know how to stop him
++ dow says "when this 15 cent price was made over here intead of meeting it we pulled out of the american market and used all of our production to supply the foreign demand this as we afterword learned was not what they anticipated we would do. We are absolute dictators of the situation, one result of this fight was to give us a standing all over the world, we are in a much stronger position than we ever were"
++ Dows lawyer told him "your mind does not work according to any normal law"
+
+
+* Kolko
++ Kolko was a leftists and his work tried to show other leftists that reforming capitalism was impossible
++ because your attempt to reform would be hijacked by the people you are attempting to reform
++ businesses dominate the regulatory process
++ the triumph of conservatism in his mind is the progressive era
++ what he is saying is that what was actually happening was that competition was very vigorous
++ big established firms dont like this
++ at this time there was a well known merger movement
++ most mergers failed
++ firms now look to the state to protect them
++ kolko writes "In 1899 there were sixty-seven petroleum refiners in the United States, only one of whom was of any consequence. Over the next decade the number increased steadily to 147 refiners. Until 1900 the only significant competitor to Standard was the Pure Oil Company, formed in 1895 by Pennsylvania producers with $10 million capital…. By 1906 it was challenging Standard’s control over pipelines by constructing its own. And in 1901 Associated Oil of California was formed with $40 million capital stock, in 1902 the Texas Company was formed with $30 million capital, and in 1907 Gulf Oil was established with $60 million capital. In 1911 the total investment of the Texas Company, Gulf Oil, Tide Water-Associated Oil, Union Oil of California, and Pure Oil was $221 million. From 1911 to 1926 the investment of the Texas Company grew 572 percent, Gulf Oil 1,022 percent, Tide Water-Associated 205 percent, Union Oil 159 percent and Pure Oil 1,534 percent... As a matter of fact, it was very difficult for top firms to maintain their positions in a great many industries in the United States in the late nineteenth century. This was true of industries as diverse as oil, steel, iron, automobiles, agricultural machinery, copper, meat packing, and telephone services. Competition was extremely vigorous."
++

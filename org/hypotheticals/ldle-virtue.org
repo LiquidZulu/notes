@@ -1,0 +1,26 @@
+#+TITLE:Ldlework's Virtue Ethics WW2 Scenario
+#+AUTHOR:LiquidZulu
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medicine.csl
+#+DATE:2021-03-22 GMT Standard Time
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+
+* Short Summary, < 2000 chars
+With respect to virtue ethics all we really care about is the content of character and whether that character is ethical, with regards to some system.
+
+So imagine you are sitting on your couch at the start of WW2 and the thought occurs to you to kill Hitler. It's just a casual thought, but it does occur to you. Under this hypothetical, even though you're just a normal person, in your house, removed from the war, you've presented yourself with the moral quandary and how you come down on this matter bears just as much as it would if you were standing behind Hitler with a knife for whatever reason. And imagine your neighbor has this same thought and he decides to act on it by going off to war.
+
+If all we really care about is the content of character, and whether that character is ethical with regards to some system. Then it seems like whether you're standing behind hitler, or sitting on your couch that it speaks to one's character, the choices they wittingly make, for choices that are purely mindful and unintended, because the guy next door had the same exact experience and goes off to war.
+
+If we are to remove all consequentialism from virtue ethics, then only the content of the agent's mind matters. If you're sitting on your couch, and the question of whether you should stop what you're doing and go kill hitler arises, then you are making a choice just like any other agent would be making that choice. It doesn't matter the risk, difficulty, time, etc, as those are all consequentialist factors. The only thing that matters is, when faced with the choice of "will you go kill hitler", do you, with conviction, decide yes, or decide no?
+
+* Longer Version
+Let's try a hypothetical that attempts to *truly* extinguish /any/ consequentialism from virtue ethics.
+
+With respect to virtue ethics all we /really/ care about is the content of character and whether that character is ethical, with regards to some system. (ethical /standing/). But usually we take into account an agent's means and circumstance. But what if we entertain the hypothetical that: _the means and circumstances of agents is actually irrelevant to the ethical implications of their choices_.
+
+So imagine you are sitting on your couch at the start of WW2 and the question occurs to you "should I go kill Hitler?". It's just a casual thought, but it does occur to you. Under the hypothetical above, even though you're just a normal person, in your house, removed from the war, you've presented yourself with the moral quandary. How you come down on this matter bears just as much as it would if you were standing behind Hitler with a knife for whatever reason. It may seem like absurdism, but now imagine your neighbor has this same thought --- and he decides to act on it by going off to war. What's the first guy's excuse? Really.
+
+If all we really care about is the content of character, and whether that character is ethical with regards to some system (standing); then it seems like whether you're right behind Hitler, or sitting on your couch, that it speaks to one's character, the choices agents wittingly make, even if those questions are purely mindful and unintended . Afterall the guy next door had the same exact experience and indeed goes off to war.
+
+If we are to remove all consequentialism from virtue ethics, then only the content of the agent's mind matters. If you're sitting on your couch, and the question of whether you should stop what you're doing and go kill Hitler arises, then you are making a choice just like any other agent would be making that choice. It doesn't matter the risk, difficulty, time, etc, as those are all consequentialist factors. The only thing that matter is, when faced with the choice of "will you go kill hitler", do you, with conviction, decide yes, or decide no?
