@@ -1,0 +1,24 @@
+#+TITLE:"The Second Amendment to the Constitution of the United States of America Permits the Uninfringed Right to Bear Arms"
+#+AUTHOR:LiquidZulu
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medicine.csl
+#+DATE:2021-03-22 GMT Standard Time
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+
+* Position
+Affirmative
+
+* Episteme
+** Columbia v. Heller
+A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed.
+** Some state-ratified versions omitted the first or final commas, such as Maryland's
+A well regulated Militia being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed.
+** The ratification acts from New York, Pennsylvania, Rhode Island, and South Carolina contained only one comma, but with differences in capitalization. Pennsylvania's act states
+A well regulated Militia being necessary to the security of a free State, the right of the people to keep and bear Arms shall not be infringed.
+** The ratification act from New Jersey has no commas
+A well regulated Militia being necessary to the security of a free State the right of the people to keep and bear Arms shall not be infringed.
+
+* District of Columbia V. Heller
++ Determined that 2A protects an individual's right to keep and bear arms, unconnected with service in a militia, for traditionally lawful purposes, such as self-defense within the home,
++ and that the District of Columbia's handgun ban and requirement that lawfully owned rifles and shotguns be kept "unloaded and disassembled or bound by a trigger lock" violated this guarantee.
++ It also stated that the right to bear arms is not unlimited and that guns and gun ownership would continue to be regulated. It was the first Supreme Court case to decide whether the Second Amendment protects an individual right to keep and bear arms for self-defense or if the right was intended for state militias.

@@ -8,5 +8,9 @@ This repo is for storing of various notes, annotations, and resource banks.
 =org= is for storing of various miscellaneous orgfiles, these are best viewed in Emacs, my [[https://github.com/hlissner/doom-emacs][Doom Emacs]] config can be found [[https://github.com/LiquidZulu/.doom.d][here]].
 *** resources
 =resources= is a folder for storing resource banks on various topics.
-** videos
+*** flow
+=flow= contains my [[https://en.wikipedia.org/wiki/Flow_(policy_debate)][debate flow]] sorted by opponent, see "opponent name"/.org for information on each opponent.
+*** videos
 =videos= is where I keep all my annotations when studying a video, sorted by author.
+*** hypotheticals
+=hypotheticals= is where I store various interestig hypothecials I come accross.and that the District of Columbia's handgun ban and requirement that lawfully owned rifles and shotguns be kept "unloaded and disassembled or bound by a trigger lock" violated this guarantee.

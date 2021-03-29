@@ -1,0 +1,8 @@
+#+TITLE:Hypatia's Lantern debate flow
+#+AUTHOR:LiquidZulu
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medicine.csl
+#+DATE:2021-03-22 GMT Standard Time
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+
+This directory contains my flows for debates I have with [[https://www.youtube.com/channel/UCpsFfq5PlMGc8Wj72JyL_PA][Hypathia's Lantern]]

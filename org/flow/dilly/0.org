@@ -1,0 +1,35 @@
+#+TITLE:Why did dilly leave ancap.
+#+AUTHOR:LiquidZulu
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medicine.csl
+#+DATE:2021-03-28 GMT Summer Time
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+
+* Why not
++ environment
+  + leave it to market is inconsistent
+  + profit motive means saving envron not best interests
+  + oil companies successful
+  + people dying already 150k per year according to WHO
++ issues with deontology --- now act utilitarian
+  + trolley problem
+  + deontology says ought not pull the lever
+  + act utilitarianism is maximise fulfilment
+    + fulfilment is happiness that results from the realisation of predicated felings and desires
++ covenants
+  + why wouldnt people join
+    + exactly
+  + unjust economic hierarchy
+    + implicit coercion
+    + capitalist employment structure
+    + baseline above subsistence
+    + dont force hiring
++ state whither away
+  + abolish borders
+  + abolish nation states
+  + what limits power
+    + people armed
+    + accountability
+      + democratic
+        + time preference and robbing the minority
+          + democracy has problems
