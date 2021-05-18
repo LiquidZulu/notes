@@ -1,0 +1,385 @@
+#+TITLE:Your Facebook Friends Are Wrong About Health Care
+#+AUTHOR:LiquidZulu, Tom Woods
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medicine.csl
+#+DATE:2021-04-19 GMT Summer Time
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+
+* Introduction
++ Obamacare saves 0 lives, not 36000[fn:1]
++ CDC data show that in 2015, for the first time in 20 years, age-adjusted death rates increased.[fn:2]
++ Some states refused to implement Obama's expansion of medicare and they saw mortality rise slower than those that did.[fn:3]
+* Capter 1: How American Healthcare Became Dysfunctional
++ US Federal Government accounts for nearly 50% of all American healthcare expenditures[fn:4][fn:5]
++ Shift to 3rd party buyers (insurance companies) has made people insensitive to price, thereby pushing prices higher.[fn:6]
++ Americans who don't die in homicides or car accidents have a higher life expectancy than people in any other Western country.[fn:7]
++ woods writes[fn:8]
+#+begin_quote
+As for infant mortality, the United States counts every baby who shows any signs of life ashaving been born alive. Other countries are not so generous – in France and Belgium, forexample, a baby born at less than twenty-six weeks is registered as dead. In Switzerland, ababy has to be at least thirty centimeters long to be classified as living.[fn:9]
+#+end_quote
++ WW2 caused a massive decline in the labour force due to the draft, and at the same time the govt implemented price controls on wages. Businesses got around the restriction on wages by offering employer-provided medical insurance.
++ after the war unions baked this employer-provided insurance into their demands, which made nonunion businesses feel compelled to provide the same to avoid unionisation.[fn:10]
++ companies dont want the medical costs to rise but they have little they can do due to privacy; it's easy to pry as to why an employee is buying first-class tickets on the company card, but not so easy to investigate whether they need a particular treatment.[fn:11]
++ Vijay Boyapati writes;[fn:12]
+#+begin_quote
+The first practice I visited was a dermatologist’s office, which deals primarily withinsured customers and can afford to charge exorbitant rates. I explained to theassistant on my first consulting visit that I didn’t have health insurance—I choose not to—and asked how much the procedure would cost if I paid cash. She quoted me $700 for a riskless procedure that takes about 15 to 20 minutes to perform, and would not in this instance be performed by the dermatologist, but by the assistant herself....The fact that there are very basic procedures that cost the equivalent of $2,100 an hour is a glaring sign that the market’s normal price mechanism has been broken.
+
+On the recommendation of a friend, I decided to visit another medical practice, Country Doctor, which deals mostly with lower-income patients who do not have health insurance. Because its customers pay out of pocket, Country Doctor has a much stronger incentive to charge prices that its customers are willing to pay up front. When I had the procedure to remove the cyst done at Country Doctor, it was performed by an actual doctor, and it cost less than $50.​
+#+end_quote
++ In relation to medi-care/caid woods writes;[fn:13]
+#+begin_quote
+In 1960, government covered 21 percent of total medical expenditures, with consumers bearing 55 percent. In 2000, government covered 43 percent and consumers only 17 percent.​[fn:14]​ Naturally, costs rose dramatically under these conditions.
+#+end_quote
+in relation to restriction of supply[fn:15]
+#+begin_quote
+While some forms of government intervention, such as the ones we have examined thus far, produce an artificial stimulus to demand, others lead to higher medical costs as a result of artificial restrictions on supply. The American Medical Association, for example, restricts thenumber of medical candidates by means of its accreditation process for medical schools, with its decisions ratified by state governments. Nineteen states are limited to having /a single medical school/. We’re supposed to believe this restrictive policy was developed with only the public good in mind?
+
+The supply of medical services is also kept down by “certificate-of-need” (CON) regulation. Such regulation allows existing hospitals themselves to decide whether a “need” exists for additional hospitals in a particular area. Were such a privilege granted to existing firms in any other industry, its anti-competitive nature would be evident. Not surprisingly, CON regulation, which has also been used to block competition in related health professions like home health care and nursing, has been found to increase medical costs.
+
+Additional restrictions on market competition contribute still further to rising costs. For example, Americans are prohibited from purchasing medical insurance originating in states other than their own. Mandates that states impose on insurance companies put upward pressure on policy prices. Each of these mandates requires that insurance companies in a particular state provide coverage for a particular disorder or kind of treatment. Each mandate results in higher premiums and less consumer choice. People have no way to choose policies that suit them and must instead “insure” against the need for hair implants or massage therapy -- two examples of state mandates -- whether they want to or not.
+
+As of 2009, when Barack Obama began his second term, Rhode Island led the nation in mandates with 70. Idaho, with 13, had the fewest. That year there were a total of 2,133 mandates across the states, up from just 252 in 1979. These mandates make it difficult for people to find low-cost, high-deductible policies that can insure them against medical catastrophes. That’s one of the reasons so many people have chosen to forego insurance coverage in the first place. A young person finds it silly to spend $300 per month on medical services he won’t need or use, just so he can save 80 percent on routine doctor visits.​[fn:16]
+#+end_quote
+in relation to the insensitivity to cost on the part of the consumer[fn:17]
+#+begin_quote
+The Obama plan establishes state-based exchanges where small businesses and uninsured individuals can purchase insurance. Not one of the plans offered at these exchanges provides only catastrophic coverage, the sensible option that would be available to consumers on the free market. Instead, they all cover even routine health expenses, thereby causing individuals to be as heedless of cost as ever, and continuing the perversion of the concept of “insurance” whereby people are to be “insured” against events like checkups that are certain to occur. High-deductible, catastrophic plans are also penalized by the establishment of deductible caps and the prohibition of co-payments for preventative care, which will make such policies more expensive. Meanwhile, research finds that high-deductible, catastrophic plans putstrong downward pressure on health-care costs, lead consumers to be much more cost conscious, and still deliver the same amount of necessary care that people who hold more standard insurance policies receive.[fn:18]
+#+end_quote
+more regs;[fn:19]
+#+begin_quote
+The most obvious problem with the recently enacted health-care legislation is the incentivestructure it creates for the uninsured, and indeed even for many of the presently insured.Individuals are subject to financial penalties for not purchasing health insurance policies thatmeet government standards. But the penalties are far lower than the cost of purchasing suchpolicies. That means it is less expensive for people to remain (or become) uninsured andsimply pay the corresponding penalty. They can get away with doing so because under thenew law, insurers are required to (1) enroll everyone who applies (“guaranteed issue”), (2)cover pre-existing conditions, and (3) adopt a policy known as “community rating,” in whichthey must charge the same premium to all, with minor exceptions for geographical area, age,and whether the plan covers an individual or a family. (And insurance companies areregulated in how large the differential can be between, say, very young and very oldcustomers; the elderly, whose medical bills are far higher and of greater quantity than thoseof the young, may be charged a premium only twice as high.) It therefore makes sense forpeople not to purchase health insurance, wait until they become ill, and then purchase aninsurance plan—their current illness being a “pre-existing condition” that insurancecompanies would be required to cover.
+#+end_quote
++ insurance companies make 2.2 cents on the dollar in profit
++ a quote[fn:20]
+#+begin_quote
+In 2006, Massachusetts instituted an individual mandate along with guaranteed issue and community rating. The result was major losses among insurers, which led to lower payments to hospitals and large group practices. Insurers and hospitals found themselves on the verge of going out of business. Residents, meanwhile, faced an ongoing rise in premiums. State Treasurer Timothy Cahill said the program had been a “fiscal train wreck,” costing more than $4 billion --- over 11 times the initial projection.[fn:21]
+#+end_quote
+another[fn:21]
+#+begin_quote
+On top of this, insurance companies will not be allowed to impose lifetime limits on coverage—e.g., $2 million or $6 million, as in many popular plans. The insured must beallowed to consume as much as they need, forever. Insurance companies will also be forced to cover the children of the insured until age twenty-six. Some “children”! All of this means higher premiums, naturally, and less consumer choice. By October 2010 some health insurance premium rates in Connecticut had already risen 47 percent in response to the new law, and Well-Point, the country’s largest insurer, found the average premium for a 25-year-old man likely to rise by 155 percent in Richmond, Virginia, and by 300 percent in Louisville, Kentucky.[fn:22]
+#+end_quote
+
+** Lodge Practice, From Mutual Aid to the Welfare State Fraternal Societies and Social Services, 1890-1967 by David T. Beito
+*** Development
+**** 109-110
+#+begin_quote
+The slow development of lodge practice in the United States was in notable contrast to the growth of similar activities in Great Britain and Australia. More than half of wage earners in the latter countries may have had access to doctors from friendly societies before World War I. In part, American laggardness was the consequence of a different fraternal tradition. The British and Australian friendly societies always kept a near-exclusive focus on sick benefits. This may have offered a firmer foundation for the development of medical service plans. Demographic factors also were influential. Lodge practice may have been more feasible in Great Britain because of the higher population density, which made it easier for each doctor to serve large numbers of patients. In other words, the Americans could have been slower to adopt lodge practice for the same reasons that they took so much longer to embrace fraternal organizations.[fn:23][fn:24][fn:25]
+#+end_quote
+*** Medical response
+**** pg 109
+#+begin_quote
+Shortly after the turn of the century, articles about the “lodge practice evil” began to fill the pages of American medical journals. This term referred to a new method by which fraternal societies extended low-cost medical services to members. The usual approach was for a doctor to give basic health care in exchange for a salary based on the size of the membership. For obvious reasons, lodge practice was a popular innovation among members of fraternal societies. It inspired equally strong opposition, however, from key leaders in the medical profession. These critics charged that lodge practice posed a danger to prevailing fees and subjected doctors to the exploitative whims of the laity.
+#+end_quote
+**** pg 115-116
+#+begin_quote
+Regardless of religious, ethnic, or political orientation, all fraternal societies, to the extent they provided medical services, faced similar obstacles. The most serious, without a doubt, was the organized opposition of physicians. The spread of the lodge practice evil elicited nearly universal condemnation from medical societies. Reflecting the intensity of feeling, the /Pennsylvania Medical Journal/ bluntly demanded in 1904 “that the ‘club doctor’ must be shut out of the profession.”[fn:26]
+
+At its core this antipathy represented fear for the survival of fee-for-service remuneration. Dr. W. F. Zierath of Sheboygan, Wisconsin, succinctly summed up the matter when he chided his colleagues for bowing to “the keen business instinct of the laity” who had “discovered in contract practice a scheme to obtain medical services for practically nothing.” Once doctors allowed nonprofessionals to place them on fixed salaries, Zierath and others cautioned, loss of both income and independence would follow. The profession would then become tainted and demoralized by every physician’s “undignified” scramble to “sell himself to the lowest bidder.” Another opponent predicted that lodge practice, if not stopped, would depress fees to levels “comparable to those of the bootblack and peanut vendor.”[fn:27]
+
+No opprobrium was off limits in depictions of the lodge doctor. He was a “scab” who broke ranks with professional solidarity, an incompetent “quack” spewed out by a low-grade diploma mill, and most unforgivably, a “huckster” bent on commercializing the noble art of medicine. Critics were quick to add, however, that lodge practice also harmed the patient who, in return for these low fees, received shabby service. It was a vain attempt, charged one opponent, to get “something for nothing.” Another cited “the consensus of opinion that physicians generally give fraternal organizations their money’s worth, no more.”[fn:28][fn:29][fn:30][fn:31][fn:32]
+#+end_quote
+**** pg 125
+#+begin_quote
+There was less willingness, however, to find extenuating circumstances for the lodge doctor. Dr. John B. Donaldson of Canonsburg, Pennsylvania, spoke for many: “As to lodge practice, to my mind it is simply contemptible and I see no excuse for its existence.” The double standard did not escape the attention of lodges. An editorial in the Eagle Magazine claimed, with some exaggeration, that there were “few professional protests” against company doctors. “Does it make a difference,” it asked, “whether the employer [of contract doctors] is a wealthy corporation, or a fraternity of humble citizens, most of them wage earners?”[fn:33][fn:34]
+#+end_quote
+*** A Defense of Lodge Practice
+**** pg 117
+#+begin_quote
+The leading beneficiary of lodge practice was, of course, the patient of modest means. He or she was able to obtain a physician’s care for about $2.00 a year, roughly equivalent to a day’s wage for a laborer. For comparable amounts, some lodges extended coverage to family members. The remuneration the lodge doctor received was a far cry from the higher fee schedules favored by the profession. The local medical society in Meadville, Pennsylvania, was typical in setting the following minimum fees for its members: $1.00 per physical examination, surgical dressing, and daytime house call and $2.00 per nighttime house call. Such charges, at least for ongoing service, were beyond the reach of many lower income Americans. Hence it was not coincidental, an editorial in the /Medical Council/ pointed out, that lodge practice thrived in communities populated by the working poor.[fn:35][fn:36][fn:37][fn:38][fn:39][fn:40]
+
+Moreover, had it not been for the competition offered by fraternal societies, official fees probably would have been still higher. In this vein Dr. Charles S. Sheldon complained that lodge practice “demoralizes the scale of prices in a profession already too poorly paid. It causes dissatisfaction among those outside the lodges and makes them unwilling to pay regular prices.”[fn:41][fn:42]
+#+end_quote
+**** pg 118
+#+begin_quote
+Inspection of the medical journals gives some cause for skepticism of blanket assertions that lodges heedlessly sacrificed quality to elect candidates with the lowest fee. The contrary, in fact, occurred in a campaign described by lodge practice adversary Dr. George S. Mathews of Providence, Rhode Island: “In one lodge two members in good standing in the State Medical Society openly in lodge meeting underbid the one the other [sic]. One volunteered his services at $2 a head. The other dropped his price to $1.75. The first bidder then acceded to this price with medicines furnished. This occasioned a drop in bidder No. 2 in his price to include medicine and minor surgery. To the vast credit of the lodge neither bid was accepted but a non-bidder was given the job at $2.” In another case a Moose lodge asked the national organization to increase the salary of a doctor deemed particularly deserving.[fn:43][fn:44]
+#+end_quote
+*** The War on Lodge Practice
+**** pg 124
+#+begin_quote
+By the 1920s, lodge practice had entered a steep decline from which it never recovered. Large segments of the medical profession had launched an all-out war. Throughout the country, state societies imposed manifold sanctions against physicians who accepted lodge contracts. The medical societies of several states, including Pennsylvania, Michigan, California, Maine, and Vermont, recommended that offenders be barred from membership. “The evil is such a far-reaching one,” warned the Journal of the Michigan State Medical Society, “that any measures to suppress it are justifiable.” Other state professional organizations, such as those of West Virginia and Illinois, favored less draconian pressure on practitioners to sign pledges spurning lodge contracts.[fn:45][fn:46][fn:47][fn:48][fn:49][fn:50]
+#+end_quote
+**** pg 125
+#+begin_quote
+County, rather than state, societies formed the vanguard of the movement to suppress lodge practice. The prototypical campaign began with the request that a doctor sign an agreement shunning lodge contracts or, at least, not provide services for fees under the “customary” rate. Sometimes this method worked, at least for a while. If the pariah failed to relent, he faced more serious retribution, such as forfeiture of membership or a boycott. In 1913, for example, members of the medical society in Port Jervis, New York, vowed that if any physician took a lodge contract, they would “refuse to consult with him or assist him in any way or in any emergency whatever.” Sometimes the boycotts extended to patients. One method of enforcement was to pressure hospitals to close their doors to members of the guilty lodge. By 1914, in the Journal of the American Medical Association Dr. Robert Allen could write, with but slight exaggeration, “There is scarcely a city in the country in which medical societies have not issued edicts against members who accept contracts for lodge practice.”[fn:51][fn:52][fn:53][fn:54][fn:55][fn:56][fn:57][fn:58][fn:59][fn:60][fn:61][fn:62][fn:63][fn:64]
+
+Reports in the medical journals suggest that these restrictions were effective. One example occurred in Bristol, Pennsylvania, where local physicians boycotted the lone lodge doctor in the area. As word of the campaign spread, “patrons gradually withdrew from him, his calls for attendance were few, and this last summer he quietly left the town and vicinity.” In a similar case a member of the Loyal Order of Moose in Fort Dodge, Iowa, charged that doctors in his community had run the local lodge “into the ground” by going on strike.[fn:65][fn:66]
+#+end_quote
+*** The Dying Lodge
+**** pg 126
+#+begin_quote
+As the medical profession tightened the noose around lodge practice, fraternal societies reacted with mounting frustration. In 1910 a national official of the foe bemoaned that a “great many of our Subordinate [lodges][fn:67] have encountered no end of trouble during the last year trying to secure the services of a competent physician. Medical associations and societies every where have placed their mark of disapproval on the Aerie physician.” Two years later the supreme leader of the Loyal Order of Moose complained of the “utter impossibility” for many lodges “to procure a competent physician under the terms provided by the laws of the Order.”[fn:68][fn:69]
+
+Fraternal societies tried to counterattack by coordinating efforts to import physicians from outside the community. This worked on occasion but, in general, was far too expensive and cumbersome. A few lodges contemplated payment of fees high enough to pass muster with the medical societies, but for the vast majority the expense was prohibitive. By the second decade of the twentieth century, stepped-up pressure from doctors motivated many orders to rethink and then reluctantly abandon lodge practice.[fn:70][fn:71][fn:72]
+#+end_quote
+**** pg 127
+#+begin_quote
+A court verdict in Montana significantly altered the situation. The details illustrate the difficulties faced by the proponents of lodge practice. The incident began when Clarence A. Case, an operator for the Associated Press, sought admission for an operation at the St. John’s Hospital in Helena. Because the hospital did not employ physicians, it required patients to contract with and pay for their own doctors. Case selected Dr. John G. Thompson. The hospital managers denied admission to Case on the ground that the Lewis and Clark Medical Society had found his doctor guilty of unethical behavior. The sole charge against Thompson was that he had served as lodge doctor for both the foe and the Loyal Order of Moose. Later that day, St. Peter’s, another Catholic hospital in Helena, used the same justification to deny admission to Case. Case was one of Thompson’s private patients. He was not a member of the foe.[fn:73]
+
+Within a few days Thompson had filed suit in the district court to compel the hospital to admit Case. His attorney asserted that the action of the medical society was “simply a movement on the part of the doctors to so throttle and so coerce the hospitals in this city that they were compelled to assent to this agreement or else suffer a boycott.” The suit also alleged that the hospital, as a tax-exempt charitable corporation, had an obligation to admit all licensed physicians in the state. Not surprisingly, Thompson obtained the enthusiastic support of the local lodges of the foe and the Loyal Order of Moose. Four members of the Lewis and Clark Medical Society testified against him.[fn:74][fn:75]
+#+end_quote
+**** pg 128
+#+begin_quote
+Lodge practice was also a victim of an overall shrinkage in the supply of physicians due to a relentless campaign of professional “birth control” imposed by the medical societies. In 1910, for example, the United States had 164 doctors per 100,000 people, compared with only 125 in 1930. This shift occurred in great part because of increasingly tight state certification requirements. Fewer doctors not only translated into higher medical fees but also weaker bargaining power for lodges. Meanwhile, the number of medical schools plummeted from a high of 166 in 1904 to 81 in 1922. The hardest hit were the proprietary schools, a prime recruiting avenue for lodges.[fn:76][fn:77][fn:78]
+#+end_quote
+
+** Lodge Practice, Your FB Friends Are Wrong About Health Care
+*** Historian Allan Matusow notes;[fn:79]
+#+begin_quote
+Most of the government’s medical payments on behalf of the poor compensated doctors and hospitals for services once rendered free of charge or at reduced prices....Medicare-Medicaid, then, primarily transferred income from middle-class taxpayers to middle-class health-care professionals.
+#+end_quote
+*** pg 11
+#+begin_quote
+Author Jacob Hornberger recalls growing up in Laredo, Texas, in the 1950s, at a time when the Census Bureau had labeled that city the poorest in the country on a per-capita income basis. Yet according to Hornberger, “I never knew of one single doctor who turned people away. They treated everyone who came into their office. I never heard of a doctor complaining about having to provide free services to the poor.”​[fn:80]
+
+And how were doctors doing in those days?
+
+“They were among the wealthiest people in town,” Hornberger says. “The money they made from the middle class and the wealthy and the poor who could pay subsidized the patients who couldn’t pay.” Those who received free care were grateful to receive it, and typically brought the doctor in-kind gifts.
+#+end_quote
+*** pg 12
+#+begin_quote
+To be sure, there /are/ measures that can be taken to rein in health-care costs. Employers should be free to offer their workers a choice between continuing to receive employer-provided medical insurance or instead receiving the tax-free cash equivalent of the present average cost of such insurance (say, $10,000 to $15,000, indexed for inflation). This change would make clear to employees that the money an employer pays for their medical insurance comes out of their own pockets in the form of lower salaries. (Right now, most workers doubtless consider their fringe benefits to be “free.”) If the employee chooses the tax-free income, he would then have a much greater incentive to carry only a high-deductible policy. That is, since he can pocket any money he doesn’t spend on his policy, he has an incentive to keep that policy inexpensive. High-deductible policies, in turn, make people more cost conscious, since more of their medical expenses come out of their own pockets. And under this arrangement, the typical worker would save more than enough to pay the full deductible on whatever insurance policy he may choose to purchase (should he even need that much medical attention in a year), with money to spare.​[fn:81]
+#+end_quote
+
+* Footnotes
+
+[fn:81]
+Ibid[fn:10]
+
+[fn:80]
+This section relies on Jacob Hornberger, “Free-Market Health Care and the Poor,” May 31,2010, available at http://www.campaignforliberty.com/article.php?view=899
+
+[fn:79]
+Allen J. Matusow, /The Unraveling of America: A History of Liberalism in the 1960s/ (Athens,GA: University of Georgia Press, 2009 [1984]), 230, 231-32.
+
+[fn:1]
+[[http://www.nationalreview.com/article/445260/obamacare-no-lives-saved][Oren Cass, “No, Obamacare Has Not Saved American Lives”]]
+
+[fn:2]
+Ibid[fn:1]
+
+[fn:3]
+Ibid[fn:1]
+
+[fn:4]
+https://data.oecd.org/healthres/health-spending.htm
+
+[fn:5]
+https://commons.wikimedia.org/wiki/File:OECD_health_expenditure_per_capita_by_country.svg
+
+[fn:6]
+This book pg 5
+
+[fn:7]
+Sally C. Pipes, ​The Truth About Obamacare​ (Washington, D.C.: Regnery, 2010), 16-17.
+
+[fn:8]
+pg 5
+
+[fn:9]
+Ibid[fn:7]
+
+[fn:10]
+George Reisman, “The Real Right to Medical Care Versus Socialized Medicine,” /Mises Daily/, August 6, 2009, available at http://mises.org/daily/3613
+
+[fn:11]
+Vijay Boyapati, “What’s Really Wrong with the Healthcare Industry,” /Mises Daily/, May 26,2010, available at http://mises.org/daily/4434.
+
+[fn:12]
+Ibid[fn:11]
+
+[fn:13]
+pg 7
+
+[fn:14]
+Ibid[fn:10]
+
+[fn:15]
+Ibid[fn:6] pg 7
+
+[fn:16]
+Ibid[fn:7]
+
+[fn:17]
+pg 8
+
+[fn:18]
+pipes 160, 162-63.
+
+[fn:19]
+pg 8
+
+[fn:20]
+pg 9
+
+[fn:21]
+pipes 92-97.
+
+[fn:22]
+Hans Bader, “Obamacare Results in 47 Percent Premium Hike,” OpenMarket.org, October 17, 2010, available at http://www.openmarket.org/2010/10/17/obamacare-results-in-47-percent-premium-hike/; Pipes, ​The Truth About Obamacare​, 186-87.
+
+[fn:23]
+David G. Green, /Working-Class Patients and the Medical Establishment: Self-Help in Britain from the Mid-Nineteenth Century to 1948/ (New York: St. Martin’s Press, 1985), 93
+
+[fn:24]
+David G. Green and Lawrence G. Cromwell, /Mutual Aid or Welfare State: Australia’s Friendly Societies/ (Sydney: Allen and Unwin, 1984), xv, 94
+
+[fn:25]
+Susan Keen, “Associations in Australian History: Their Contribution to Social Capital,” /Journal of Interdisciplinary History 29/ (Spring 1999): 639 – 59.
+
+[fn:26]
+“An Example That Should Be Followed,” /Pennsylvania Medical Journal/ 8 (November 1904): 107.
+
+[fn:27]
+Zierath, “Contract Practice,” 150; “Contract Practice,” /West Virginia Medical Journal/, 426; Burrow, Organized Medicine, 126.
+
+[fn:28]
+John McMahon, “The Ethical versus the Commercial Side of Medical Practice --- Which Will We Serve?,” California State Journal of Medicine 8 (July 1910): 243
+
+[fn:29]
+John B. Donaldson, “Contract Practice,” Pennsylvania Medical Journal 12 (December 1908): 212–214
+
+[fn:30]
+“A New Shame,” California State Journal of Medicine 7 (June 1909): 194
+
+[fn:31]
+“Discussion, Dr. F. F. Lawrence, of Columbus,” Bulletin of the American Academy of Medicine 10 (December 1909): 637
+
+[fn:32]
+Holtzapple, “Lodge Practice,” 536.
+
+[fn:33]
+Donaldson, “Contract Practice,” 212.
+
+[fn:34]
+“Shall We Have the Community Doctor?,” 4.
+
+[fn:35]
+“Contract Practice,” West Virginia Medical Journal, 425
+
+[fn:36]
+Straub Sherrer, “The Contract Physician: His Use and Abuse,” /Pennsylvania Medical Journal/ 8 (November 1904):106
+
+[fn:37]
+“No Contract Practice for Meadville,” /Pennsylvania Medical Journal/ 13 (November1909): 148
+
+[fn:38]
+George Rosen, /The Structure of American Medical Practice/, 1875 – 1941 (Philadelphia: University of Pennsylvania Press, 1983), 99
+
+[fn:39]
+Goldwater, “Dispensaries,” 614 – 15.
+
+[fn:40]
+“We cannot escape from the fact that these poor people are not able to pay the most modest fee where continuous treatment is  necessary” (“The Vexed Question --- Lodge Practice,” /New York State Journal of Medicine/ 13 (November 1913): 562)
+
+[fn:41]
+ Charles S. Sheldon, “Contract Practice,” /Bulletin of the American Academy of Medicine/ 10 (December 1909): 590.
+
+[fn:42]
+Referring to competition from the lodge doctor, an editorial in the /Illinois Medical Journal/ warned that “where rate cuts begin there is no limit to the depth of the cut and finally all practitioners and the community suffer” (“Contract Practice,” /Illinois Medical Journal/ 22 [November 1907]: 505).
+
+[fn:43]
+Mathews, “Contract Practice,” 604.
+
+[fn:44]
+Loyal Order of Moose, /Minutes/ (1921), 205.
+
+[fn:45]
+Burrow, /Organized Medicine/, 131.
+
+[fn:46]
+“Contract Practice,” /Journal of the Medical Society of New Jersey/, 336.
+
+[fn:47]
+/Pennsylvania Medical Journal/ 14 (November 1910): 152.
+
+[fn:48]
+Editorial, /Journal of the Michigan State Medical Society/ 8 (December 1909): 596.
+
+[fn:49]
+“Contract Practice,” /West Virginia Medical Journal/, 426.
+
+[fn:50]
+“Contract Practice,” /Illinois Medical Journal/, 504.
+
+[fn:51]
+“Vexed Question,” 561 – 63.
+
+[fn:52]
+Albert T. Lytle, “Contract Medical Practice: An Economic Study,” /New York State Journal of Medicine/ 15 (March 1915): 106.
+
+[fn:53]
+On the pressures exerted by various local societies against lodge doctors, see Burrow, /Organized Medicine/, 126 – 32
+
+[fn:54]
+“Medical Ethics and County By-Laws,” /Texas State Journal of Medicine/ 8 (February 1913): 257 – 58.
+
+[fn:55]
+“Contract Practice,” /Journal of the Medical Society of New Jersey/, 336.
+
+[fn:56]
+“Contract Practice,” /West Virginia Medical Journal/, 426.
+
+[fn:57]
+“Discussion, Dr. J. K. Weaver, Norristown,” /Bulletin of the American Academy of Medicine/ 10 (December 1909): 631 – 32.
+
+[fn:58]
+“Contract Practice,” /California State Journal of Medicine/ 4 (February 1906): 44 – 45.
+
+[fn:59]
+Rene Bine, “Contract Practice,” /California State Journal of Medicine/ 10 (February 1912): 52.
+
+[fn:60]
+“Contract Practice,” /Medical Council/ 19 (October 1914): 398.
+
+[fn:61]
+“An Example That Should Be Followed,” 107.
+
+[fn:62]
+“No Contract Practice for Meadville,” 148.
+
+[fn:63]
+“Report of the Committee on Lodge Practice,” /Pennsylvania Medical Journal/ 15 (October 1911): 57.
+
+[fn:64]
+Fraternal Order of Eagles, /Journal of Proceedings/ (1912), 204 – 5.
+
+[fn:65]
+Howard Pursell, letter, “Lodge Practice,” /Pennsylvania Medical Journal/ 14 (December 1910): 237.
+
+[fn:66]
+Loyal Order of Moose, /Minutes/ (1913), 164.
+
+[fn:67]
+FOE refer to their lodges as "Aeries," which was the original text. See: https://www.foe.com/About-The-Eagles/Aerie-Locator
+
+[fn:68]
+Fraternal Order of Eagles, /Journal of Proceedings/ (1910), 185.
+
+[fn:69]
+“Report of the Supreme Dictator,” /Call of the Moose/ 4 (September 1912): 4.
+
+[fn:70]
+Fraternal Order of Eagles, /Journal of Proceedings/ (1905), 106, and (1911), 152.
+
+[fn:71]
+Loyal Order of Moose, /Minutes/ (1913), 164.
+
+[fn:72]
+Loyal Order of Moose, “Report of the Supreme Dictator,” 4.
+
+[fn:73]
+/Helena Independent/, August 3, 4, 1911.
+
+[fn:74]
+Ibid[fn:73], August 4, 10, 13, 15, 1911.
+
+[fn:75]
+/State of Montana, ex rel. John G. Thompson v. St. Mary’s Female Academy/, in the District Court of the First Judicial District of the State of Montana, in and for the County of Lewis and Clark, Petition for Writ of Mandate, August 2, 1911, Lewis and Clark County Courthouse, Helena, Mont.
+
+[fn:76]
+Starr, /Social Transformation/, 120 – 21, 126
+
+[fn:77]
+Markowitz and Rosner, “Doctors in Crisis,” 95 – 107
+
+[fn:78]
+Todd L. Savitt, “Abraham Flexner and the Black Medical Schools,” in /Beyond Flexner: Medical Education in the Twentieth Century/, ed. Barbara Barzansky and Norman Gevitz (New York: Greenwood, 1992), 73 – 79.

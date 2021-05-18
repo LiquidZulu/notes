@@ -1,0 +1,365 @@
+#+TITLE:Notes on /Apocalypse Never: How Environmental Alarmism Hurts Us All/ by Michael Shellenberger
+#+AUTHOR:LiquidZulu
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medicine.csl
+#+DATE:2021-04-14 GMT Summer Time
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+
+* Climate Change
+** Factoids
++ nearly half of Britons supported XR at one point[fn:1]
++ a 2019 survey of 30 000 people around the world found that 48% believed that climate change would make the humanity extinct[fn:2]
++ post-tube protest a /This Morning/ host said that 95 percent of people surveyed now said Extinction Rebellion was a hindrance to its cause.[fn:3]
+** Contradictions
++ Shellenberger writes;[fn:4]
+#+begin_quote
+Toward the end of /This Morning/, the cohosts did something odd: they
+appeared to agree with Extinction Rebellion’s Sarah Lunnon about climate
+change.
+
+“We are all hugely concerned and want to support you,”[fn:5] said one of
+them. “Without question there is an enormous crisis,”[fn:6] said the other.
+
+/Wait, what?/ I couldn’t understand what they were saying. If the
+television hosts agreed that climate change was an enormous crisis, one in
+which “billions of people are going to die,” how could they possibly be
+upset about commuters being late for work?
+
+The Sky News host responded similarly.[fn:7] “I’m not trying to say that it’s
+not deeply concerning,” said the host. “The environment. But his very
+specific pain about not seeing his father. He might not think that’s
+comparable.”
+
+But how could the disappointment of a single man possibly be
+comparable to “mass death, mass famine, and starvation”?
+
+If “Life on Earth is dying,” why did anybody care that somebody got
+splashed with a little beet juice?
+
+Even if climate change were “only” going to kill millions of people,
+rather than billions, then the only reasonable conclusion to draw from
+Extinction Rebellion’s tactics is that they weren’t radical enough.
+
+To be fair, the ITV and Sky News hosts didn’t agree with Lunnon’s
+extreme statements. They simply said they shared her concern about
+climate change.
+
+But what, then, did they mean when they said climate change “is an
+enormous crisis”? If climate change isn’t an existential crisis, meaning a
+threat to human existence, or at least to civilization, then what kind of a
+crisis is it, exactly?
+#+end_quote
+** "10 Years"
+*** The Perception
+Shellenberger writes;[fn:8]
+#+begin_quote
+If you scanned the websites of two of the world’s most read newspapers on
+October 7, 2018, you might have feared the end of the world was near. A
+headline in The New York Times said: “Major Climate Report Describes a
+Strong Risk of Crisis as Early as 2040.” Just below the bold headline was a
+photograph of a six-year-old boy playing with a dead animal’s bones.[fn:9]
+Said another headline in The Washington Post on the very same day: “The
+World Has Just Over a Decade to Get Climate Change Under Control, U.N.
+Scientists Say.”[fn:10]
+
+Those stories in The New York Times, The Washington Post, and other
+media outlets around the world were based on a special report from the
+Intergovernmental Panel on Climate Change (IPCC), which is a United
+Nations body of 195 scientists and other members from around the globe
+responsible for assessing science related to climate change.
+
+Two more IPCC reports would follow in 2019, both of which warned of
+similarly dire consequences: worsening natural disasters, sea-level rise,
+desertification, and land degradation. Moderate warming of 1.5 degrees
+Celsius would cause “long-lasting or irreversible” harm, they said, and
+climate change might devastate food production and landscapes. The New
+York Times reported that planetary warming threatens to worsen resource
+scarcity, and “floods, drought, storms and other types of extreme weather
+threaten to disrupt, and over time shrink, the global food supply.”[fn:11]
+
+A NASA scientist predicted simultaneous collapses of food systems on
+multiple continents at once. “The potential risk of multi-breadbasket
+failure is increasing,” she told The New York Times. “All of these things
+are happening at the same time.”
+
+An IPCC report on climate change and land in August 2019, prepared by
+more than a hundred experts from fifty-two countries, warned that “the
+window to address the threat is closing rapidly,” and that “soil is being lost
+between ten and one hundred times faster than it is forming.”[fn:12]
+
+Farmers will not be able to grow enough food to support the human
+population, scientists warned. “It’s difficult to see how we could
+accommodate eight billion people or maybe even half of that,” an
+agronomist said.[fn:13]
+
+“We can adapt to this problem up to a point,” said Princeton
+University’s Michael Oppenheimer, an IPCC contributor. “But that point is
+determined by how strongly we mitigate greenhouse-gas emissions.” If
+emissions rise through 2050, then sea level rise will likely exceed 2 feet 9
+inches by 2100, at which point “the job will be too big. . . . It will be an
+unmanageable problem.”[fn:14]
+
+Too much warming could trigger a series of irreversible tipping points,
+experts said. For example, sea level rise could be slowing the circulation
+of water in the Atlantic Ocean, which could change surface temperatures.[fn:15]
+Arctic permafrost covering an area nearly the size of Australia could thaw
+and release 1,400 gigatons of carbon into the atmosphere.[fn:16] The glacier on
+the continent of Antarctica could collapse into the ocean. If that happens,
+sea level could rise thirteen feet.[fn:17]
+#+end_quote
+*** The Reality
+Shellenberger writes;[fn:18]
+#+begin_quote
+What the IPCC had actually written in its 2018 report and press release
+was that in order to have a good chance of limiting warming to 1.5 degrees
+Celsius from preindustrial times, carbon emissions needed to decline 45
+percent by 2030. The IPCC did not say the world would end, nor that
+civilization would collapse, if temperatures rose above 1.5 degrees
+Celsius.[fn:19]
+
+Scientists had a similarly negative reaction to the extreme claims made
+by Extinction Rebellion. Stanford University atmospheric scientist Ken
+Caldeira, one of the first scientists to raise the alarm about ocean
+acidification, stressed that “while many species are threatened with
+extinction, climate change does not threaten human extinction.”[fn:20] MIT
+climate scientist Kerry Emanuel told me, “I don’t have much patience for
+the apocalypse criers. I don’t think it’s helpful to describe it as an
+apocalypse.”[fn:21]
+
+An AOC spokesperson told Axios, “We can quibble about the
+phraseology, whether it’s existential or cataclysmic.” But, he added,
+“We’re seeing lots of [climate change–related] problems that are already
+impacting lives.”[fn:22]
+
+But if that’s the case, the impact is dwarfed by the 92 percent decline in
+the decadal death toll from natural disasters since its peak in the 1920s. In
+that decade, 5.4 million people died from natural disasters. In the 2010s,
+just 0.4 million did.[fn:23] Moreover, that decline occurred during a period
+when the global population nearly quadrupled.
+
+In fact, both rich and poor societies have become far less vulnerable to
+extreme weather events in recent decades. In 2019, the journal Global
+Environmental Change published a major study that found death rates and
+economic damage dropped by 80 to 90 percent during the last four
+decades, from the 1980s to the present.[fn:24]
+
+While global sea levels rose 7.5 inches (0.19 meters) between 1901 and
+2010,[fn:25] the IPCC estimates sea levels will rise as much as 2.2 feet (0.66
+meters) by 2100 in its medium scenario, and by 2.7 feet (0.83 meters) in
+its high-end scenario. Even if these predictions prove to be significant
+underestimates, the slow pace of sea level rise will likely allow societies
+ample time for adaptation.
+
+We have good examples of successful adaptation to sea level rise. The
+Netherlands, for instance, became a wealthy nation despite having one
+third of its landmass below sea level, including areas a full seven meters
+below sea level, as a result of the gradual sinking of its landscapes.[fn:26]
+
+And today, our capability for modifying environments is far greater than
+ever before. Dutch experts today are already working with the government
+of Bangladesh to prepare for rising sea levels.[fn:27]
+#+end_quote
+*** "no food"
+Shellenberger writes;[fn:28]
+#+begin_quote
+When it comes to food production, the Food and Agriculture
+Organization of the United Nations (FAO) concludes that crop yields will
+increase significantly, under a wide range of climate change scenarios.[fn:29]
+Humans today produce enough food for ten billion people, a 25 percent
+surplus, and experts believe we will produce even more despite climate
+change.[fn:30] [fn:31]
+
+Food production, the FAO finds, will depend more on access to tractors,
+irrigation, and fertilizer than on climate change, just as it did in the last
+century. The FAO projects that even farmers in the poorest regions today,
+like sub-Saharan Africa, may see 40 percent crop yield increases from
+technological improvements alone.[fn:32]
+
+In its fourth assessment report, the IPCC projected that by 2100, the
+global economy would be three to six times larger than it is today, and that
+the costs of adapting to a high (4 degrees Celsius) temperature rise would
+reduce gross domestic product (GDP) just 4.5 percent.[fn:33]
+#+end_quote
+** The DRC
+Shellenberger writes;[fn:34]
+#+begin_quote
+Within minutes of crossing from the neighboring country of Rwanda
+into the Congolese city of Goma, I was taken aback by the extreme
+poverty and chaos: children as young as two years old perched on the
+handlebars of motorcycles flying past us on roads pock-marked with giant
+potholes; tin-roofed shanties as homes; people crammed like prisoners
+into tiny buses with bars over the windows; trash everywhere; giant
+mounds of cooled lava on the sides of the road, reminders of the volcanic
+anger just beneath the earth’s surface.
+#+end_quote
+And in speaking with a local by the name of Caleb Kabanda;[fn:35]
+#+begin_quote
+I told Caleb I wanted to study
+the relationship between energy scarcity and conservation. Referring to the
+North Kivu province capital of Goma, the sixth most populated city in the
+Congo, Caleb asked, “Can you imagine a city of nearly two million people
+relying on wood for energy? It’s crazy!”
+#+end_quote
+* Forest Fires
+** rel. [[Climate Change]]
+Shellenberger writes;[fn:36]
+#+begin_quote
+What about fires? Dr. Jon Keeley, a U.S. Geological Survey scientist in
+California who has researched the topic for forty years, told me, “We’ve
+looked at the history of climate and fire throughout the whole state, and
+through much of the state, particularly the western half of the state, we
+don’t see any relationship between past climates and the amount of area
+burned in any given year.”[fn:37]
+
+In 2017, Keeley and a team of scientists modeled thirty-seven different
+regions across the United States and found that “humans may not only
+influence fire regimes but their presence can actually override, or swamp
+out, the effects of climate.” Keeley’s team found that the only statistically
+significant factors for the frequency and severity of fires on an annual
+basis were population and proximity to development.[fn:38]
+
+As for the Amazon, The New York Times reported, correctly, that “[the
+2019] fires were not caused by climate change.”[fn:39]
+#+end_quote
+* Extinction
+** Marine
+*** Coral Reefs
+**** rel. [[Climate Change]]
+Shellenberger writes;[fn:40]
+#+begin_quote
+In early 2020, scientists challenged the notion that rising carbon dioxide
+levels in the ocean were making coral reef fish species oblivious to
+predators. The seven scientists who published their study in the journal
+Nature had, three years earlier, raised questions about the marine biologist
+who had made such claims in the journal Science in 2016. After an
+investigation, James Cook University in Australia concluded that the
+biologist had fabricated her data.[fn:41][fn:42]
+#+end_quote
+
+* Footnotes
+
+[fn:1]
+Cameron Brick and Ben Kenward, "Analysis of Public Opinion in Response to the Extinction Rebellion Actions in London," Ben Kenward (website), April 22, 2019, https://www.benkenward.com/XRSurvey/AnalysisOfPublicOpinionInResponseToTheExtinctionRebellionActionsInLondonV2.pdf
+
+[fn:2]
+"International Poll: Most Expect to Feel Impact of Climate Change, Many Think It Will Make Us Extinct," YouGov, September 14, 2019, https://yougov.co.uk.
+
+[fn:3]
+Sarah Lunnon, interviewed by Phillip Schofield and Holly Willoughby, This Morning, ITV, October 17, 2019, https://www.youtube.com/watch?v=ACLmQsPocNs.
+
+[fn:4]
+Michael Shellenberger, /Apocalypse Never: How Environmental Alarmism Hurts Us All/. pp. 8-9
+
+[fn:5]
+Ibid[fn:3]
+
+[fn:6]
+Ibid[fn:3]
+
+[fn:7]
+Savannah Lovelock and Sarah Lunnon, interviewed by Sophie Ridge, Sophie Ridge on Sunday, Sky News, October 6, 2019, https://www.youtube.com/watch?v=ArO_-xH5Vm8.
+
+[fn:8]
+Ibid[fn:4] pp. 11-12
+
+[fn:9]
+Coral Davenport, “Major Climate Report Describes a Strong Risk of Crisis as Early as 2040,” New York Times, October 7, 2018, https://www.nytimes.com.
+
+[fn:10]
+Chris Mooney and Brady Dennis, “The World Has Just over a Decade to Get Climate Change Under Control, U.N. Scientists Say,” Washington Post, October 7, 2018, https://www.washingtonpost.com.
+
+[fn:11]
+Christopher Flavelle, “Climate Change Threatens the World’s Food Supply, United Nations Warns,” New York Times, August 8, https://www.nytimes.com.
+
+[fn:12]
+Ibid.
+
+[fn:13]
+Gaia Vince, “The Heat Is On over the Climate Crisis. Only Radical Measures Will Work,” The Guardian, May 18, 2019, https://www.theguardian.com.
+
+[fn:14]
+Robinson Meyer, “The Oceans We Know Won’t Survive Climate Change,” The Atlantic, September 25, 2019, https://www.theatlantic.com.
+
+[fn:15]
+Stefan Rahmstorf, Jason E. Box, Georg Feulner et al., “Exceptional Twentieth-Century Slowdown in Atlantic Ocean Overturning Circulation,” Nature Climate Change 5 (2015): 475–80, https://doi.org/10.1038/nclimate2554.
+
+[fn:16]
+Chadburn, S. E.; Burke, E. J.; Cox, P. M. et al., “An Observation-Based Constraint on Permafrost Loss as a Function of Global Warming,” Nature Climate Change 7 (2017): 340–44, https://doi.org/10.1038/nclimate3262.
+
+[fn:17]
+Ibid[fn:14]
+
+[fn:18]
+Ibid[fn:4] pp.
+
+[fn:19]
+Masson-Delmonte, V.; Panmao Zhai; Hans-Otto Pörtner et al., eds, /Global Warming of 1.5°C. An IPCC Special Report on the the Impacts of Global Warming of 1.5°C above Pre-industrial Levels and Related Global Greenhouse Gas Emission Pathways, in the Context of Strengthening the Global Response to the Threat of Climate Change, Sustainable Development, and Efforts to Eradicate Poverty/, Intergovernmental Panel on Climate Change, 2018, https://www.ipcc.ch/site/assets/uploads/sites/2/2019/06/SR15_Full_Report_High_Res.pdf.
+
+[fn:20]
+Liz Kalaugher, “Scientist or Climate Activist—Where’s the Line?” Physics World, September 20, 2019, https://physicsworld.com/a/climate-scientist-or-climate-activistwheres-the-line.
+
+[fn:21]
+Kerry Emanuel (climate scientist, MIT) in discussion with Michael Shellenberger, November 15, 2019. Ibid[fn:4] p. 291; ref: 1.26
+
+[fn:22]
+Andrew Freedman, “Climate Scientists Refute 12-Year Deadline to Curb Global Warming,” Axios, January 22, 2019, https://www.axios.com.
+
+[fn:23]
+Hannah Ritchie and Max Roser, “Global Deaths from Natural Disasters,” Our World in Data, accessed October 25, 2019, https://ourworldindata.org/natural-disasters. Data published by EMDAT (2019): OFDA/CRED International Disaster Database, Université Catholique de Louvain–Brussels–Belgium. Data for individual years are summed over ten-year intervals from first to last year of each calendar decade.
+
+[fn:24]
+Giuseppe Formetta and Luc Feyen, “Empirical Evidence of Declining Global Vulnerability to Climate-Related Hazards,” Global Environmental Change 57 (July 2019): article 101920, https://doi.org/10.1016/j.gloenvcha.2019.05.004.
+
+[fn:25]
+“Sea Level Change: Scientific Understanding and Uncertainties,” in Climate Change 2013: The Physical Science Basis, edited by Thomas F. Stocker, Dahe Quin, Gian-Kasper Plattner et al., Intergovernmental Panel on Climate Change, 2013, https://www.ipcc.ch/site/assets/uploads/2018/03/WG1AR5_SummaryVolume_FINAL.pdf, 47–59.
+
+[fn:26]
+The Zuidplaspolder in the western Netherlands is 6.76m below sea level. The IPCC in its Medium scenario (RCP4.5) predicts a 0.39m median sea level rise from a 1990 baseline through year 2200.
+
+[fn:27]
+“Bangladesh Delta Plan 2100,” Dutch Water Sector, May 20, 2019, https://www.dutchwatersector.com/news/bangladesh-delta-plan-2100; “Deltaplan Bangladesh,” Deltares, https://www.deltares.nl/en/projects/deltaplan-bangladesh-2.
+
+[fn:28]
+Ibid[fn:4] p. 16
+
+[fn:29]
+/The Future of Food and Agriculture: Alternative Pathways to 2050/, Food and Agriculture Organization of the United Nations, 2018, http://www.fao.org/3/I8429EN/i8429en.pdf, 76–77.
+
+[fn:30]
+Eric Holt-Giménez, Annie Shattuck, Miguel Altieri, et al., “We Already Grow Enough Food for 10 Billion People . . . and Still Can’t End Hunger,” Journal of Sustainable Agriculture 36, no. 6 (2012): 595–98, http://dx.doi.org/10.1080/10440046.2012.695331.
+
+[fn:31]
+/The Future of Food and Agriculture: Alternative Pathways to 2050/. p. 82
+
+[fn:32]
+Ibid[fn:31] pp. 76-77
+
+[fn:33]
+Keywan Riahi, Arnulf Grübler, and Nebojsa Nakicenovic, “Scenarios of Long-Term Socio-economic and Environmental Development Under Climate Stabilization,” Technological Forecasting and Social Change 74, no. 7 (September 2007): 887–935, https://doi.org/10.1016/j.techfore.2006.05.026.
+
+[fn:34]
+Ibid[fn:4] p. 16
+
+[fn:35]
+Ibid[fn:4] p. 17
+
+[fn:36]
+Ibid[fn:4]
+
+[fn:37]
+Jon. E. Keeley (U.S. Geological Survey scientist), in discussion with the author, November 4, 2019; Jon. E. Keeley and Alexandra Syphard, “Different historical fire–climate patterns in California,”International Journal of Wildland Fire 26, no. 4 (January 2017): 253, https://doi.org/10.1071/WF16102.
+
+[fn:38]
+Alexandra D. Syphard, John E. Keeley, Anne H. Pfaff, and Ken Ferschweiler, “Human Presence Diminishes the Importance of Climate in Driving Fire Activity Across the United States,” Proceedings of the National Academy of Sciences of the UnitedStates of America 114, no. 52 (December 2017): 13750–55, https://doi.org/10.1073/pnas.1713885114.
+
+[fn:39]
+Alexandria Symonds, “Amazon Rainforest Fires: Here’s What’s Really Happening,” New York Times, August 23, 2019, https://www.nytimes.com.
+
+[fn:40]
+Ibid[fn:4]
+
+[fn:41]
+John Ross, “Ex-judge to Investigate Controversial Marine Research,” Times Higher Education, January 8, 2020.
+
+[fn:42]
+Timothy D. Clark, Graham D. Raby, Dominique G. Roche et al., “Ocean Acidification Does Not Impair the Behaviour of Coral Reef Fishes,” Nature 557 (2020): 370–75, https://doi.org/10.1038/s41586-019-1903-y.

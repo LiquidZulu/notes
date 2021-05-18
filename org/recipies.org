@@ -1,0 +1,104 @@
+#+TITLE:Recipies
+#+AUTHOR:LiquidZulu
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medicine.csl
+#+DATE:2021-04-20 GMT Summer Time
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+
+* Meals
+** Fried
+*** Chicken Parmesan
+**** Ingredients
++ [[Marinara Sauce]]
++ Garlic
++ Basil
++ Chicken Breasts
++ Eggs
++ Flour
++ Parmesan
++ Frying Oil
++ Mozarella
++ Pasta
++ Butter
++ Panko
+** Mexican
+*** Chimichangas
+**** Ingredients
++ Bread Flour
++ Lard (if not possible, use butter)
++ Roasting Potatoes
++ Jalapenos
++ Baking Soda
++ Chorizo
++ Pork Belly
++ Avocado
++ Milk
++ Cheese, Manchego/Gruyere/Cheddar/etc.
++ Canned Tomatoes
++ Chipotle In Adobo
++ Basil
+*** Pulled Pork
+**** Ingredients
++ Boneless Pork Shoulder (alternatively other cuts that can be pulled)
++ Yellow Onion
++ Garlic
++ Bay Leaves
++ Cinnamon Sticks
++ Fresh Oregano
++ [[Honey-Chipotle Glaze]]
+**** Method
++ Cut the pork into large (~2.5") cubes and brown them in a large stockpot/dutch oven/brazer, or if you have a slow cooker with a removable metal interior, like an instant pot, you should use that.
+  + Remember to oil up the bottom of whatever vessal you use.
+  + Sear at high heat, you arent trying to cook it through
+  + You may need to sear the pork in batches to avoid over-crowding.
++ If using stockpot/dutch oven/brazer
+  + reduce heat to medium
+  + add more oil if needed
+  + Brown some whole halved onions (you can keep the skin on)
+  + add:
+    + 4 cloves of garlic
+    + 3 bay leaves
+    + 1 cinnamon stick
+    + fresh oregano
+    + the meat
+    + any other seasonings you want
+  + cover with water and simmer for 1.5--2 hrs, or until the pork falls apart
++ If using slow cooker:
+  + brown meat and onions in removable middle as above, if your slow cooker doesnt have a removable middle do it in a pan
+  + when all is seared nicely put everything in slow cooker and de-glaze the pan with some water which you then pour into the slow cooker.
+  + Add more water to cover as above
+  + Set to cook as per your manufacturers instructions
++ remove all of the meat from your brazing vessel and strain out the veg, save the broth
++ using 2 forks pull the pork apart, without throwing away the fat, shred as finely as you can
++ Add [[Honey-Chipotle Glaze]] to taste
+** Sauces/Seasonings
+*** Marinara Sauce
+**** Marinara Sauce: Standard
+***** Ingredients
++ Tomato Paste
++ Canned Tomato
++ Oregano
++ Basil
++ Olive Oil
+**** Marinara Sauce: Orange
+***** Ingredients
++ Orange
++ Canned Tomato
++ Garlic
++ Shallot
++ Olive Oil
++ Tomato Paste
++ Chili Flakes
+*** Honey-Chipotle Glaze
+**** Ingredients
++ Chipotle In Adobo
++ Dried Ancho & Guajillo Peppers
++ Honey
++ Lime Juice (or alternative acid source, i.e. vinegar, mustard)
++ Tomato Paste
++ Garlic
++ Ketchup
+**** Method
+1. De-stem 3x ancho and 3x guajillo peppers, remove seeds if you wish, then soak them in hot water (I use water from the kettle), alternatively use broth if you have any and cover with cling film. Leave to re-hydrate for ~15 mins, just until they are soft
+2. put everything in a blender along with anything else you feel like using up, this is a very versatile sauce. You can loosen it up as much as you desire with the re-hydrating liquids, if you are doing this for my [[Pulled Pork]] you may also wish to use some of the braising liquid from the slow cooker, assuming you didnt re-hydrate using it which is something you may as well do, it will taste superior.
+3. blend until smooth, and add some oil whilst blending to emulsify

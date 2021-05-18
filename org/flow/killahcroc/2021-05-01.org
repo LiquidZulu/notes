@@ -1,0 +1,32 @@
+#+TITLE:Flow for debate with killahcroc on the date indicated
+#+AUTHOR:LiquidZulu
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medicine.csl
+#+DATE:2021-04-29 GMT Summer Time
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+
+* Crocs opening statement
+#+begin_quote
+so they 2nd amendment says "A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed.”
+
+technically me owning a 22lr single shot breach action pistol is keeping and bearing arms, and this is the interpretation that many people use to justify tyranny, along with "well regulated" could essentially mean that the state can regulate the existence of militias and what rights they have to arm them self due to 2A saying "the right of the people" rather than the rights of the people within an organized militia
+
+if it were to say something more detailed, better worded, and blunt idk like
+" the right of all citizens to keep and bear any firearm accessible by an unregulated market for the purposes of revolting against the state in the face of tyranny, defined explicitly through the other amendments and constitution shall be practiced by citizens, and militias if one chooses, those of which shall never be restricted"
+
+something like that would be nearly impossible to misinterpret
+#+end_quote
+
+* croc on 2A
+I ask;
+#+begin_quote
+I dont care about your fantasy football constitution, do you think that the right to bare arms has been infringed upon in the US?
+#+end_quote
+He responds;
+#+begin_quote
+yes i do, but this is through my interpretation of the constitution i cannot say that my interpretation is in any way more correct to the words of the constitution than another persons
+#+end_quote
+the debate was spawned when he said this;
+#+begin_quote
+i believe the constitution needs to have more parameters regarding economic regulation and security, along with better worded protection of the right to bear arms so it isn't so up to interpretation
+#+end_quote

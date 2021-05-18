@@ -1,0 +1,155 @@
+#+TITLE:Debate on the lab-leak theory for the origin of the ccpvirus
+#+AUTHOR:LiquidZulu
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+
+* Notes
+** Patient 0/reservoir
++ the first known cases have no connection to the wetmarket[fn:1][fn:2]
++ Intermediary host of SARS1 was found in four months,[fn:3] MERS in 9[fn:4]
++ 15 months after the SARS2 pandemic began Chinese researchers had failed to find either the original bat population, or the intermediate species to which SARS2 might have jumped, or any serological evidence that any Chinese population, including that of Wuhan, had ever been exposed to the virus prior to December 2019.
+** Conflicts of interest
++ an MIT Technology Review editor, Antonio Regalado, said that should it be shown that the CCPVirus was lab made "it would shatter the scientific edifice top to bottom"
+*** Daszak
++ A prominent open letter[fn:5] published in /the Lancet/ on the 19th of Februrary was organised and drafted by Peter Daszak, president of the EcoHealth Alliance of New York, an organisation that funded gain-of-function coronavirus research at the WIV.[fn:6] This letter boldly claimed that they held "no competing interests."
++ On 9 December 2019, before the outbreak of the pandemic became generally known, Dr. Daszak gave an interview[fn:7] in which he talked in glowing terms of how researchers at the Wuhan Institute of Virology had been reprogramming the spike protein and generating chimeric coronaviruses capable of infecting humanized mice.
+
+#+begin_quote
+“And we have now found, you know, after 6 or 7 years of doing this, over 100 new sars-related coronaviruses, very close to SARS, some of them get into human cells in the lab, some of them can cause SARS disease in humanized mice models and are untreatable with therapeutic monoclonals and you can’t vaccinate against them with a vaccine. So, these are a clear and present danger….
+
+“Interviewer: You say these are diverse coronaviruses and you can’t vaccinate against them, and no anti-virals — so what do we do?
+
+“Daszak: Well I think…coronaviruses — you can manipulate them in the lab pretty easily. Spike protein drives a lot of what happen with coronavirus, in zoonotic risk. So you can get the sequence, you can build the protein, and we work a lot with Ralph Baric at UNC to do this. Insert into the backbone of another virus and do some work in the lab. So you can get more predictive when you find a sequence. You’ve got this diversity. Now the logical progression for vaccines is, if you are going to develop a vaccine for SARS, people are going to use pandemic SARS, but let’s insert some of these other things and get a better vaccine.”
+#+end_quote
++ Dr. Daszak is referring to the fact that once you have generated a novel coronavirus that can attack human cells, you can take the spike protein and make it the basis for a vaccine.
+
+*** Farang
++ Works for the Qatar government, Qatar is a strategic ally of China
+*** Hung
++ Works for the ILRI, a group that receives funding from the Chinese government and its allies[fn:8]
+*** Dwyer
++ Westmead hospital has ties to a Chinese hospital that engages in organ theft of Uighurs at the behest of the CCP.[fn:9]
+*** Nature
++ /Nature/ have censored over 1000 articles at the request of China[fn:10]
+*** The WHO investigators [4/10]
+See: https://www.who.int/health-topics/coronavirus/origins-of-the-virus
++ [ ] Prof. Dr. Thea Fisher, MD, DMSc(PhD) (Nordsjællands Hospital, Denmark)
++ [ ] Prof. John Watson (Public Health England, United Kingdom)
++ [ ] Prof. Dr. Marion Koopmans, DVM PhD (Erasmus MC, Netherlands)
++ [X] [[Dwyer][Prof. Dr. Dominic Dwyer, MD (Westmead Hospital, Australia)]]
++ [ ] Vladimir Dedkov, Ph.D (Institute Pasteur, Russia)
++ [X] [[Hung][Dr. Hung Nguyen-Viet, PhD (International Livestock Research Institute (ILRI), Vietnam)]]
++ [ ] PD. Dr. med vet. Fabian Leendertz (Robert Koch-Institute, Germany)
++ [X] [[Daszak][Dr. Peter Daszak, Ph.D (EcoHealth Alliance, USA)]]
++ [X] [[Farang][Dr. Farag El Moubasher, Ph.D (Ministry of Public Health, Qatar)]]
++ [ ] Prof. Dr. Ken Maeda, PhD, DVM (National Institute of Infectious Diseases, Japan)
+*** NIH
++ Shi's work was funded by grants given by the NIH through [[Daszak]].
+#+begin_quote
+Test predictions of CoV inter-species transmission. Predictive models of host range (i.e. emergence potential) will be tested experimentally using reverse genetics, pseudovirus and receptor binding assays, and virus infection experiments across a range of cell cultures from different species and humanized mice.
+#+end_quote
+
+#+begin_quote
+We will use S protein sequence data, infectious clone technology, in vitro and in vivo infection experiments and analysis of receptor binding to test the hypothesis that % divergence thresholds in S protein sequences predict spillover potential.
+#+end_quote
+
++ What this means, in non-technical language, is that Dr. Shi set out to create novel coronaviruses with the highest possible infectivity for human cells. Her plan was to take genes that coded for spike proteins possessing a variety of measured affinities for human cells, ranging from high to low. She would insert these spike genes one by one into the backbone of a number of viral genomes (“reverse genetics” and “infectious clone technology”), creating a series of chimeric viruses. These chimeric viruses would then be tested for their ability to attack human cell cultures (“in vitro”) and humanized mice (“in vivo”). And this information would help predict the likelihood of “spillover,” the jump of a coronavirus from bats to people.
+** Monkeying
++ Scientists have recreated the 1918 flu virus[fn:11]
++ shown how the almost extinct polio virus can be synthesized from its published DNA sequence[fn:12]
++ introduced a smallpox gene into a related virus, backed by the WHO[fn:13]
++ in November 2015 Shi Zhengli created a novel virus by taking the backbone of the SARS1 virus and replacing its spike protein with one from a bat virus (known as SHC014-CoV)[fn:14]
+** Viruses Escaping
++ The smallpox virus escaped three times from labs in England in the 1960’s and 1970’s, causing 80 cases and 3 deaths. Dangerous viruses have leaked out of labs almost every year since.
++ Coming to more recent times, the SARS1 virus has proved a true escape artist, leaking from laboratories in Singapore, Taiwan, and no less than four times from the Chinese National Institute of Virology in Beijing.
++ One reason for SARS1 being so hard to handle is that there were no vaccines available to protect laboratory workers. As Dr. Daszak mentioned in his December 19 interview quoted above, the Wuhan researchers too had been unable to develop vaccines against the coronaviruses they had designed to infect human cells. They would have been as defenseless against the SARS2 virus, if it were generated in their lab, as their Beijing colleagues were against SARS1.
++ Before 2020, the rules followed by virologists in China and elsewhere required that experiments with the SARS1 and MERS viruses be conducted in BSL3 conditions. But all other bat coronaviruses could be studied in BSL2, the next level down. BSL2 requires taking fairly minimal safety precautions, such as wearing lab coats and gloves, not sucking up liquids in a pipette, and putting up biohazard warning signs. Yet a gain-of-function experiment conducted in BSL2 might produce an agent more infectious than either SARS1 or MERS. And if it did, then lab workers would stand a high chance of infection, especially if unvaccinated.
++ Much of Dr. Shi’s work on gain-of-function in coronaviruses was performed at the BSL2 safety level, as is stated in her publications and other documents. She has said in an interview[fn:15] with Science magazine that “The coronavirus research in our laboratory is conducted in BSL-2 or BSL-3 laboratories.”
++ BSL-2 is the biosafety level of a standard US dentists office.
+* Episteme
+** No See'm Technology
+A technology developed in 2002[fn:16] that allows for the creation of viruses with no telltale signs of manipulation.
+** Serial passage
+The repeated transfer of viruses from one culture of cells to another, with the aim of accelerating evolution.
+** Recombination
+Recombination is the process by which a virus incorporates nucleotide strands from a similar virus when both infect the same cell at the same time.
+* flow
++ scientists say its extremely unlikely
++ likely vs unlikely
++ WHO was tardy declaring pandemic
++ bats are far away
++ non-chinese allies called it a pandemic
++ why did it take him so fucking long
+  + had to ask for other people
+  + wasnt needed
+  + you dont ask DG to say voldemort
+* timestamps
++ 00:00:35 - contention
++ 00:01:03 - "scientists say its natural"
++ 00:04:58 - WHO investigators have conflicts of interest
++ 00:11:24 - NOTATE: its not that he was from a country its that he works for an allied govt
++ 00:20:40 - china covering it up, WHO either incompetent or malicious
++ 00:21:30 - NOTATE: he says pandemic is an official and specific designation
++ 00:23:30 - NOTATE: pandemic is synonymous with "global health emergency"
++ 00:25:14 - NOTATE: he retorts that public health emergency was declared in January
++ 00:30:07 - NOTIFICATION
++ 00:36:12 - the sheer unliklihood that it's natural
++ 00:41:04 - NOTIFICATION
++ 00:41:22 - scientists monkeying around with viruses, and those viruses escaping
++ 00:44:01 - NOTATE: the grant proposal can be found in [[NIH]]
++ 00:44:38 - DEAD AIR
++ 00:45:03 - Wuhan Lab Shutdown
++ 00:46:23 - DEAD AIR
++ 00:48:00 - WHO took too long to call it a pandemic
++ 01:07:57 - NOTATE: whether he /had/ to ask other people
++ 01:09:33 - NOTIFICATION
+
+* Footnotes
+
+[fn:1]
+[[https://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736(20)30183-5.pdf][Chaolin Huang et al, "Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China"]]
+
+[fn:2]
+[[https://nicholaswade.medium.com/origin-of-covid-following-the-clues-6f03564c038][Nicholas Wade, "Origin of Covid --- Following the Clues"]]
+
+[fn:3]
+https://zenodo.org/record/4477081#.YIGAG-hKhPY
+
+[fn:4]
+https://nicholaswade.medium.com/origin-of-covid-following-the-clues-6f03564c038
+
+[fn:5]
+[[https://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736(20)30418-9.pdf][Statement in support of the scientists, public health professionals, and medical professionals of China combatting COVID-19]]
+
+[fn:6]
+[[https://nypost.com/2021/01/16/doctor-who-denied-covid-was-leaked-from-a-lab-had-this-major-bias/][The doctor who denied COVID-19 was leaked from a lab had this major bias]]
+
+[fn:7]
+https://www.youtube.com/watch?v=IdYDL_RK--w
+
+[fn:8]
+https://cgspace.cgiar.org/rest/rest/bitstreams/134550/retrieve
+
+[fn:9]
+https://www.sbs.com.au/news/australian-organ-transplant-doctors-defend-china-ties
+
+[fn:10]
+https://www.insidehighered.com/news/2018/10/03/book-publishers-part-ways-springer-nature-over-concerns-about-censorship-china
+
+[fn:11]
+https://www.cidrap.umn.edu/news-perspective/2005/10/scientists-recreate-1918-flu-virus-see-parallels-h5n1
+
+[fn:12]
+https://www.webmd.com/women/news/20020712/polio-virus-created-from-scratch-in-lab
+
+[fn:13]
+https://www.newscientist.com/article/dn6666-who-backs-genetic-experiments-with-smallpox/
+
+[fn:14]
+https://www.nature.com/news/engineered-bat-virus-stirs-debate-over-risky-research-1.18787#b1
+
+[fn:15]
+https://www.sciencemag.org/sites/default/files/Shi%20Zhengli%20Q%26A.pdf
+
+[fn:16]
+Yount, Boyd & Denison, Mark & Weiss, Susan & Baric, Ralph. (2002). Systematic Assembly of a Full-Length Infectious cDNA of Mouse Hepatitis Virus Strain A59. Journal of virology. 76. 11065-78. 10.1128/JVI.76.21.11065-11078.2002.
