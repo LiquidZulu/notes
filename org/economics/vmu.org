@@ -1,0 +1,449 @@
+#+TITLE:vmu notes
+#+AUTHOR:LiquidZulu
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medicine.csl
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* The Birth of the Austrian School
++ utility = satisfaction
++ early economists saw it as a cardinal value
++ menger saw it as the result of an individuals judgement --- ordinal.
++ theres always judgement involved in utility --- marginal utility discovered by menger
++ marginal utility is merely a subset of subjective value
++ menger drew from many influences but this was his system
++ classical school dominated in mengers day hume, adam smith, david ricardo --- had flaws that prevented their economics from being concerned with humans
++ classical school were right that prices werent random --- you cant just sell a bottle of water for infinite money
++ C: prices are formed by immutable laws eg supply and demand
++ C: prices used by business to calculate profits and losses
++ C: profits encourage business to increase supply and losses drive reduction of supply
++ C: in the long run profits and losses dissapear.
++ The big flaw of classical economics was that they thought of goods in classes --- is steel more important than diamonds, are diamonds more important than water
++ but humans dont think in these terms, people only care about "should I buy 1 gallon of milk, or 3 gallons of water, etc" --- marginal units, a good thats being evaluated and judged by the consumer
++ this failure to understand how consumers value good lead to a dead end --- the diamond water paradox
++ diamonds have a high exchange value but a low use value, vice versa for water
++ classical school didnt worry about use value, only about exchange value --- they had to split value, this complicates the science
++ they said it was the costs incurred by businessmen that determined value --- cost of production theory of value (cptv)
++ but diamonds are cheap to make, certainly far cheaper than they often sell for
++ classical economist says its a monopoly value, for rare things like important artworks
++ classical economists say land is a monopoly as you cant produce it
++ cptv cant explain why a company should lose money, why didnt IBM just raise prices?
++ some said value comes from labour
++ when you say that subjective value has no place in econ you arent focusing on the consumer, you focus on the businessman --- its focusing on the man who accumulates wealth to no end
++ economic theory to menger is concerned with the prices paid on actual markets, not perfect ones with fake people
++ cause and effect is key to economics, you cannot act with purpose if you cannot know the effect of a cause
++ menger recognised that every action embodies both subjective elements in ones mind and interfaced with objective reality --- lachmannites reject all objectivity
++ satisfaction is a psychic state
++ the ham sandwich isnt directly valuable to the hungry man, its the service of the sandwich --- its purpose
++ what makes external elements in the real world valuable?
+  1. a human need
+  2. a thing must be capable of being brought into a causal connection with the satisfaction of the need
+  3. human knowledge of 2
+  4. command of the thing sufficient to direct it to the satisfaction of the need
++ mises pointed out that 2,3 are wrong, instead makes a 2' that people simply need to have the belief, a better list is:
+  1. A state of uneasiness.
+  2. An imagined world without this uneasiness.
+  3. The belief that a proposed action will bring about this imagined world.
++ an economic good is a good that cannot satisfy all human wants, it is scarce meaning a choice must be made, meaning action is possible
++ the value of a good is determined by its "marginal utility," that is, the satisfaction from the least important of lowerst ranked end served by the available supply of the good
++ \therefore as the supply of a good possessed by an individual posseses increases the marginal utility falls therefore the value of the good falls
+  eg, crusoe wants:
+  1. bread to sustain life
+  2. bread to sustain health
+  3. seed for next harvest
+  4. feed for goats
+  5. to make whisky
+  6. ~feed for pet parrot~ --- doesnt have a 6th sack
+  7. ...
+  etc
++ so whats the value of a sack of bread? Is it the highest? Is it the lowest.
++ lets say sack 3 is devouererd by a sack, what value has he lost?
++ he has lost the whisky, obviously
++ so a single sack when he has 5 is valued as much as the whisky, each individual sack is worth even less if he gets an extra sack
++ so why is water worth less than a diamond?
++ you can imagine having a diamond in your pocket in the desert after being dehydrated in the desert, the marginal utility of water is so much higher as you need to live
++ in society water is not very valuable as it serves only a very low end
++ lets say a farmer has 3 horses and 2 cattle
+  1. H1 for plowing wheat
+  2. H2 for increase whet production
+  3. C1 for milk
+  4. C2 beef
+  5. H3 for recreational riding
++ which animal is more useful to the farmer?
++ The Horse has the lower value, when a horse dies the cow becomes the lest valuable
++ how does the value of consumer goods get impuded back to those who produce things?
++ the production of an automobile goes through many stages, highest order is mining the materials, lowest is the car dealer
++ the value of the means is determined by the value of the ends
++ the value of the consumer goods /causes/ the value of the production goods
++ the subjective value of transport determines the value of cars which determines the value of petroleum and steel production
++ so production doesnt yield value, its the valuation of the consumer good that impuded value onto the production stages --- land has no value in and of itself.
++ Menger applied subjective value to exchange, say we have A and B in barter --- hotdog vender example
++ classical school say that the hotdog is equal in value to $5 --- but this is clearly wrong.
+* Subjective Value and Market Prices
++ price theory is the cornerstone of economic calculation
++ personal economy = what we personally do, social economy = the intermixing of personal economies
++ action is purposeful behaviour
++ having an end doesnt constitute action
++ we have to identify, acquire, and apply means to a given end, that is action
++ means are somewhat convertable --- a given means can, and often are, be applied to many ends.
++ means are non-specific, we can apply labour to many things, they dont necessarily lose productivity when applied to different things
++ because we can convert means we have a choice between ends we wish to pursue with a given ends, and for each end we choose what combination of means to use
++ economising --- when we engage in action we always choose the end we prefer and the means that have the lowest opportunity cost to get there.
++ value is a personal assessment
++ this valuation has two important charachteristscs, not to be conflated
+  1. subjectivity of value --- value is a state of mind, it is psychic. because its only a state of mind it lacks an extensive property, meaning we cannot measure it, it has no unit. No interpersonal utility comparison possible
+  2. value is not constant, we do not value a given thing constantly at all time --- we know this as we regret actions we have taken, value ex post can be different to value ex ante. If there are no constants in valuing there can be no functions to determine utility, as everything is a variable, you also cant have demand or supply functions.
+     : review this^
++ value imputation:
+  austrian     : mind -> consumer good -> producer goods
+  : review this^, tables confusing
+  LTV          : mind <- consumer good <- producer goods
+  neoclassical : mind -> consumer good <- producer goods
+  ^must give up a cause and effect theory, of human action.
++ we have the human mind, it asseses the value of a consumer good wrt the aid it provides in resolving uneasiness
++ rational allocation of resources is impossible as one mind makes all the decisions on action, they have only their own valuations meaning it is impossible to economise for others
++ how can a social economy work then, in a way that economises for all?
++ The market economy preformes this feat
+: needs heavy review
++ market-clearing price is the price at which every market participant is satisfied
++ supply is determined by the preferences of sellers, demand by the preferences of buyers.
+* Entrepreneurship
++ Mainstream economists ignore entrepreneurship, as they dont fit into their functions
++ The definition Harvard Business School gides is "the pursuit of opportunity beyond resources controlled"
++ the emphasis there is on some person identifying a market opportunity and pursuing this
++ it doesnt matter that you have no resources, you can pursue it.
++ That view has been expressed academically, by Israel Kirzner; /Competition and Entrepreneurship/
++ Kirzner defines it as, "that element of alertness to possibly newly available resources ... this alerness is fundamentally present in human action"
++ so entrepreneurship is finding new opportunies for profit that have not been exploited by others.
++ suscinctly you can say it is "alertness to profit opportunies"
++ venture capital investment isn't what drives the market, its entrepreneurship
++ in an evenly rotating market of perfect knowledge there is no entrepreneurship
++ profit and loss can only exist in a world where you dont know exactly what will happen --- perfect competition means the abolition of competitive activity
++ entrepreneurial behaviour relies on undertainty
++ uncertainty meaning situations where you dont have a mathematical function or measure to tell you the possible outcomes or their weights.
++ entrepreneurial judgement is neither randomly throwing darts at a board nor is it solving an equation, its somewhere in between
++ the /promoter/ is a special type of entrepreneur. Any human actor is technically an entrepreneur, promoters are those that are especially eager to profit from adjusting production to the expected changes in conditions, those who have more initiatide, more venturesomeness and a quicker eye than the crowd, these are promoters. This is not a formal praxeological definition, just a loosy goosy historic one
++ its not enough to just have a good idea, they come along all the time, one must have a good idea and there must be investment into this idea.
++ austrians are seen as important by academics interested in entrepreneurship
+* The Division of Labour and Social Order
+: definite review, ill probably need dinner
++ production is an action therefore laws of action apply to it so producers economise
++ modes of production:
+  1. Direct use
+     + self-sufficiency
+     + direct correspondence between what people want and what they produce
+     + found primarily in less developed societies --- subsitance living
+  2. Production for exchange
+     + oriented to what can be sold in a market
+     + market division of labour
+     + this is found in more developed societies
++ the more well developed the division of labour the more developed a society
++ division of labour
+  + specialisation of production according to efficiency
+    + each person produces in excess of consumption
+    + who specialises in what is determined by efficiency --- lowest opportunity cost. I.e no carribean maple syrup producers or canadian banana farmers
+  + Fundamental social pheniomenon
+    + Been with us since start of history
+    + great impetus for the formation of society
++ the reason people move to a place is to integrate with that places division of labour
++ mises notes that society is only possible because of the fact of the greater productivity due to division of labour and peoples recognition of that fact
++ people find it in their interest to produce the good that they are most efficient at
++-----+-----+-----+-----+-----+-----+-----+
+|     |     |     |     |     |     |     | // I understand the meme, add the slide here
++-----+-----+-----+-----+-----+-----+-----+
+|     |     |     |     |     |     |     |
++-----+-----+-----+-----+-----+-----+-----+
+|     |     |     |     |     |     |     |
++-----+-----+-----+-----+-----+-----+-----+
+|     |     |     |     |     |     |     |
++-----+-----+-----+-----+-----+-----+-----+
++
+* Money
++ money is only useful in a "large" economy, friday and crusoe have no need
++ it allows for higher standards of living, barter is scarcely better than subsitance
++ imagine how difficult barter would be on facebook marketplace
++ A is into gardening  and they create a massive flowerbed and they need flowers to fill it
++ A wants plants
++ on the marketplace A finds a dinosaur gnome, they buy
++ imagine if you had only barter the seller says they only want a used papasan chair, A has this
++ what if the papasan chair is much more valuable than the gnome? Now what? Do we saw the chair up? No, this makes the chair essentially worthless
++ In trade both parties have to want the other parties item, this is the double coincidence of wants. So A would never find the gnome owner as A wanted plants initially
++ Imagine if economics professors had to trade economics lectures with food producers
++ indirect exchange means that you can trade with people who dont want your papasan chairs
++ how do we get from direct to indirect echange? Different goods will be differently saleable, the more saleable a good the easeir it is to find buyers. Potato sellers can find buyers a lot easiers than papasan chair dealers. Those with less saleable goods begin to exhange for intermediate goods that they dont want, so long as the intermediate is more saleable. Over time the most saleable goods would be desired more and more by traders because of this.
++ what makes a good more likely to become a money?
+  1. easily divisible without losing value
+  2. durable, cant break down when changing hands
+  3. easily transportable, high value to mass ratio
+  4. fungible, any one unit is equal to any other, generally
++ by generally expected we mean in the overwhelming majority of exhanges
++ paper has very low value, we throw it away all the time
++ we wouldnt expect that people would exchange much for paper money
++ gold is heavy though and dangerous to carry around
++ so people put gold into a bank and they got paper receipts for it
++ for convenience I would rather just trace the receipt to a seller than taking my gold out
++ eventually these receipts became the money.
++ crypto is not widely used enough to be considered money, though we are moving in that direction
++ Benefits of money
+  1. all goods priced in money, they dont have many prices
+  2. elaborate structure of production
+  3. rational exonomic calculation !!what!!
+  4. easy comparison of value (price? seems so...) !!what!!
+     : REVIEW
++ by measuring money in mass of some commodity you can convert easily
++ the dollar used to be defined as 1/20 ounces of gold
++ pound sterling was 1/4 ounce --- 1 GBP = 5 USD
++ purchasing power of money is the inverse of price, can be thought of as the "price of money"
++ increase in supply of a money the value in exchange falls, decrease rises
++ what should the money supply be? What is the optimal amount? Rothbard pointed out this is silly, nobody asks what the optimal amount of pizzas is.
++ a benevolent angel gabriel wants to double everyones cash balances
++ what happens when everyone wakes up?
++ they find that they have excess cash balances so everyone spends surplus, increase in demand for goods meaning an increased prise.
++ early spenders benefit at the expense of later spenders --- every money supply is optimal
++ lets say there are some bad guys who counterfeit some gold coins
++ we wouldnt expect money to be national, because then at the border you have the direct exchange at the border
++ wouldnt expect it to be under the control of any entity
+* Banking
++ banking is very important, especially wrt ABCT
++ economists often say that a free market in banking is too radical, austrians disprove this
++ free banking limits credit expansion
++ money is not a creation of the state, it solves the double coincidence of wants and facilitates economic calculation
++ banks can facilitate loans (loan banking) or issue money substitutes to money proper (deposit banking)
++ if you want to buy your groceries for silver coins it would be cumbersome and annoying, they could be stolen
++ bank notes are easier for small transactions
++ lets say I want to lend money and my brother wants to borrow? Why should my brother go through a bank? There are costs involved in both of us figuring out we are willing to borrow and or lend. The intermediary lowers the cost in finding a borrower or lender
++ suppose patrick newman wanted to create a bank so he decreases spending on consumer goods by 10k and starts a bank with these savings, assuming a gold standard. So he makes a bank with the 10k.
+// another fucking table
++ if a bank loans out more than it has, this is credit expansion
++ this is known as fractional reserve banking.
++ if a bank can meed all withdrawls its liquid, illiquid if it cant
++ therefore a fractional reserve bank will try to estimate as best as possible so it does not go out of business
++ classicals worry about wildcat banks, austrians point out that these worries are overblown. Why will free banking limit expansion? Adverse clearing mechanism means that an overexpansion of bank deposits leads to an outflow of reserves.
+  : review adverse clearing mechanism
++ competition eliminates the ability to excessively expand credit. You can only expand credit when gold supply increases
++ what if banks just work together?
++ it would fail just like all cartels
++ internal pressure means that A and B are in the cartel and A tells B that it wouldnt redeem its paper money but it really does. External pressure from banks outside of cartel
++ central banks have five characteristics
+  + monopoly on note issuance
+  + bankers bank
+  + regulator
+  + lender of last resort, if banks cant get a loan they can always go to the FED
+  + conductor of monetary policy
++ central banking strengthens bank cartels because it can increase the supply of bank reserves and block out entry
++ open market operations
+  + traditionally the FED would just buy and sell short term state securities, recently it doesnt
+  + say the FED writes a $1000 check to bond dealers in new york by printing money
+  + bond dealers deposit this check at Newman bank
+  + Newman bank has these reserves that it deposits at the FED
+  + The Newman bank will not engage in huge credit expansions. but it will expand it
+  + typically banks dont want excess reserves
+  + Newman bank expands credit by $900 loan to macys
+  + now macy's deposits loan at salerno bank
+  + when bank of salerno reddems the check the Newman bank will have enough money
+  : ... review this
+* Austrian Capital Theory
++ capital theory is only really tackled by austrians
++ Capital goods are what make humans unique
++ humans have advanced becauese we have an increasingly intricate edifice of capital goods
++ beavers are still making dams but humans have moved far past huts
++ what are capital goods?
++ we know from praxeology that humans act, they utilise means to achieve ends
++ the finished good (ham sandwich) is a first order good, a consumer good
++ sandwich made in the kitchen is a good of the second order
++ purchased ingredients are third order
++ 2nd -> nth goods are called higher order goods
++ four factors of production
+  1. labour
+  2. land
+  3. capital goods --- produced materials made from labour, land, and other capital goods
+     + circulating capital goods --- raw materials turned into another capital or consumer good, eg the flour that you turn into bread
+     + fixed capital goods --- tools used to transform the circulating capital goods, eg the knife that you use to spread the mustard
+  4. technology, e.g. recipies
++ theres a difference between capital and capital goods
++ alnd and labour are calleed the original  factors of production
++ capital goods are heterogenous --- you wouldnt use a sword to cut bread or roast beef to make a ham sandwich
++ to summarise: in a production process, actors use their technological knowledge and apply original factors and fixed capital goods to transform circulating capital goods into consumer goods.
++ in order to make capital goods you need to save, for crusoe to make a bow he needs to save berries to last him whilst he makes it.
++ capital goods widening refers to creating more of the same capital good
++ capital goods deepening is creating new kinds of capital goods, i.e. developing a new type of arrow
++ deepening takes longer than widening
++ so more productive processes, i.e. those that have higher consumption, take longer
++ if crusoe instaed decided to not repair his bow or make a net, he is involved in capital consumption
++ in the modern economy there are many stages
+  1. mine ore, coal and limestone
+  2. smelt ore into iron
+  3. refine iron into steel
+  4. shape steel into plates
+  5. fabricate plates into railway cars
++ you have labour, some workers work at the foundry, others are miners, and some make the railway cars, each are specialised in making their own good.
++ land (ore)
++ fixed capital (mining implements, blast furnace, etc)
++ circulating capital: ore -> iron -> steel -> plate -> railway car
++ some of these factors can be osed in other lines of production, others cant --- you could still use blast furnaces, but you couldnt use the equipment specifically used to make railway cars
++ the capitalist is the individuals involved in moving goods through these stages
++ at each state capitalists save money and invest by purchasing factors, which they use to create a new capital good that they sell to a later capitalist
+  + for this saving the capitalist earns interest (he also earns profits for his entrepreneurial judgement)
+  + e.g. the stage 3 capitalist buys $1 million of iron and other factors, makes steel, sellf steel for $1.1 million (10% interest return)
+  + the capitalist isnt exploiting the workers because there wouldnt be the product there to make $1.1 million on without the capitalist
++ overall structure of production
+  1. mining/harvesting land
+  2. refining this land
+  3. manufacturing goods
+  4. packaging and distributing goods
+  5. selling consumer goods
++ we can define the lower orders as those production processes that produce consumer goods in the near future and the higher orders as those that produce in the remote future.
++ neoclassical economists ignore time in production, as their model has instant production
++ neoclassical economists say savings is bad --- paradox of thrift
+* Calculation and Socialism
++ scientific vs utopian socialists
+  + utopians
+    + charles fourier
+    + henri saint-simon
+    + robert owen
++ scientific socialists
+  + Marx
+  + Engels
++ marx's view was that utopians should be ignored, he wanted to save socialism from the utopians who were rejected by economists
++ fourier wanted phalanstere
+  + garden cities modeled after a grand hotel
+  + each resi
+    ...
++ socialists obsessed with symmetry
++ fourier had 5 stages of advancement
+  1. confusion
+  2. savegery
+  3. patriachism
+  4. barbarity
+  5. harmony for 8000 years
++ after 5 it would loop
++ during harmony
+  1. six new moons would replace the one in existence
+  2. a halo showering gentle dew would circle the north pole
+  3. all seas would turn to juice
+  4. all violent or repulsive beasts would be replaced by their opposited
+  5. the human lifepan would streatch to 144 years
++ the classical economists saw some problems
+  + the incentive problem: "who will take out the garbage?" The price system provides incentiver through profit and loss
+  + Socialist answer: the new socialist man would work for the community
+  + both sides implicitly assumed that if the incentive problem were solved socialism would be just as productive as capitalism --- this is false
++ Marx recognised that the utopians were hurting the cause
++ in scientific socialism "inexorable laws of history" dictated that socialism would replace capitalism as capitlaism replaced feudalism
++ marx said it unscientific to talk about what the future socialist society would look like.
++ note that marx's only work, Das Kapital, only talks about capitalism, not about a positive vision
++ Mises: In a developed industrial economy with complicated production processes and many different kinds of capital goods the rational allocation of goods is impossible
++ mises argument
+  1. Socialism abolishes private property in capital goods and natural resources
+  2. since the socialst state becomes the 'owner' of all these non-human mops they cannot be exhanged
+  3. without exchange there can be no prices
+  4. therefore the state cannot calculate the cost of production
+  5. without calculation of profit and loss, socialist planners cannot know the most valuable use of scarce resouces and therefore they cannot economise
+  6. \therefore a socialist /economy/ is impossible
++ the essential mark of socialism is that one will acts
++ preconditions of economic calculaation:
+  1. private property in all stages of goods including capital goods
+  2. freedom to exchange goods and services
+  3. sound money whose value is independent of political influences
++ socialism abolishes all of these
++ capitalism can lead to inefficient spending, every time an entrepreneur makes a loss those resources could have been better spent, but at least now everyone knows that there has been inefficiency, and if the entrepreneur is too inefficient then he will go out of business.
++ USSR had a quota system where producers were incentivised to undersell themselves, they say that they can only produce 50k, when they can actually do 70k, and they dont want to go over this because then the quota goes up next year.
++ these quotas had odd outcomes, clothing quotas were in yards of cloth, so people made huge clothes, same with shoes. And chandeliers had quotas in tonnes, so they were so heavy they killed comrades
++ Marxist responses
+  + calculation in kind (tonnes of steel, kilowatts of electricity etc) (adding apples and oranges)
+  + calculating with labour hours --- ignores the difference in quality of labour
+  + assuming a stationary economy
+* The Theory of Interest
++ temporal valuation --- the timing of an action
++ intertemporal valuation --- whether the satisfaction can be brought closer to us in time
++ /sounds like time preference to me/
++ action always involves a sequence of steps that occur over time
++ the fulfilment of the end comes later in time than the decision to act
++ for finite beings like us the future is uncertain, so we can only anticipate the satisfaction of the end --- there is uncertainty
++ if action occurs in a sequence of steps over time it is contained within a duration, there is an interval on the timeline
++ the person acting always has a choice of allocating moments of time that are eigther before, during, or after
++ one can also abort an action
++ two parts:
+  1. period of production
+     + working time: stages of production
+     +
+  2. ...
++ we have a given action and the person can choose the moment in time to start the action
++ time is an irreversable flux: each moment has a unique place in the sequence of moments of time with respect to action
++ economise action with respect to time: choose when to begin to gain the greatest value
++ time preference is not concerned with physiology or the psychology of impatience
++ high time preference people want the fastest production processes to get the nearest satisfaction
++ pure rate of interest is time preference premium of present money over future money
++ people can borrow from the lower time prefernce individuals in society to shorten the period of production
++ the interest rate is the market clearing price for lending to high time preference from low time preference people
++ the inter-temporal trade of money rather than goods as such is focused on in this theory to isolate the underlying logic as you dont have to care about profit
++ if A lends $1k to B in exchange for $1.1k in a year you know that A values the $1.1 in a year more than $1k today and vice versa, and consequently you know that A's time preference is lower
++ productivity does not change the pure rate of interest
++ ignoring profit, the worker could get the same that the final good costs if they employed the same time preference as the employer.
+* Competition and Monopoly
++ mainstream economists cry about:
+  + externalities
+  + say they undersupply "public goods" (law, defense, healthcare, ...)
+  + free markets make monopolies
++ they say those are all market failures
++ competition in everyday language is an effort to beat rivals at some task.
++ the common-law meaning of competition and monopoly:
+  + an exclusive grant by the state to a particular operator
+  + e.g. IP
++ Among economists in the past hundred years the term "competition" has been changed, they now mean a firm that has a particular structure --- "perfect competition"
++ neoclassical say that a market is competitive is no firms can profit --- moreover they say the ability to profit implies a monopoly power
++ in perfect competition the marginal revenue is equal to marginal price
++ perfect competition assumes entry and exit is costless
++ mainstream economists say this is how the world "ought to be"
++ the real world isnt like this though, not everyone sells the exact same product
++ so they advocate the state shifting us there by any means
++ imagine if a single firm controls the market
++ the monopolist charges the highest price the market can bare
++ austrians have critiqued the above assumptions, there cannot be perfectly elastic demand curves as there are not infinitesimally small units of output that one can sell. Each sell contributes some discrete quantity to the market
++ perfect competition is the mathematical limit, it requires infinite firms
++ an inelastic demand curve reflects human preferences, that there is no close substitute
++ Mises thought monopoly could arise under certain circumstances
++ Rothbard refines this, he points out that all sellers face a downwards facing demand curve, meaning theres no theoretical way to distinguish a monopoly price from a competitive price, sans state backed monopolisation. All firms charge in the elastic range of their demand curve.
++ from the austrian view competition is a process of rivalry who are free to compete as they wish non-aggressively
++ let the market structure be what it will --- laissez-faire
+* Austrian Business Cycle Theory
++ exists in a hampered economy
++ crusoe sees that there are a few things that he can use to achieve ends
++ because he is a single will acting its a conceptually easy problem to solve
++ the multiple wills complicate things, whats most important, what is to be done next? --- no inter-personal utility comparison
++ market prices allow us to solve this issue, it allows economising
++ the above only works in an unhampered economy
++ going back to crusoe, he wakes up one morning, walks out his cave, he had some plan to work on his shed or something, he sees some colourful mushrooms and eats them. They make him hallucinate in such a way that it makes it look like he has a far greater stockpile of resources. As a result crusoe would change his plans under the impression of more resources, he decides to build different things --- he builds a mansion instaed of a hut. He builds a yacht instead of a raft. In other words he doenst economise effectively
++ Its malinvestment that wrecks the economy thanks to the boom, crusoe is engaged in malinvestment
++ a business cycle is not business fluctuations, changes happen all the time, entrepreneurs anticipate these changes
++ business cycle is a general boom and general bust --- it happens on a broad scale
++ capital goods industries fluctuate more widely than do the consumer goods industries
+  : read americas great depression
++ entrepreneur's change their plans based on the availability of credit
++ artificial expansion of credit doesnt give more resources, it simply makes people grab at those resources more vigorously --- hungry hungry hippos
++ malinvestment is investment in areas that arent supposed to be profitable, but are made to appear as such because of inflated credit
++ the bust isnt what needs fixing, its the boom where the overconsumption and malinvestment occurred. Keynesians would have crusoe simply eat more mushrooms when the hallucinations wear off
+* Mises's Theory of Socialist Destructionism: The American Reality
++ soviets lived off the capital accumulation of previous generations, eating up the capital of invaded countries too.
++ most journalists are statists because the bigger government gets and the more prominent the more sources you get, as they tend to use state sources
+* Government Land Ownership and Management
+: read mises, beurocracy
++ if govt ownership of land is accompanied by all the numerous restrictions they end up using it for political purposes
++ govt cant economise with the resources on the land, and they have no prices on them
++ what land use is best
++ you cant compare subjective preferences
++ catallaxy is saying that there are separate objectives of individuals, you cant say that the value of an apartment building on the grand canyon is greater or lesser than the value to those who want virgin wilderness
++ "we cannot decide on public policy, tort law, rights, or liabilities on the basis of efficiencies or minimising costs" - logic of action 2
+* The Economics of Big Tech
++ big tech uses very different business models
++ whats traded on the market is marginal units of goods not "information"
++ information goods are economic goods (evaluated, subjectively, on the margin, like all consumer and producer goods)
++ Information goods are nothing new --- books, videos, university, etc
++ you arent buying the information, you are paying for something /to get/ the information
++ network effects --- the value of using QWERTY depends on other people using it too
+* Bidenomics
++ IPCC report deliberately doesnt say that limiting warming will be superior to not
++ limiting warming to 2.5 C would be worse for humanity than doing nothing says nobel prize winner
++ its better to have two firms in a market with free entry than it is to have 20 firms in a market that the government prevents entry into.

@@ -1,0 +1,73 @@
+#+TITLE:evictionism vs departurism
+#+AUTHOR:LiquidZulu
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medicine.csl
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Notes
+** where life starts
++ birth is just a change of address, it cannot be the start
++ it isnt upon gaining consciousness as people sleep
++ starts at the moment of conception --- it has to
+** forestalling
+*** mothers notification of others
++ the mother must not keep others from knowing about the eviction by hiding the child
++ she must inform someone who wants to become the guardian if they exist
++ the limit to how many people she must interview is based on the common practice for the given slice of spacetime that she occupies
++ in the modern age she would be posting a message online, or contacting some agency
+*** medical requirements imposed
++ mother must allow the presense of adopter-sponsored medical personnel and equipment to care for the child immediately after eviction
++ if a c-section is required this may not be imposed
++ this is under a framework of negative obligation, so the mother must not place any barriers between the child and the adopter
++ barriers include information, space, and time
+** "what if I invite a guy on my plane/boat/spacecraft and then evict them halfway through?"
++ that person existed when you invited them on, meaning that contracts were possible allowing for the implicit contract to exist, this is disanalogous to children
+** "that sounds like positive rights"
++ every negative right has an attached positive obligation
+** "the baby doesnt cross any boundry"
++ if I am born in a flat that my mother never left from conception can I not be evicted by the landlord?
++ Outside is ¬inside, a baby prior to existing is ¬inside, the baby goes from ¬inside to inside, it has crossed a boundary
+** "A compromise begets ambiguity"
++ the /principled/ compromise of evictionism is not ambiguous
+** "If all fetuses are trespassers then we all come in to this world as criminals"
++ not all mothers wish to evict
++ even if true it is not relevant to the correctness of evictionism
+** "if fetuses are trespassers and not evicting them is altruistic then human rights are contingent"
++ if unwelcome guests are trespassers and not evicting them is altruistic then human rights are contingent
+** "fetuses are created by the action of the parents therefore the fetus can hold a positive obligation on that parent to provide life support"
++ unmotivated
++ snuck premise that taking action to create another implies you owe them life support
+** Gentleness: continued departure vs notification of adopters
++ gentleness is not "minimum possible force one could ever conceive of" its the minimum possible force in the present. As the mother owns her body she may utilise the minimum possible force for the eviction of the fetus at any time.
++ must I keep an unemployed tenant fed until such a time that they get a job
+  + might be disanalogous due to the adulthood of a tenant
+    + what of a child born into a flat that I own then the mother immediately kills herself, would I be forced to care for this child?
+** "lethal eviction isnt allowed"
++ lets say a homeless man stubles onto someones property in the night unknowingly, the instant they do a horrific blizzard starts and it will last for months. This happens in the middle of nowhere in alaska so the homeless man will surely die if sent into the blizzard. Is the homeowner not allowed to evict this man?
+** Departurism Syllogism
+1. Fetus is a tresspasser
+   + not necessarily
+   + "its non consensual"
+     + there is nothing to consent to, it is not action, we dont say that people didnt consent to hurricane sandy flooding their house, sandy isnt a rapist
+2. The Mother is a Self-Owner
+3. The mother has retaliatory ground
+   + what retaliatory ground is allowed?
+     + "fetus is a non-criminal trespasser, it has no mens rea" --- I can accept this
+     + "fetus is a non-lethal trespasser" --- irrelevant
+       + "because its a non-lethal trespass, the retaliation cannot be lethal"
+         + if someone breaks into my home in the middle of the night may I shoot at them to psotect my property? Clearly. Proportionality only takes effect in punishment, a separate principle is in effect in stopping an ongoing aggression --- I may use the minimal force necessary to end the aggression, this may include death.
+** Why should the moral evaluation depend on what eviction options are available and on which of them is applied to the trespasser?
++ basically, why should whether the stopping of aggression is allowed depend on whether the victim has the technology to keep the aggressor alive in stopping the eviction.
+
+* Flow
++ if trespasser cannot act they
+  + doesnt stop the aggression
+    + if trespasser is leaving of their own accord let them leave
+      + robber is expressing
++ fetus is leaving the property
+  + time isnt relevant
++ invitation problem

@@ -1,0 +1,33 @@
+#+TITLE:Evictionism vs Departurism
+#+AUTHOR:LiquidZulu
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Definitions
+** Departure
+The act of stopping ones trespass[fn:1]
+* Notes
+** fetus is not engaging in continued departure as it cannot act
++ the departurist position is that the fetus is non-criminal because it cannot engage in human action and thus it cannot purposefully trespass
++ the fact that it cannot act also means it cannot purposefully stop its trespass, meaning it is not departing
+** fetus is still leaving even if it isnt purposeful
++ seems to me that if it was up to the fetus it would stay there forever, its after nine months that the mothers body reflexively evicts the fetus, the fetus doesnt leave on its own, its not slowly falling out the whole time.
+** positive obligation in pregnancy
++ libertarianism can have positive obligations, but only when a contract is made, either explicit or implicit
++ prior to conception there is no person, thus no contract can be made, even implicit
++ thus there cannot be any positive obligation on the mother with respect to the fetus
+* Opening
++ what we agree on
+  + the fetus is a person
+  + the fetus is a non-criminal trespasser
+  + gentleness
+    + continued departure is the gentlest means
++ point of contention
+  + whether the fetus is departing
+
+* Footnotes
+
+[fn:1]Parr, Sean "Departurism and the Libertarian Axiom of Gentleness" http://libertarianpapers.org/articles/2011/lp-3-34.pdf

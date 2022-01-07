@@ -1,0 +1,129 @@
+#+TITLE:Ancap vs Statism
+#+AUTHOR:LiquidZulu
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* notes
+** The State is De-Civilising
+*** Taxation is de-civilising
++ Taxation invariably runs counter to the natural tendancy of time preference to fall, as it disincentivises saving and production --- if I know that I will be robbed for producing or attempting to save I will have higher time preference
+  + see [[Taxation is a means of the destruction of property][here]] for more info.
++ Taxation may even reverse the tendancy, that is, it may effect a tendancy for time preference to go up --- in effect pointing society down a path of de-civilisation towards bare subsistence living.
+*** Taxation is a means of the destruction of property
++ Taxation is a coercive, non-contractual, transfer of definite physical assets, from their rightful owners who whilst in possession could have derived income from holding them, to some other person or group of people who can now derive income from holding them.
++ How did these assets come into possession of the original owner? Excluding prior taxation and noting that only those assets can be taxed that have not yet been consumed or had their value exhausted through acts of consumption (the tax man does not take away a mans garbage), there are three possibilities:
+  1. The owner perceives some nature-given goods as scarce and actively brings them into his possession before anyone else takes this action --- homesteading
+  2. The owner produced them through nature-aquired goods that he previously homesteaded --- production
+  3. Through voluntary, contractual, aquisition from a previous appropriator or producer --- trade
++ Only through these methods is one capable of aquiring taxable assets.
++ From this it follows that any form of taxation implies a reduction of income a person can expect to receive from homesteading, production, or trade.
++ Since these activities require the employment of scarce means which could be used for consumption or leisure, the opportunity cost of performing them is raised.
++ The marginal utility of homesteading, producing, and trading is decreased and the marginal utility of consumption and leisure increased.
++ Accordingly, there will be a tendency to shift from the former means to the latter ones.
++ Thus, taxation, in its reduction of both present and future income for producers, effects a tendancy towards higher time preferences cetirus paribus.
+** Rogue Agency Problem
++ in anarchy some rogue agency might not respect the NAP and might expand, doing awful things like taxing people and forcing arbitration and "protection" through them.
+  + worst case scenario of anarchism is statism
+** Collective action problem
++ concerns the redistribution of goods
++ concerns so-called public goods
+*** Free-Rider Problem
++ public fireworks
++ clean air
++ information goods such as statistics
++ open-source software
++ radio
+** Public Goods
+*** Table
+            +-----------------------------+-------------------------+
+            | Excludable                  | Non-Excludable          |
++-----------+-----------------------------+-------------------------|
+| Rival     | Private Goods               | Common Goods            |
+|           | "Typical goods"             | "Common Pool Resources" |
+|           | (clothes, food)             | (Mines, fisheries)      |
+|-----------+-----------------------------+-------------------------|
+| Non-Rival | Club Goods                  | Public Goods            |
+|           | "Artificially Scarce Goods" | "Collective goods"      |
+|           | (Cable TV, Cinemas)         | (Air, News, Fireworks)  |
++-----------+-----------------------------+-------------------------+
+*** Problems
++ suppose you have a genuine public good, that entrepreneurs cannot produce. This does not then imply that welfare is improved by robbing people to provide it
+
+* flow [1/4]
++ [-] Are you an anarchist?
+  + [-] Jan v Bernie Method
+    + [X] do people have the right to aggress unto others?
+    + [X] does the state have the right to aggress unto others?
+      + from where did it acquire this right?
+        + the laws that society best came up with
+          + common laws
+            + case precedent
+              + what if there was 1 judge and he wanted to kill undesireables
+                + on what gou
+        + parent neglecting/abusing children
+          +
+        + might
+          + not might, if someone
+    + [ ] can people delegate rights they do not have?
+    + [ ] does the state have the right to aggress unto others?
++ [ ] is taxation theft?
++ [X] Is the free market, or coerced monopolisation the best at delivering products and services?
+  + anywhere where monopolisation is superior
+    + product cant exist unless you have a large enough economy of scale
+      + what are the criteria
+        + because you think it
+          +
++ [ ] Do you accept total free association?
++ good to not initiate conflict
++ government should stay out of peoples lives
++ what is different in ancapistan 20 year one
++ democratic private firm
+  + private police
+    + REA
+      + what are the rights
+        +
++ what is torture
+  +
++ democracy
+  + how to tell if its ethical
+    +
++ covenants voluntary
+  + if in covenant what if someone
++ live in geographic area, because humans we have to agree to common laws
+  + agreement means it isnt suppressing rights
+    + if its an agreement then its a contract
+      +
++ were in america today
+  + tax incentives
+    + people didnt want that, you are getting what people dont want
+      + "good for them in the long run"
+    + tax is de-civilising
++ no reasonable path to get there
+  + "no reasonable path to stop unethical things"
++ definition of taxation
+  + 401k voluntary?
++ taxation is de-civilising
++ life is not fair
+  + so tax isnt fair?
+    + I was born with a priviledge to live in america
+      + didnt voluntarily agree, agree to arbitrary restrictions to increase net utility
+        +
+        + when did people agree
++ democratic control good?
+  + continuums
+    +
++ IP
+  + I live in ancap ohio
+    + come up with dope software
+      + want to patent it
+        + massive corporation
+          + in ancap pennsylvania
+            + they "steal" the property
+              + what property
+                + in ancapistan, a lotta pharma companies get patents because they spend so much
+                  +
++ are humans capable of reason
+  +

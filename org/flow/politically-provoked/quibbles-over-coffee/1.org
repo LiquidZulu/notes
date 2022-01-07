@@ -1,0 +1,40 @@
+#+TITLE:Monarchy vs Democracy
+#+AUTHOR:LiquidZulu
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* flow
++ concerned that
+  + argument about land theory
+    + right to have control over land
++ not about perfect state
+  + given choice
+    + functionality wise democracy is more subject to change, democracy closer to consensual
++ examples
+  + individual examples do not prove a tendency
+    + correct, issue is you cant look at data
+      + data is irrelevant
+        + disagree that you dont need to look at history
+          + history does not keep cetirus paribus
+            + "monarchy has failed a lot of times before"
+              + so has democracy
+        + living under nazi germany is worse than living under mode
++ TP argument
+  + empiricism
++ you asked me for historic data
+  + then you cried about me providing historic data
+    + waa
++ cor
++ you need a king, nobody is as important as that
+  + "hey guys, let's implement a law that puts money towards this thing that we all have stocks in"
++ saudi leadership is stupid
+  + democracies lead to smart bad guys
+    + we want dumb people though!
+      +
+  + not addressing the time preference argument
++ larger problem is
+  + My argument is not that you should have longer periods of time in control
+  +

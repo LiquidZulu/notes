@@ -1,0 +1,42 @@
+#+TITLE:Communism vs Capitalism
+#+AUTHOR:LiquidZulu
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Opening Statement
+A free-market leads to every market participant profiting from the market, as there is mutual profit in every voluntary trade, and socialist action is necessarily a perversion of this and as such reduces the ability of market participants to attain their ends and reduces profit for the losers. Furthermore, this sets up two distinct groups, a group of winners, and a group of losers, namely there is a group who are getting the funds distributed to them, and there is a group that is having funds sucked from them, this is a two tiered system and is thus also inherently not egalitarian which socialists claim to be.
+
+* Notes
+** Ownership
+The owner of a thing is he who gets the final say on what is done with that thing in the event of a dispute over its use.
+
+* Flow
++ inequitable
++ utilitarian
+  + value rational allocation to those who need them
+    + initial transitory followed by planned economy
++ vulgar NAP followers?
+  +
++ where does government authority
++ penny to save the world
+  +
++ utility monster
+  + stoic monk alternative
+    + normalisation of violence doesnt maximise utility
+    + normalisation of attacking stoics is a bad thing
+      + disabled people are less productive
+        +
++ how do you do rational allocation
+  + big computer
+  + plan an economy
+  + ways we've seen
+    + how would you collect subjective knowledge
+      + use people interpretations
+        + people only capable of subjectively classifying what they need
+          + census data
+            + would you need statistics to analyse?
+              +
+  +

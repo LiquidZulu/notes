@@ -1,0 +1,58 @@
+#+TITLE:Anarchism vs Statism
+#+AUTHOR:LiquidZulu
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Notes
+** Collective action problem
++ concerns the redistribution of goods
++ concerns so-called public goods
+*** Free-Rider Problem
++ public fireworks
++ clean air
++ information goods such as statistics
++ open-source software
++ radio
+** Public Goods
+*** Table
+            +-----------------------------+-------------------------+
+            | Excludable                  | Non-Excludable          |
++-----------+-----------------------------+-------------------------|
+| Rival     | Private Goods               | Common Goods            |
+|           | "Typical goods"             | "Common Pool Resources" |
+|           | (clothes, food)             | (Mines, fisheries)      |
+|-----------+-----------------------------+-------------------------|
+| Non-Rival | Club Goods                  | Public Goods            |
+|           | "Artificially Scarce Goods" | "Collective goods"      |
+|           | (Cable TV, Cinemas)         | (Air, News, Fireworks)  |
++-----------+-----------------------------+-------------------------+
+*** Problems
++ suppose you have a genuine public good, that entrepreneurs cannot produce. This does not then imply that welfare is improved by robbing people to provide it
+
+* Flow
++ anarchism flawed as it cant defend from outside forces
+  + therefore no collective defense?
+    + would it be in your self interest to have collective defense?
+      + would firms exist in a free market
+        + you dont
+          + flaw with defence firms
+            + bribe to not show up
+              + do you need the state to have bands of loyalty
+                +
++ higher ideals
+  + criteria
+    +
++ democracy vs monarchism
+  + democracy is a failed system
+    + creates oligarchical class
+      + whats the problem with the oligarchical class
+        +
++ taxation
+  + for taxation
+    + social contract - everyone agreed
+      + doesnt matter if everyone agreed
+        + sex is non-societal
+          +

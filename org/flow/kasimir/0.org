@@ -1,0 +1,65 @@
+#+TITLE:Market Wagering I Think?
+#+AUTHOR:LiquidZulu
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medicine.csl
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* flow
++ we are ethical
+  + he is ceding that he is evil
++ doesnt work in practice
+  +
+* 2nd flow
++ NRx --- freedom ethics is a pencil standing on a table, if you have top down control, if you make it happen, create ancap, its a good system to run society by, but how you get there is contradicted by some of the elements of the belief. You help ancoms rise by engaging in ancap praxis. People who want to violate slowly encroach, have to look towards some existing system.
+  + what praxis would lead to communism rising
+    + fighting for freedom, victories help socialists but not us
+  + how to keep the gains
+    + laissez faire
+      + things that make people participate in a war dont align with market forces
+        + need ideological motivation
+          + market of systems
+            + central planners can wage war better
+              + soviets were inefficient
+                + nazis were also a centrally planned military
+        + free states taken by large alliances
+          + mercs not good
+            + piracy
+              + they will achieve BETTER, not just good results
+                + not sure that market is better
+                  + main resource is manpower
+                    + and its more efficiently allocated by a market
+                      + they will receive more food but less overtime
+                        + they have more slaves
+                          + numbers game is in US favour
+                            + but they lost
+                              + """private military"""
+                                + US killed a lot
+                                  + but they lost their objective
+                                    + how to stop china
+                                      + chinese contractor grabs advancement
+                                        + WMD's
+                                          + we still have MAD
+                                          + this is no different to right now
+                                            + you have to do have restrictions on spread of weapons tech
+                                              + market would do this
+                                                + market needs failure
+                                                  + YOU DONT KNOW WHEN YOU ARE FAILING
+                                                    + cant figure out the most efficient but can get close to it
+                                                      + libertarians in praxis, half is in favour of open borders
+                                                        + suicide
+                                                          + nothing to subvert
+                                                            + cant prevent society from devolving into communist communities
+                                                              + would they out compete?
+                                                                + not long term
+                                                                  + how short term
+                                                                    + belief in religions means they get all benefits but with more children and they teach children to be communists
+                                                                      + have no way to reject them
+                                                                        + either need your property be a fairly decent region, if its just an average joe
+                                                                          + then covenants would win out
+                                                                            + theyre competitive?
+                                                                              +
+            + american rev

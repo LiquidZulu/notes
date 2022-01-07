@@ -1,0 +1,19 @@
+#+TITLE:Questions for Dr. Block
+#+AUTHOR:LiquidZulu
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Questions
+** non-aggression superfluous
+My understanding of Dr. Blocks definition of libertarianism is that it is the system of law which follows from the axioms of homesteading and non-aggression. However, as homesteading under some property system is already a normative proposition, would non-aggression not be superfluous, being contained in the prior axiom?
+** diamond in a box
+...
+** other areas of praxeology
+Murray Rothbard makes reference
+** first use vs mixing labour
+Libertarian property theory requires that one homestead a natural resource before they may own it, so Crusoe must first pick a berry before he can say what other people are allowed to do with respect to that berry. It is often said that this is because he mixes his labour with the berry but this has always struck me as a little too romantic, which is why I lean more towards the first use theory where its because Crusoe made use of the berry in a way that by definition did not interfere with anyone elses use by definion that he now owns it. What is your take on the first principles of homesteading, do you agree with mixing labour, or first use, or some entirely separate wording that I am unfamiliar with?
+** Threat of Protectionism
+Lecture 2 of "Radical Austrianism, Radical Libertarianism" starts with a question that you had not been posed up until that point. Namely, it was well established that protectionism is inefficient and leads to things that people generally don't want, but what about threatening protectionism as a measure to stop some other country from engaging in protectionism? To bring in the rowboat analogy, person A says he will shoot a hole in our side of the boat and to stop him we threaten him with shooting a hole in his side. Considering that it has been quite some time since this seminar took place, are you aware of any good answers to whether this is a good idea? As a refresher on your response at the time, should it be required, you said it could lead to some economic benefit if it works, but that it would be unethical as you only have a right to threaten what you have a right to do.

@@ -1,0 +1,358 @@
+#+TITLE:Mathematics Cheatsheet
+#+AUTHOR:LiquidZulu
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+STARTUP: latexpreview
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Calculus
+** First Principles
+Consider $y = f(x)$ with a chord joining $(a, f(a))$ to $(a+h,f(a+h))$.
+
+The gradient of that chord is:
+
+$$
+  \frac{f(a+h) - f(a)}{(a+h) - a} = \frac{f(a+h) - f(a)}{h}
+$$
+
+The gradient of the tangent to $f(x)$ at point $a$ (provided it exists) is:
+
+$$
+  \lim_{h\rightarrow 0}{\frac{f(a+h) - f(a)}{h}}
+$$
+
+** Standard Derivatives, and Combinations Thereof
+*** Std
+
+  \begin{array}{ccc|ccc|ccc}
+    &
+      f(x)  &&&
+      f'(x) &&&
+      \text{Conditions}
+    & \\
+
+    \hline
+
+    &
+      x^n      &&&
+      nx^{n-1} &&&
+      n \ne 0, n\in\mathbb{R}, x\in\mathbb{R}
+    & \\
+
+    &
+      \text{sin } x &&&
+      \text{cos } x &&&
+      x\in\mathbb{R}
+    & \\
+
+    &
+      \text{cos } x  &&&
+      -\text{sin } x &&&
+      x\in\mathbb{R}
+    & \\
+
+    &
+      \text{tan } x = \frac{\text{sin } x}{\text{cos } x} &&&
+      \text{sec}^2 x                                      &&&
+      x\in\mathbb{R}
+    & \\
+
+    &
+      \arcsin{x} &&&
+      \frac{1}{\sqrt{1-x^2}} &&&
+      x\in\mathbb{R}\setminus\left\{1\right\}
+    & \\
+
+    &
+      \arccos{x} &&&
+      -\frac{1}{\sqrt{1-x^2}} &&&
+      x\in\mathbb{R}\setminus\left\{1\right\}
+    & \\
+
+    &
+      \arcsin{x} &&&
+      \frac{1}{1-x^2} &&&
+      x\in\mathbb{R}\setminus\left\{1\right\}
+    & \\
+  \end{array}
+
+*** (f+g)'
+$$
+  (f+g)'(a) = f'(a) + g'(a)
+$$
+*** (cf)'
+Given $c$ is a constant:
+$$
+  (cf)'(a) = cf'(a)
+$$
+*** (fg)'
+$(fg)' = f'g + fg'$
+*** (f/g)'
+$\left(\frac{f}{g}\right)' = \frac{f'g - fg'}{g^2}$
+*** (f(g))'
+$(f \circ g)'(a) = f'(g(a)) \cdot g'(a)$
+*** (a^f(x))'
+$$\ln|a|\cdot a^{f(x)}\cdot f^{\prime}(x)$$
+** Standard Integrals, and Combinations Thereof
+*** f'(x)/f(x)
+$$\int{\frac{f^{\prime}(x)}{f(x)}} \text{d}x = \ln|f(x)| + C$$
+** differential equations
+*** second order
+**** homogenous
+$\ddot{x} + a_1\dot{x} + a_0 x = 0$
+
+assume $x\left(t\right) = e^{\lambda t}$:
+
+$$\begin{align}
+  \lambda^2 e^{\lambda t} + a_1 \lambda e^{\lambda t} + a_0 e^{\lambda t} &= 0 \\
+  \leadsto \lambda^2 + a_1\lambda + a_0 &= 0
+\end{align}$$
+
+where this quatratic in \lambda is the "characteristic equation"
+
+1. $\lambda_1$ and $\lambda_2$ are real and distinct ($\lambda_1\ne\lambda_2$):
+
+   $$\begin{align}x_1\left(t\right) &= e^{\lambda_1t} \\
+   x_2\left(t\right) &= e^{\lambda_2t} \\
+   &\hspace{0.555em}\vdots \\
+   x\left(t\right) &= Ax_1\left(t\right) + Bx_2\left(t\right)\end{align}$$
+
+2. $\lambda_1$ and $\lambda_2$ are real and equal:
+
+   $$\begin{align}x_1\left(t\right) &= e^{\lambda t} \\
+   x_2\left(t\right) &= te^{\lambda t} \\
+   &\hspace{0.555em}\vdots \\
+   x\left(t\right) &= Ax_1\left(t\right) + Bx_2\left(t\right)\end{align}$$
+
+3. $\lambda_1$ and $\lambda_2$ are complex:
+
+   $$\begin{align}\lambda_2 &= \overline{\lambda_1} \\
+     \text{let } \lambda_1 &= p + iq \\
+              \therefore \lambda_2 &= p - iq \\
+              &\hspace{0.555em}\vdots\\
+      x_1\left(t\right) &= e^{pt}e^{iqt} \\
+      x_1\left(t\right) &= e^{pt}e^{-iqt} \\
+              &\hspace{0.555em}\vdots\\
+      x\left(t\right) &= e^{pt}\left[\tilde{A}\cos qt + \tilde{B}\sin qt\right] \\
+      \text{where } \begin{bmatrix}\tilde{A}\\ \tilde{B}\end{bmatrix} &= \begin{bmatrix}A+B\\ iA - iB\end{bmatrix}\in\mathbb{R}^2\end{align}$$
+**** inhomogenous
+$\ddot{x} + a_1\dot{x} + a_0 x = f(t)$
+1. find solution of homogenous part, $x_h(t)$
+2. find particular solution of inhomogenous equation, $x_p(t)$
+3. general solution is $x(t) = x_h(t) + x_p(t)$
+
+To find $x_p(t)$ we assume it is a function of the same type as $f(t)$
+1. polynomial of degree n
+2. exponential function
+3. harmonic $A\cos + B\sin$
+
+* Trig
+** Reciprocals
+
+  \begin{array}{ccc|ccc}
+    &
+      f(x)  &&&
+      \frac{1}{f(x)}
+    & \\
+
+    \hline
+
+    &
+      sin &&&
+      cosec
+    & \\
+
+    &
+      cos &&&
+      sec
+    & \\
+
+    &
+      tan &&&
+      cot
+    &
+  \end{array}
+* Series'
+** Taylor
+*** f(x,y)
+Centered at point $(x,y) = (x_0,y_0)$:
+
+$$
+  f(x,y) = \sum_{k=0}^\infty \frac{1}{k!}\left(\Delta x\frac{\partial}{\partial x} + \Delta y\frac{\partial}{\partial y}\right)^k f(x_0,y_0)
+$$
+
+Of degree $n$:
+$$
+  f(x,y) = \sum_{k=0}^n \frac{1}{k!}\left(\Delta x\frac{\partial}{\partial x} + \Delta y\frac{\partial}{\partial y}\right)^k f(x_0,y_0) + R_n(x_0,y_0)
+$$
+
+$$
+  f(x,y) \approx \sum_{k=0}^n \frac{1}{k!}\left(\Delta x\frac{\partial}{\partial x} + \Delta y\frac{\partial}{\partial y}\right)^k f(x_0,y_0)
+$$
+
+Where $R_n(x_0,y_0)$ is defined by:
+
+$$
+  R_n(x_0,y_0) = \frac{1}n\left(\Delta x\frac{\partial}{\partial x} + \Delta y\frac{\partial}{\partial y}\right)^n f(x+\theta\Delta x,y+\theta\Delta y)
+$$
+
+for some constant $\theta\in[0,1]$ and $(\Delta x,\Delta y) = (x-x_0,y-y_0,)$.
+
+* Geometry
+** Ellipse
+Recall; a circle can be defined as all points a given distance, $r$, from the origin:
+
+$$\left\{(x,y)\in\mathbb{R}^2:\sqrt{x^2 + y^2} = r\in\mathbb{R}\right\}$$
+
+Or for n-dimensions:
+
+$$\left\{\vec{x}\in\mathbb{R}^n:\left\|\vec{x}\right\| = r\in\mathbb{R}\right\}$$
+
+For an ellipse, we define two points, known as foci, $f_1$ and $f_2$. Then the ellipse is defined as all points where the sum of the distance between these two points is fixed:
+
+$$\left\{\vec{x}\in\mathbb{R}^n:\left\|\vec{f}_1 - \vec{x}\right\| + \left\|\vec{f}_2 - \vec{x}\right\| = r\in\mathbb{R}\right\}$$
+
+Also, for $O$ and $O^\prime$ having respective radii of $r$ and $\tilde{r}$, we have:
+
+$$r+\tilde{r} = 2a$$
+
+where $a$ is the semi-major axis.
+
+$2c$ being the distance between the foci, gives:
+
+$$b=\sqrt{a^2 - c^2}$$
+
+for the semi-minor axis.
+
+Perihelion being furthest point on elipse, from center, is $a$.
+
+In polar $(r,\theta)$:
+
+$$r(\theta) = \frac{a^2 - c^2}{a + c\cos\theta} = \frac{l}{1 + \varepsilon\cos\theta}$$
+
+where $l = (a^2 - c^2)/a$, latus rectum, and $\varepsilon=c/a$, and is the excentricity.
+
+* $\LaTeX$
+** Augmented Matrices
+#+begin_src latex
+\newenvironment{amatrix}[1]{%
+  \left[\begin{array}{@{}*{#1}|c@{}}
+}{%
+  \end{array}\right]
+}
+
+\begin{amatrix}{ccc|c}
+  1 & 2 & 3  & 4 \\
+  5 & 6 & 7  & 8
+\end{amatrix}
+#+end_src
+** Gaussian Elimination
+*** Tilde
+#+begin_src latex
+\newenvironment{amatrix}[1]{%
+
+\left[\begin{array}{@{}*{#1}|c@{}}
+
+}{%
+
+\end{array}\right]
+
+}
+\begin{align*}
+
+  \begin{amatrix}{ccc|c}
+    1 & -2 &  1 & 1 \\
+    2 & -1 & -3 & 2 \\
+    3 &  0 & -7 & 3
+  \end{amatrix}
+
+  & \sim
+
+  \begin{amatrix}{ccc|c}
+    1 & -2 &  1  & 1 \\
+    2 & -1 & -3  & 2 \\
+    0 &  6 & -10 & 0
+  \end{amatrix}
+
+  & \begin{array}{c}{R_3 \rightarrow R_3 + (-3)R_1} \\ \end{array} \\
+
+  % - - - - - - - - - - - - - - - - - - - -
+
+  \begin{amatrix}{ccc|c}
+    1 & -2 &  1  & 1 \\
+    2 & -1 & -3  & 2 \\
+    0 &  6 & -10 & 0
+  \end{amatrix}
+
+  & \sim
+
+  \begin{amatrix}{ccc|c}
+    1 & -2 &  1  & 1 \\
+    0 &  3 & -5  & 0 \\
+    0 &  6 & -10 & 0
+  \end{amatrix}
+
+  & \begin{array}{c}{R_2 \rightarrow R_2 + (-2)R_1} \\ \end{array} \\
+
+  % - - - - - - - - - - - - - - - - - - - -
+
+  \begin{amatrix}{ccc|c}
+    1 & -2 &  1  & 1 \\
+    0 &  3 & -5  & 0 \\
+    0 &  6 & -10 & 0
+  \end{amatrix}
+
+  & \sim
+
+  \begin{amatrix}{ccc|c}
+    1 & -2 &  1 & 1 \\
+    0 &  3 & -5 & 0 \\
+    0 &  0 &  0 & 0
+  \end{amatrix}
+
+  & \begin{array}{c}{R_3 \rightarrow R_3 + (-2)R_2} \\ \end{array} \\
+
+\end{align*}
+
+\begin{align*}
+  \implies 3x_2 - 5x_3 = 0 \\
+  3x_2 = 5x_3 \\
+  x_2 = \frac{5}{3}x_3
+  \text{let } x_3 = \alpha \in \mathbb{R}
+  \ldots
+  \begin{bmatrix}
+    x_1 \\
+    x_2 \\
+    x_3
+  \end{bmatrix} =
+  \begin{bmatrix}
+    1 + \frac{7}{3}\alpha \\
+    \frac{5}{3}\alpha \\
+    \alpha
+  \end{bmatrix}
+\end{align*}
+#+end_src
+*** Arrow
+#+begin_src latex
+\newenvironment{amatrix}[1]{%
+  \left[\begin{array}{#1}
+}{%
+  \end{array}\right]
+}
+\newcommand{\overtext}[2]{\begin{array}{c}#1 \\ #2 \end{array}}
+
+\begin{align}
+  \overtext{R_2 \rightarrow R_2 - 4R_1}{
+    \begin{amatrix}{cc|c}
+      1 & 2  & 3 \\
+      4 & 5  & 6
+    \end{amatrix}
+    \leadsto \begin{amatrix}{cc|c}
+      1 & 2  & 3 \\
+      0 & -3  & -6
+    \end{amatrix}
+  }
+\end{align}
+#+end_src

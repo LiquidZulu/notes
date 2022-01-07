@@ -1,0 +1,57 @@
+#+TITLE:Ancaps are anarchists
+#+AUTHOR:LiquidZulu
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* flow
++ fluid property
+  + ownership for as long as you are using the property
+    + storage is a use
+      + proudhon identifies storage as a use is unjust
+        + depriving neighbor of something they need
+          + someone in a shipwreak, they are morally obligated to save his fellow
+            + not obligated, if you have the ability
+          + dont have to share resources
++ trade of the keyboard
+  + retaining ownership but giving up possession, declaring one may use it under certain conditions, renting
+    +
++ natural law
+  + positivism, made to maintain order
+    +
++ NAP is not just controlling someone elses body
+  +
++ consent
+  + informed
+    + knowing the details of the situation
+  + dubious/coerced
+    + one person gives consent to something they wouldnt otherwise due to power difference
+      + adult/child relationship
+        + asking them to go to the park/eat dinner
+        + reject power differential
+      + grades from teacher
+      + police officer kidnapping you
++ power vs ability vs status
+  + harvey weinstein had the power to give them jobs
+    + sex work
+      +
++ money not a thing
+  + why not?
+    + ethical vs economic case
+      + ethical
+        + would I be allowed to trade salt
+      + economic
+        + how would you communicate knowledge
+      + labour vouchers
+        +
++ vasectomy billionaire
+  + against paying people to do anything?
+    + not being productive
+      + renting, interest
+        + net loss in renting
+          + mutual profit
+            +
++ against hierarchy
+  +

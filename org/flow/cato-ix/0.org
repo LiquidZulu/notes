@@ -1,0 +1,174 @@
+#+TITLE:Anarchy vs Minarchy
+#+AUTHOR:LiquidZulu
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medicine.csl
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Notes
+** Minarchism = Minimal State
++ Minimal = least amount necessary
+  + why is any state necessary?
+    + to run defense etc
+      + markets superior than monopolies
+** The State is De-Civilising
+*** Taxation is de-civilising
++ Taxation invariably runs counter to the natural tendancy of time preference to fall, as it disincentivises saving and production --- if I know that I will be robbed for producing or attempting to save I will have higher time preference
+  + see [[Taxation is a means of the destruction of property][here]] for more info.
++ Taxation may even reverse the tendancy, that is, it may effect a tendancy for time preference to go up --- in effect pointing society down a path of de-civilisation towards bare subsistence living.
+*** Taxation is a means of the destruction of property
++ Taxation is a coercive, non-contractual, transfer of definite physical assets, from their rightful owners who whilst in possession could have derived income from holding them, to some other person or group of people who can now derive income from holding them.
++ How did these assets come into possession of the original owner? Excluding prior taxation and noting that only those assets can be taxed that have not yet been consumed or had their value exhausted through acts of consumption (the tax man does not take away a mans garbage), there are three possibilities:
+  1. The owner perceives some nature-given goods as scarce and actively brings them into his possession before anyone else takes this action --- homesteading
+  2. The owner produced them through nature-aquired goods that he previously homesteaded --- production
+  3. Through voluntary, contractual, aquisition from a previous appropriator or producer --- trade
++ Only through these methods is one capable of aquiring taxable assets.
++ From this it follows that any form of taxation implies a reduction of income a person can expect to receive from homesteading, production, or trade.
++ Since these activities require the employment of scarce means which could be used for consumption or leisure, the opportunity cost of performing them is raised.
++ The marginal utility of homesteading, producing, and trading is decreased and the marginal utility of consumption and leisure increased.
++ Accordingly, there will be a tendency to shift from the former means to the latter ones.
++ Thus, taxation, in its reduction of both present and future income for producers, effects a tendancy towards higher time preferences cetirus paribus.
+** Ancaps assume a motive, that minarchists see the state as a positive force
++ if this isnt true why would you want any state? Clearly you do see some amount of statism as positive
+** Taxation is theft
++ Theft is the non-consensual taking of anothers property
+  + tax is the non-consensual taking of anothers property
+    + \therefore taxation is theft
+** Cancer face example
++ "imagine you have cancer in your face, that starts in your tooth. spreads to cover a decent portion of your face but not so much that you cannot recover."
+  + "for some reason you dont want to remove that cancer --- its painful and scary and uncomfortable"
+    + "nobody wants cancer on their face and nobody wants it forceably removed"
+      + talk about assuming motives, value is subjective, I might want it removed, you cannot say that this eventuality is impossible.
+        + "if you dont remove it the results of not doing it are worse than the results of doing it"
+          + says who? And if this is the case, oh god of value, why would you assume that no person would want it removed?
+            + "minarchists see the state as this cancer"
+              + so the results of not removing the state are worse than the results of removing the state? So remove the state? We agree???
+                + "minarchists would rather have a state over the alternative"
+                  + free association? Why stop at the arbitrary few industries? Why not coercively monopolise everything? Can a soviet say they would rather have state food than free-market food? Can a brit say they would rather have the NHS than free-market healthcare? Why should I care what minarchists want, what makes their say worth more than the people who dont want a state?
+
+** "Minarchism isnt about morality/ethics, its about practicality"
++ prove the practicality
++ So you admit that you are evil by your own metrics?
+** "nobody wants rulers"
++ you absolutely do, thats what a state is
+** Public goods
++ non-excludable, provided to all
+  + e.g. if theres a defence over the whole country nobody can opt out
+    + Covenants!
+    + minarchists accept that the market can provide everything except defence/justice/protection
+      + but there are many more public goods than that
+        + public fireworks
+        + clean air
+        + information goods such as statistics
+        + open-source software
+        + radio
+** Nozick
++ Nozick counts agencies making agreements as them merging, this is a tricky ontology
+** "even though the state violates rights we need it"
++ "we cannot have a free-market without knowing what everyones rights are, so you cant have a market of rights"
+  + this confuses a system of property rights with the state, nothing says that only a single entity is able to enforce universally held rights
+  + all thats required is some inter-subjective agreement on rights, e.g. the law merchant
+** "If there are REA's wont they fight?"
++ ldle's top-level arbitration point
++ agencies are far more likely to come to an amicable agreement on how to proceed with inter-client conflicts
+** Final decision maker
++ in any dispute there must be a final decision maker. So, we need a single authority that is the final court of appeal
+  + this is fallacious; "for every dispute there is a final decision maker" does not imply "there is a final dicision maker for every dispute"
+    + "every person has a father" doesnt imply "someone is everyones father"
+** Rogue Agency Problem
++ in anarchy some rogue agency might not respect the NAP and might expand, doing awful things like taxing people and forcing arbitration and "protection" through them.
+  + worst case scenario of anarchism is statism
+** "if anarchy is so great, why hasnt it arrived?"
++ if cars are so great, why didnt they exist in the 1300s?
++ Do we have any examples of minarchist societies?
+** What a ruler is
++ A ruler is one who imposes rules on others, voluntary interaction therefore involves no rulers
+* Flow [5/6]
++ [X] what is the minarchist states job?
++ [ ] Is the free market, or coerced monopolisation the best at delivering products and services?
++ [X] Jan v Bernie Method
+  + [X] do people have the right to aggress unto others?
+  + [X] can people delegate rights they do not have?
+  + [X] does the state have the right to aggress unto others?
++ [X] Does the minarchist state tax?
+  + if no: see if actually just an ancap firm with bad economic understanding on Cato's part --- will this gigafirm originate naturally?
++ [X] Do you accept total free association?
++ [X] Suppose you have a minarchist utopia and I want to set up a competing firm that provides defense/justice/protection, would I be allowed to?
+  + if yes: would my firm not be just in protecting my customers from any theft, even from the minarchist state?
+  + if no: why not? Whos rights do I violate by setting up a company?
++ private is more efficient BUT
++ minarchism = state should exist and protect inter-personal justice, justice/protection
+  + state would be a neutral party where different private actors have a dispute
+    + why only one neutral arbitrator
+      + anyone can be the neutral arbitrator
+        + not always agreed upon
+          + why the state, and not anyone else
+    + conflict with the state
+      + use a private court with a jury that is not tied to the state
+        + what distinguishes the state from REA's
+          + it is the introduction of the legislation
+            + limits?
+              + constitution
+                + do they work?
+                  + not completely effective
+                    + why not have competition then?
+                    + like a contract
+                      + can I disagree
+                        + you can leave
+                          + can I secede?
+                            + theres an issue in that if the states only purpose is
+                            + if the minarchist state described as solely acknoledgin human rights and enforcing them
+                              + I dont advocate any particular market structure
+                                + wouldnt occur
+                                  + less efficient but more powerful
+                                    + state gives a disproportionate amount back
+                                      + why?
+          + ensures all other parties carry it out
++ public sector would be
++ what are rights?
+  + only negative rights
+    + but which ones?
+    + where do they come from
+      + subjective to the human collective???
+  + separate from property rights
+    +
++ how is ancap different to countries
+  + conquest vs voluntary
+    + why does formation matter?
+      + it is all that matters
+        + acknowledge but dont understands who mediates that
+          + whomever we can find!
+            + if I rob cato I have the choice to either give it back or not
+              + nothing to oversee
+                + im right about ethics
+                  + dont identify as ancap because he sees covenants as being states with a PR push
+                    + all that matters is control
+                  + I am right that countries shouldnt steal land
+                    + that doesnt mean he supports ancap
++ state is a complex definition
++ what differentiates state from security agencies
+  + state is a baseline
+    + for those who cant afford protection
+    + what makes it that baseline
+      + it would come about through the legislature
+        + but how did it initiate
+          + covenant community
++ state wouldnt exert authority as large private sector
+  + if an entity of the state is corrupt then they can be takeng to private court
++ cant opt out
++ markets to enforce rights
++ polycentric law is a system where providers of legal services would compete with one another
+  + dont expand to a wider definition
+    + said it was a general form
++ its ok to coerce the dumb
++ ideology shifts, so does the market
++ market motivates the development of market
++ nobody can work together without central planning
++ voluntary taxation
+  + everyone has no obligation to pay
+  + its funded the same way charities are
+    + "people would still pay"
+      + doubt it

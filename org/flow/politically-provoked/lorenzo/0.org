@@ -1,0 +1,94 @@
+#+TITLE:healthcare with lorenzo
+#+AUTHOR:LiquidZulu
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+
+* his positions
++ pro-democracy
+* Notes
+** reason costs have tripled
++ professional services - lodge practice
++ drugs and devices - patents
++ admin costs - certificates of need
+** single-payer cheaper than US
++ not a high bar
++ is it cheaper than $2 a year?
+** fallacy of empiricism
++ post hoc ergo propter hoc
+  + everyone who has gone to the moon has eaten chicken \therefore eating chicken makes you go to the moon
+  + spurious corellation
+** in africa private spending didnt reduce child mortality as much as public
+[[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7060592/][Kiross et al]]
++ name the african country that has free-market healthcare
+  + if there is a public sector that is crowding out the private sector, of course it is going to have less of an effect
+    + if state seizes all the best farmland then the private sector wont have great farms
+** elastic vs inelastic
+*** trap
++ elasticity is the degree to which demand will change based on the change in other factors
++ lorenzos debate cheat codes includes:
+  + 45% of respondents said cost was a factor in them avoiding healthcare.
+    #+begin_quote
+    + so, elasticity can refer to many different factors, its how much demand changes based on some other factor, so to clarify are you saying that /price/ wouldnt really be a factor in whether you seek healthcare?
+    #+end_quote
+    #+begin_quote
+    Approximately 45% of respondents noted that they had delayed or avoided any care due to cost in the last 12 months
+    #+end_quote
+  + Despite spending more for healthcare, US citizens use less healthcare than comparable countries
+*** "there will always be demand no matter the price"
++ "pharma companies can raise demand as much as they want"
+  + epi pens
+    + "drugmaker mylan obtained the rights to sell epipen in 2007"
+    + generic epinephrine injector manufactured by Lineage Theraputics sells for less
+  + FDA & IP
++ so setting the price of laser eye surgery at 30 trillion would result in sales?
+  + "only for life saving treatments"
+    + would enough money allow a malaria sufferer in africa to travel to a country that can treat them?
+*** outside of austrian
++ even outside of austrian economics (neoclassical) monopolists want to be on the elastic portion of the demand curve rather than the inelastic as the marginal revenue is positive
+  + if the elasticity of the demand curve truly is inelastic then the consumer who buys at that price also has an inelastic demand curve
+    + if the consumers are discontented they can warp the firms demand curve to become elastic by boycotting
+      + when consumers restrain their purchases it forces the firm to increase their production and reduce price
+** healthcare consolodation
++ hospitals and providers consolodate vertically and horizontally
+  + certificates of need
+** market failure
++ relies on a comparison to a supposed "perfect" market that doesnt exist
+  + the job of economics is to study what the market is, not what economists want it to be
++ why ought the market be pareto efficient?
+  + why not just more efficient than otherwise?
+** fraternal societies
++ cost $2 a year[fn:1][fn:2][fn:3][fn:4][fn:5][fn:6][fn:7]
+
+* definitions
+** Coercion
+The act of compelling a party into some action involuntarily through the use of threats or force.
+** Voluntary
+when an interaction is voluntary it implies that both parties consent to it, that is, that neither party is forcing the other through some aggression
+** aggression
+the initiation of conflict
+** conflict
+when people interact and their actions are not compatible
+* Opener
++ When evaluating what healthcare system is the best a question of utmost import is whether a given healthcare system is ethical or not. I think we can all agree that even if slavery was excellent for the economy, we would still want it banned. Similarly, in healthcare we can immediately discount any and all healthcare systems that are unethical, namely, any systems which are non-consensual.
+* Flow
++ fully public due to inelasticity
++
+* Footnotes
+
+[fn:1]David T. Beito, /From Mutual Aid to the Welfare State: Fraternal Societies and Social Services, 1890-1967/ (Chapel Hill: University of North Carolina Press, 2000): 117
+
+[fn:2]“Contract Practice,” West Virginia Medical Journal, 425
+
+[fn:3]Straub Sherrer, “The Contract Physician: His Use and Abuse,” /Pennsylvania Medical Journal/ 8 (November 1904):106
+
+[fn:4]“No Contract Practice for Meadville,” /Pennsylvania Medical Journal/ 13 (November1909): 148
+
+[fn:5]George Rosen, /The Structure of American Medical Practice/, 1875 – 1941 (Philadelphia: University of Pennsylvania Press, 1983), 99
+
+[fn:6]Goldwater, “Dispensaries,” 614 – 15.
+
+[fn:7]“We cannot escape from the fact that these poor people are not able to pay the most modest fee where continuous treatment is  necessary” (“The Vexed Question --- Lodge Practice,” /New York State Journal of Medicine/ 13 (November 1913): 562)

@@ -1,0 +1,120 @@
+#+TITLE: Anarcho-Capitalism vs Libertarian Socialism
+
+* Opening Statement
+Anarcho-Capitalism is composed of two parts that are unsurprisingly, anarchism and capitalism. Anarchism as a philosophy advocates strict adherence to natural law, namely an anarchist asserts the truth of and says that one ought to abide by the non-aggression principle, or NAP. This NAP is a priori true for all acting men as it derives from the pure logic of conflict.
+
+The "capitalism" in anarcho-capitalism refers to adherence by ancaps to the Austrian School of Economics, first founded by Carl Menger and later developed by Mises, Rothbard and Hayek, through to the modern day adherents such as Hoppe, Block and Salerno. Austrians are unlike many other economists in that they do not attempt to model economics through mathematics like one would with more empirical sciences, rather long chains of logical deductions from apodictic truths are common in Austrian arguments making them in turn objectively true. These chains of logical deductions are done through praxeology, the general science of human action, and thus they can only be contended with either through a praxeologic counter-argument, or by rejecting praxeology all together. Such a rejection would imply that different groups have different ways of reasoning making it impossible to reason about reasoning in general, which is known as a polylogism, coming in a few main forms, including historicism, the belief that throughout the course of history the logic of human action changes, race polylogism asserting that each race has its own logic, and class polylogism, the contention that different classes have different ways of reasoning. All of these are patently absurd.
+
+It is a common contention by those on the left that anarcho-capitalism is a fake anarchism, and that my summation above is not in keeping with the ontological history of anarchy. To refute this I cite Proudhon, the father of anarchism, in his "what is property:"[fn:1]
+#+begin_quote
+Neither heredity, nor election, nor universal suffrage, nor the excellence of the sovereign, nor the consecration of religion and of time, can make royalty legitimate. Whatever form it takes, — monarchic, oligarchic, or democratic, — royalty, or the government of man by man, is illegitimate and absurd.
+#+end_quote
+
+It is from this that the oft-shortened definition of anarchism as "no-rulers" can be derived, i.e. if we define the government of man by man as rulership it is implicit. This is where leftists will attempt to be anti-hierarchy qua hierarchy by asserting that all hierarchies involve rulership, which is false. Hierarchy is implied by consent, i.e. the hierarchy of who gets a say over the use of my body is me on top and every other person below --- a hierarchy, yet one that does not violate anyones consent. We can resolve this by saying that ruling someone isnt just being higher on a hierarchy than them, it is /imposing/ rules on them, which is how we allow for consent and adherence to natural law, as a system of consent implies a system that is conflict avoiding.
+
+Natural law theory is the area of philosophy that deals with the discovery of conflict avoiding and resolving norms, norms that can be objectively found given those two requirements. Aggression being the initiation of conflict is obviously illegal, as it is the negation of conflict avoidance, therefore the NAP is an objectively correct legal axiom. Further we can derive the homestead principle, if A begins implementing x as a means and B comes along and attempts to implement x as a contradictory means, they are in conflict, as their actions cannot both occur. It is clear that B has initiated this conflict as A had the initial use of x. This leads to an objective derivation of self-ownership under natural law, as each person uses their own body first the instant they are capable of acting, by definition.
+
+We can further justify self-ownership by considering the alternatives, as Rothbard explains:[fn:2]
+#+begin_quote
+...if each man is not entitled to full and 100% self ownership then what does this imply? It implies either one of two conditions: (1) the "communist" one of universal and equal other-ownership, or (2) partial ownership of one group by another - a system of rule by one class over another.
+#+end_quote
+
+The problem with (1) is that it cannot make for a general ethic for humanity if we wish for humanity to continue surviving, which is the case for both myself and my interlocutor. One may not utilise property without the owners permission, so universal other-ownership would imply that one may not act without first seeking the permission of every other man, but such a seeking of permission would require action on the part of the man who wishes to act, and approval of such request would require yet more action on the part of the permission-givers who must each therefore ask permission /ad infinitum/.
+
+The problem with (2) on the other hand is that this is not a universal ethic, it is rather an entirely partial and arbitrary ethic that cannot apply to all acting men and therefore cannot be in adherence to natural law. Moreover, it cannot be considered a human ethic at all, it implies that one group can not only own themselves, but others too, and the second group cannot own themselves making them sub-humans. This is the system of statism, which is what anarchism is explicitly against. Therefore anarchism must adhere to self-ownership.
+* Opponents Opening
++ anarchism is to be against regimes of domination, such as capitalism
+  + define regime of domination
++ anarchism at its base is "society ought to be organised without hierarchy or domination"
++ support for wage labour is a rejection of anarchism
++ COVID began a year or two ago and we have been experiencing a pandemic, whice effects everyone
++ issue with ancapism is that it seems to express attitudes which are reflective of feelings about the organisation of society but dont represent a complete moral theory
++ issue with things situated in rights is that they are not in fact, this opens them up to error
+  + I proved it
+    + rights refers to the truths of natural law
++ in chess you have the right to make the wrong move
++ in social theories we make the use of analytical frameworks/paradigms to study social phenomena
++ concerning to make the use of a philosophy that is true and objective because I say it is but which makes use of no empirical facts or the scientific method
++ praxeology is problematic because the statements are incomplete, not controversial, but readily subsumed in critical theory
+* Notes
+** Proudhon
+*** Property is theft
+aristocratic "property" is theft
+
+Responding to criticism of "property is theft" from Jérôme-Adolphe Blanqui, proudon states:
+#+begin_quote
+Mr. Blanqui recognizes that there are a mass of abuses, odious abuses, in property; for myself, I call /property/ exclusively the sum of those abuses.[fn:3]
+#+end_quote
+
+And again in 1841, distinguishing his belief's from those of Pierre Leroux:
+#+begin_quote
+Thus, according to Mr. Leroux, there is property and property: the one good, the other bad. Now, as it is proper to call different things by different names, if we keep the name “property” for the former, we must call the latter robbery, rapine, brigandage. If, on the contrary, we reserve the name “property” for the latter, we must designate the former by the term /possession/, or some other equivalent; otherwise we should be troubled with an odious synonymy.[fn:4]
+#+end_quote
+
+And on his deathbed:
+#+begin_quote
+I protest that in criticizing property, or rather the whole body of institutions of which property is the pivot, I never meant either to attack the individual rights recognized by previous laws, or to dispute the legitimacy of acquired possessions, or to instigate an arbitrary distribution of good, or to put an obstacle in the way of the free and regular acquisition of properties by bargain and sale; or even to prohibit or suppress by sovereign decree land-rent and interest on capital. I think that all these manifestations of human activity should remain free and optional for all; I would admit no other modifications, restrictions, or suppressions of them than naturally and necessarily result from the universalization of the principle of reciprocity and of the law of synthesis which I propound. this is my last will and testament. I allow only him to suspect its sincerity, who could tell a lie in the moment of death.
+#+end_quote
+** Rothbard stating that ancap is anarchism with austrian econ
+#+begin_quote
+First, I must begin by affirming my conviction that Lysander Spooner and Benjamin R. Tucker were unsurpassed as political philosophers and that nothing is more needed today than a revival and development of the largely forgotten legacy that they left to political philosophy... I am, therefore, strongly tempted to call myself an “individualist anarchist,” except for the fact that Spooner and Tucker have in a sense preempted that name for their doctrine and that from that doctrine I have certain differences. Politically, these differences are minor, and therefore the system that I advocate is very close to theirs; but economically, the differences are substantial, and this means that my view of the consequences of putting our more or less common system into practice is very farm from theirs.[fn:5]
+#+end_quote
+** LTV
++ does not hold true for every scenario:
+  + if everyone starts to pay based on time spent rather than labour it isnt true
++ STV does hold true in every scenario
++ "LTV is compatible with STV; its simply an observation of how labour is valued"
+  + this is non-objective
+  + at best it is a pointless observation, simply being empirical happenstance and thus useless in crafting economic theory.
+* Flow
++ dom/sub relationship (BDSM), its an equivocation to conflate with wage labour
+  + cant consent to a contition you are born into, dont consent to being someone who is not an owner of large amounts of wealth, you dont consent to being someone who in order not to starve you must sell your labour.
+    + dont make argument that everyone doesnt benefit from existence of businesses where you can sell your labour and earn living. The issue here is that its a coercive social realtionship
+      + what are the criteria that define when a relationship is coercion
+        +
+    + you can choose where to go in the market, but you cant choose to refuse work when in precarious position
+      + you could make like socrates and die
+        +
++ against historicism, have to analyse history, have to study how early accumulations of capital lead to this situation
+  + seem to be expressing an attitude
+    + I dont know what this means
++ engaged in the civil society that creates attitudes
+  + non-statement
++ natural rights is something that isnt exclusive to ancaps, UN talks about natural rights
+  + they are wrong about it, they are positivists, not based in natural law
++ what I was saying about models holds true for praxeology
+  + praxeology gets subsumed within models
++ crusoe economics is problematic because pansabee doesnt understand how I say...
+  + doesnt understand how my model point squares with ancapism
++ ancaps often like to make the arguments that capitalism and markets are tied, markets existed before capitalism
+  + define capitalism
+    + its a regime of domination because it relies on this social relation of people who have property and massive amounts of wealth and those who have none
++ wages trend towards subsistence
++ Is taxation theft
+  + theft is a legal definition of a crime
+    + state says what a crime is and isnt
+      + arent you supposed to be opposed to the state
+        + do you disagree with my definition of natural law theory?
+          + yes, but why?
+            +
++ welfare
+  + what to welfarise
+    + its a subsidy on the welfare trait
++ double speak is saying that against states prosecuting crimes but referencing nuremberg trials
++ argument that there can be anarchist courts sounds like the state
+  + how does it/its deal with rights infringements
+    + seems very conceptual, a number of ways
+      + simply criticising that which is indistinguishable from the state
++ anti-discrimination laws
+  +
+* Footnotes
+
+[fn:1]Qu’est-ce que la propriété. (translated [[https://theanarchistlibrary.org/library/pierre-joseph-proudhon-what-is-property-an-inquiry-into-the-principle-of-right-and-of-governmen][here]], [[https://archive.ph/Qeatc][archived]])
+
+[fn:2]Murray Rothbard, /The Ethics of Liberty/ p.45
+
+[fn:3]Qu’est-ce que la propriété, xviii. (translated [[https://theanarchistlibrary.org/library/shawn-p-wilbur-pierre-joseph-proudhon-self-government-and-the-citizen-state][here]], [[https://archive.ph/0kUAU][archived]])
+
+[fn:4]Proudhon, Lettre à Mr Blanqui sur la propriété: deuxième mémoire, (Paris: Prevot, 1841): 130. (translated [[https://theanarchistlibrary.org/library/shawn-p-wilbur-pierre-joseph-proudhon-self-government-and-the-citizen-state][here]], [[https://archive.ph/0kUAU][archived]])
+
+[fn:5]Rothbard, /The Spooner-Tucker Doctrine/

@@ -1,0 +1,88 @@
+#+TITLE:
+#+AUTHOR:LiquidZulu
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medicine.csl
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Notes
+** Minarchism = Minimal State
++ Minimal = least amount necessary
+  + why is any state necessary?
+    + to run defense etc
+      + markets superior than monopolies
+** The State is De-Civilising
+*** Taxation is de-civilising
++ Taxation invariably runs counter to the natural tendancy of time preference to fall, as it disincentivises saving and production --- if I know that I will be robbed for producing or attempting to save I will have higher time preference
+  + see [[Taxation is a means of the destruction of property][here]] for more info.
++ Taxation may even reverse the tendancy, that is, it may effect a tendancy for time preference to go up --- in effect pointing society down a path of de-civilisation towards bare subsistence living.
+*** Taxation is a means of the destruction of property
++ Taxation is a coercive, non-contractual, transfer of definite physical assets, from their rightful owners who whilst in possession could have derived income from holding them, to some other person or group of people who can now derive income from holding them.
++ How did these assets come into possession of the original owner? There are three possibilities:
+  1. The owner perceives some nature-given goods as scarce and actively brings them into his possession before anyone else takes this action --- homesteading
+  2. The owner produced them through nature-aquired goods that he previously homesteaded --- production
+  3. Through voluntary, contractual, aquisition from a previous appropriator or producer --- trade
++ Only through these methods is one capable of aquiring taxable assets.
++ From this it follows that any form of taxation implies a reduction of income a person can expect to receive from homesteading, production, or trade.
++ Since these activities require the employment of scarce means which could be used for consumption or leisure, the opportunity cost of performing them is raised.
++ The marginal utility of homesteading, producing, and trading is decreased and the marginal utility of consumption and leisure increased.
++ Accordingly, there will be a tendency to shift from the former means to the latter ones.
++ Thus, taxation, in its reduction of both present and future income for producers, effects a tendancy towards higher time preferences cetirus paribus.
+** Ancaps assume a motive, that minarchists see the state as a positive force
++ if this isnt true why would you want any state? Clearly you do see some amount of statism as positive
+** Taxation is theft
++ Theft is the non-consensual taking of anothers property
+  + tax is the non-consensual taking of anothers property
+    + \therefore taxation is theft
+** Cancer face example
++ "imagine you have cancer in your face, that starts in your tooth. spreads to cover a decent portion of your face but not so much that you cannot recover."
+  + "for some reason you dont want to remove that cancer --- its painful and scary and uncomfortable"
+    + "nobody wants cancer on their face and nobody wants it forceably removed"
+      + talk about assuming motives, value is subjective, I might want it removed, you cannot say that this eventuality is impossible.
+        + "if you dont remove it the results of not doing it are worse than the results of doing it"
+          + says who? And if this is the case, oh god of value, why would you assume that no person would want it removed?
+            + "minarchists see the state as this cancer"
+              + so the results of not removing the state are worse than the results of removing the state? So remove the state? We agree???
+                + "minarchists would rather have a state over the alternative"
+                  + free association? Why stop at the arbitrary few industries? Why not coercively monopolise everything? Can a soviet say they would rather have state food than free-market food? Can a brit say they would rather have the NHS than free-market healthcare? Why should I care what minarchists want, what makes their say worth more than the people who dont want a state?
+
+** "Minarchism isnt about morality/ethics, its about practicality"
++ prove the practicality
++ So you admit that you are evil by your own metrics?
+** "nobody wants rulers"
++ you absolutely do, thats what a state is
+** Public goods
++ non-excludable, provided to all
+  + e.g. if theres a defence over the whole country nobody can opt out
+    + Covenants!
+    + minarchists accept that the market can provide everything except defence/justice/protection
+      + but there are many more public goods than that
+        + public fireworks
+        + clean air
+        + information goods such as statistics
+        + open-source software
+        + radio
+** Nozick
++ Nozick counts agencies making agreements as them merging, this is a tricky ontology
+** "even though the state violates rights we need it"
++ "we cannot have a free-market without knowing what everyones rights are, so you cant have a market of rights"
+  + this confuses a system of property rights with the state, nothing says that only a single entity is able to enforce universally held rights
+  + all thats required is some inter-subjective agreement on rights, e.g. the law merchant
+** "If there are REA's wont they fight?"
++ ldle's top-level arbitration point
++ agencies are far more likely to come to an amicable agreement on how to proceed with inter-client conflicts
+** Final decision maker
++ in any dispute there must be a final decision maker. So, we need a single authority that is the final court of appeal
+  + this is fallacious; "for every dispute there is a final decision maker" does not imply "there is a final dicision maker for every dispute"
+    + "every person has a father" doesnt imply "someone is everyones father"
+** Rogue Agency Problem
++ in anarchy some rogue agency might not respect the NAP and might expand, doing awful things like taxing people and forcing arbitration and "protection" through them.
+  + worst case scenario of anarchism is statism
+** "if anarchy is so great, why hasnt it arrived?"
++ if cars are so great, why didnt they exist in the 1300s?
++ Do we have any examples of minarchist societies?
+** What a ruler is
++ A ruler is one who imposes rules on others, voluntary interaction therefore involves no rulers

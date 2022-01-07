@@ -1,0 +1,16 @@
+#+TITLE:Aquinas v Dawkins on God's Existence
+#+AUTHOR:LiquidZulu
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Notes
+** Dawkins' Failures
++ Dawkins never actually quotes Aquinas and merely strawmans him
++ not a philosopher
+** first three proofs
++ dawkins says they are different ways of saying the same thing
+  + they dont get there the same way
+** Argument from Mot

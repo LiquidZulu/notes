@@ -1,0 +1,64 @@
+#+TITLE:Pravate management is anarchy
+#+AUTHOR:LiquidZulu
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medicine.csl
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Notes
+** Anarchy Defintion
++ No rulers
+** Ruler Definition
++ One who imposes rules on others
+** Public property is not anarchy
+1. anarchy is a system with no rulers
+2. public property requires management or else it is simply nature
+3. In the management of public property some individuals will necessarily not have their desire for that property taken, assuming not every individual has the same values
+4. Those individual's would be having rules imposed on them by someone
+5. that someone is a ruler
+6. \therefore public ownership is not anarchistic.
+** "ancap isnt anarchy then because you impose rules on other people for how to use private property"
++ crusoe example --- trade isnt having rules imposed on you.
+** Public property isnt possible
+1. ownership is the exclusive say over how something may be used
+2. public property prevents anyone from having exclusive say
+3. public property is not truly owned
+4. \therefore public property is self contradictory
+** Workers owning the means of production means
+1. no need for the state to enforce class anymore
+   + I would not have class be enforced by the state as I would not have a state
+2. no need for money anymore because moneys only purpose is to represent the commodity form
+   + money is also useful for trade, sound money naturally arises in a free-market.
+* Qs [/]
++ [ ] Is a democratically chosen position necessarily ethical and/or moral?
+  + lynch mobs
++ need management
++ private owners use it
++ "my system is voluntary"
++ how does property come into being
++ property doesnt exist
+  + property is subjective
+    + how can you punish
+      + property is relative to the structure
+        + no justification for punishment
+          + its a subjective framework
+            + not might makes right
+              + thats how property functions
+                + I havent prescribed a system
+                  + you prescribed a moral system
++ worker not voluntary
+  + some people never able to own mop
+    + different levels of voluntary
+      + deny structural coercion
+        + whats structural coercion
+          + the way societies set up necessitates certain actions for it to move in a certain structure
+            + give an algorithm
+              + its absurd
+                + so no algorithm?
+                  + no individuals are structurally coercive
+                    + is seizing
++ YOU DO HAVE A SAY OVER YOUR MIND
++ say is when you are able to tell others what you can

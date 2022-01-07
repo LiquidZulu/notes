@@ -1,0 +1,24 @@
+#+TITLE:Notes on the ECP
+#+AUTHOR:LiquidZulu
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Mises' Essay
+https://cdn.mises.org/Economic%20Calculation%20in%20the%20Socialist%20Commonwealth_Vol_2_3.pdf
+
+** Thesis
+In a socialist economy rational economic calculation is impossible; its attempts to allocate resources efficiently in the absence of private ownership of the means of production must fail.
+
+** Characteristics of Central Planning
++ Central planning seeks to replace billions of individual decisions made by consumers in the market with "rational economic planning" by a few vested with the power to determine the who, what, how, and when of production and consumption.
++ Without private ownership of the means of production those means are not exchanged, thus, it is impossible to establish prices that reflect actual conditions. If there are no prices there is no method of finding the most effective combination of the factors of production.
+*** Problems with pegging "planned profits" to a function of cost
++ this incentivises over-spending which is over-consumption
+
+** Criticisms
+*** Oskar Lange
++ Lange's model has an economy with a free market in consumer goods.
++ the production sphere is organised into enterprises and branches, and there is a central planning board.

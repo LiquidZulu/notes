@@ -1,0 +1,85 @@
+#+TITLE:Taxation is theft
+#+AUTHOR:LiquidZulu
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Definitions
+** Theft
+#+begin_quote
+A criminal act in which property belonging to another is taken without that person's consent.[fn:1]
+#+end_quote
+** Murder
+#+begin_quote
+the crime of unlawfully killing a person especially with malice[fn:2]
+#+end_quote
+
+* Notes
+** Social Contract
+*** Explicit Contract Theory
++ the theory goes that people literally got together and signed a contract
++ Locke believed this
++ completely ahistoric
+*** Hypothetical Contract Theory
++ the theory that people /would/ agree to set up a government
++ it didnt actually happen but people would have agreed
++ anarchists exist
++ Bring up that the IRS doenst give you the choice because its obvious that basically everyone would refuse
+*** "people delegate the power to the state"
++ do people have that power in and of themselves
+** Taxes give you free stuff
++ you cant really call something free if money is seized from you to provide it
++ and regardless this doesnt make it not theft
+** Taxes are used for good things
++ taxation will necessarily allocate money differently to how people wanted it allocated, as otherwise there would be no need for it
+** Its the law
++ [[Murder]] definition
+** Who would build the roads
++ if people want something they will be willing to pay for it
+** People wouldnt pay if they had the choice
++ which directly implies that its non-consensual, implying its theft
+** you use things taxation funds implying consent
++ moat example
+** wage labour is the real theft
++ crusoe economics
+* Flow
++ Taxes are used for good things
+  + taxation will necessarily allocate money differently to how people wanted it allocated, as otherwise there would be no need for it
++ People wouldnt pay if they had the choice
+  + which directly implies that its non-consensual, implying its theft
+    + its one aspect, the money is being redistributed and given back to "the people"
+      + but is it consensual?
+        + no
+          + then its theft
++ government owns your money
+  + how does property come into being
+    +
++ state is voluntary
+  + not unjust anymore
+    + anarchists exist
++ ways not not be taxed
++ definition
+  + democracy
+    + is democracy consent
+      + stable state body
++ taxation has a moral obligation for societ
+  + everyone can partake in the spoils
+  + public works
+    +
+  + productive
+    + de-civilising
+      + yes
+        +
++ why is it consensual
+  +
++ how does property come into being
++ what is your definition of theft
+  +
++ social contract
+  +
+* Footnotes
+[fn:2]https://www.merriam-webster.com/dictionary/murder
+
+[fn:1]https://legal-dictionary.thefreedictionary.com/theft

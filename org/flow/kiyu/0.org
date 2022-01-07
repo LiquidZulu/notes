@@ -1,0 +1,75 @@
+#+TITLE:Anarchism debate
+#+AUTHOR:LiquidZulu
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Notes
+** Collective action problem
++ concerns the redistribution of goods
++ concerns so-called public goods
+*** Free-Rider Problem
++ public fireworks
++ clean air
++ information goods such as statistics
++ open-source software
++ radio
+** Public Goods
+*** Table
+            +-----------------------------+-------------------------+
+            | Excludable                  | Non-Excludable          |
++-----------+-----------------------------+-------------------------|
+| Rival     | Private Goods               | Common Goods            |
+|           | "Typical goods"             | "Common Pool Resources" |
+|           | (clothes, food)             | (Mines, fisheries)      |
+|-----------+-----------------------------+-------------------------|
+| Non-Rival | Club Goods                  | Public Goods            |
+|           | "Artificially Scarce Goods" | "Collective goods"      |
+|           | (Cable TV, Cinemas)         | (Air, News, Fireworks)  |
++-----------+-----------------------------+-------------------------+
+*** Problems
++ suppose you have a genuine public good, that entrepreneurs cannot produce. This does not then imply that welfare is improved by robbing people to provide it
+
+* Questions
++ are competing firms or central planning more efficient at allocating scarce resources?
+* Flow
++ very capitalist
+  + capitalism relies on authoritarianism and state backed violence
+    + property rights is not a right unless its enforced
+      + was the holocaust a rights infringement
+        + it was
+          +
++ commitment problems
+  + when you took something theres no obligation to fulfil trade?
+
++ what are rights
+  +
+  + if given by state how is holocaust an
++ "should have"
+  +
++ why not work?
+  + commitment problems
+    + when one player enacts a trade and the second
++ why extinction
+  +
++ game theory
+  +
++ every mercenary interaction prisoners dilemma
+  + start company
+  + see guy with pistol
+  + hes your bodyguard
++ not interrupting would be a first lol
++ defender (zulu) attacker is that anarchism wont work
+  + collective action problem
+    + coordination problem
+  + free rider problem
+    + not the same thing
+    + anarchy is free rider as nobody is incentivised to provide public goods
+  + commitment problem
+    + no 3rd party
+      + why not?
+        + if decentralised theres nothing preventing from being bought out
+          + is one less likely to be bought out
+            +

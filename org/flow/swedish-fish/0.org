@@ -1,0 +1,71 @@
+#+TITLE:What are rights?, Do Constitutions work?, 2A, etc.
+#+AUTHOR:LiquidZulu
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medicine.csl
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Text Flow
+/this is a flow for a text debate we had leading up to this debate/
++ Sortition is bad because its still mob rule
+  + Mob rule isnt bad
+    + bad for those who have been lynched, gang raped, and taxed
+      + constitution prevents that
+        + did it prevent infringement on 2A?
+          + guns arent a right
+            + but did the constitution protect 2A, whether you agree with it or not?
+              + SCOTUS struck down some gun control
+        + what are rights?
+          + Negative rights, like right to ownership, excluding lethal weaponry
+            + why is lethal weaponry excluded?
+              + Making it easier to murder each other isn't conducive to a safe and free society
+              + knives arent as easy to kill as guns
+              + No gun is going to stop an M1 Abrams or a drone from carpet bombing you. If the government decides to go full on auth, we're already fucked. Guns will only slightly delay the inevitable.
+  + the constitution codifies rights
+** His derived positions
+*** Mob rule isnt bad
+counter with lynch mobs and gang rapes
+*** Constitutions work
+counter with 2A
+*** Negative rights excluding ownership of weapons
+**** Exclude weapons because making it easier to kill isnt conducive to a free society
+where is the line, and why? Use Aegis' car counter
+*** Guns wont stop the state
++ having no guns definitely wont stop the state
++ the fact that it would be futile is not an argument that the state should ban them
++ if guns are so useless why do you need to ban them
+**** examples of when guns did stop the state
+***** Cherán
++ Evicted mafia loggers and the local government using farming implements[fn:1]
+***** Vietnam
+***** Don Alejo Garza Tamez
++ defended his home from cartel soldiers, on his own
+***** Battle of Thermopylae
++ Small spartan force held off the invading persians for 3 days
+***** American revolution
+***** Bolsheiviks
++ failed in the 1905 revolution
++ Lenin had to reign in bogdanov and others who wanted all out war (adventurism), with lenin in favour of speaking german (opportunism)
++ Bolsheiviks were a small fraction of the February government (centrist liberal, lead by Alexander Kerensky) that deposed the tsar
++ General Kornelov attempted to overthrow this government, in favour of monarchy
++ Adventurists wanted to continue the all out opposition to Kerensky's liberal government, to stand aloof from the battle
++ this would mean probable victory for Kornelov
++ Opportunists wanted to fight unconditionally against Kornelov
++ Lenin chose to aid Kerensky against Kornelov but demanded radical concessions, essintially making the bolsheiviks the de-facto heads of the anti-tsarist forces and then of russia
+***** USSR was overturned
+***** Drug War
+***** AOC needs therapy for PTSD after capitol protests
+** His other opinions
+*** Georgism
+*** "praxeology is dumb, austrianism isnt backed up by evidence"
+** Bring Up
+*** Schodingers Guns
+"Why ban guns, are they like weapons of war?"
+**** weapon of war that cant be used against military
+
+* Footnotes
+
+[fn:1][[https://www.latimes.com/world/mexico-americas/la-fg-mexico-cheran-20170710-htmlstory.html#][Patrick J. McDonnell, "One Mexican town revolts against violence and corruption. Six years in, its experiment is working"]]; "On April 15, 2011, before dawn, the people of Cheran sounded the bells at the Roman Catholic Chapel of the Calvary and set off homemade fireworks to summon help. Few had firearms, so they brought picks, shovels and rocks."

@@ -1,0 +1,107 @@
+#+TITLE:Neo-Pragmatism debate
+#+AUTHOR:LiquidZulu
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* notes
+** LPMC is the caucus of principle
+https://lpmisescaucus.com/platform/, /Plank 1 --- Property Rights/, "We condemn all fraud and initiatory violence towards a person’s life, liberty, and property." ([[https://archive.ph/5upKF][archived]])
++ forcing businesses to associate with those they do not want to is initiatory violence
+* Definitions
+** Aggression
+"Aggression" is defined as the "initiation" of physical force against persons or property, the threat of such, or fraud upon persons or their property.
+** Oppression
+unjust or cruel exercise of authority or power[fn:1]
+
+as the debate focuses on legality we can rewrite as:
+unjust exercise of authority or power
+* Resolution
+The executive orders passed by Gov Abbot in TX banning vaccine mandates for any entity is equally as oppressive as the executive orders issued by President Biden requiring vaccine mandates for business with more than 100 workers
+
+* Flow
++ no concept of "more illegaler"
+  + something can be more or less oppressive
+    + non-aggression \ne pacifism
+      + someone swings a punch doesnt mean you must take the beating
+        + when someone is aggressive you can respond
+          + first mover is the federal government
+            + was the state responding
+              + state acting for the people
+                + mafia analogy
+                + jim crow hypothecal
+                  + oppression is legality
+                    + legality is differenet from oppressive
+                      + definition of oppressive
+                        + if I have owner 1 and 2, 1 is nicer
+                          + preference is not this discussion
+                            + ordinality is the personal preference, not legality
+                              + positivism
+                                +
++ negating the mandate and implementing a mandate on top
+  + part of the law is writing something
+    + "OK if abbot says you cant do it here, but adding ex"
+    + rape isnt aggression
+    + "the people think its a good thing"
+      + "is it the same oppression"
+        + not arguing from legality
+          + under natural law the purpose of justice is that its between two individuals
+            + sneaking in morality
+              + "govt exists"
+                +
++ "non aggression not pacifism"
+  + never made that argument
++ levels within legality
+  + action that says you can keep doing business as normal
+    + what if its funded in part by
+      + can the state initiate any law they want because basically everyone has received money
+        + no
+          + ok, why is it fine when abbot did it?
+            +
+      + could invision that some businesses want to discriminate
+        + then you dont need the mandate, i
++ paid for by govt to any degree
+  + is taxation just for anyone who has ever taken govt funds
+    +
+  + you could construe that the person who did it all alone still could require proof of vaccination
++ order was aggressive
+  + illegal
+    + justifyable
+      + under what criteria
+        + because it moves against Biden order
+          + when justifyable?
+            + because cathedral
+              + have been waging a war
+                + have been aggressing
+                  + can respond in kind
+                    + can negate the order
+                      +
+            + ill know it when I see it
+              + no criteria means no principle
+                + no principle means inconsistent
+                  + inconsistent violates ~(P\wedge~P)
+                    +
++ without the US involvement in WW1 no holocaust
+  +
++ more unjust than the other
+  + it has layers???
+    + how to tell which is more unjust
+      +
++ it is aggressive x2
+  + \therefore illegal
+    + can something be more illegal
+      + something cant be more oppressive
+        + QED
++ positivism
+  + no
++ NAP?
+  + yes
++ not about a priori
+  + about what actually happens
+    + grant the theoretic case
+      + so what he is saying is that the government
+* Footnotes
+
+[fn:1]https://www.merriam-webster.com/dictionary/oppression

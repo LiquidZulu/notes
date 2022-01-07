@@ -1,0 +1,560 @@
+#+TITLE:Physics Cheatsheet
+#+AUTHOR:LiquidZulu
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+STARTUP: latexpreview
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Photonics and Optics
+** Snell's Law
+For monochromatic light in a given material, snells law states:
+
+$$
+  \frac{\sin{\theta_2}}{\sin{\theta_1}} = \frac{v_2}{v_1} = \frac{n_1}{n_2}
+$$
+
+Where $\theta$ is the angle measured from the normal to the ray, $v$ is the velocity of light in the respective medium, and $n$ is the refractive index of the respective medium.
+
+#+CAPTION:Refraction of light at the interface between two media of different refractive indices, with n2 > n1. Since the velocity is lower in the second medium (v2 < v1), the angle of refraction θ2 is less than the angle of incidence θ1; that is, the ray in the higher-index medium is closer to the normal.
+[[./images/snells-law.png]]
+** Malus' Law
+$\begin{array}{c} A = A_0 \cos{\theta} \\ I \propto A^2 \\ A^2 = {A_0}^2 \cos^2{\theta}\end{array}$
+
+Gives us Malus' Law:
+$I = I_0 \cos^2{\theta}$
+
+Where $\theta$ is the angle of the second polarising filter, $I$ is the intensity of light coming out of that filter, and $I_0$ is the initial intensity, that is, the intensity of polarised light going into the second filter.
+** Brewster's Angle
+Brewster's angle (also known as the polarization angle) is an angle of incidence at which light with a particular polarization is perfectly transmitted through a transparent dielectric surface, with no reflection. When /unpolarized/ light is incident at this angle, the light that is reflected from the surface is therefore perfectly polarized.
+
+$\theta_B = \arctan{\frac{n_2}{n_1}}$
+Where $\arctan{x}$ is the inverse tangent of $x$, and $n_a$ is the refractive index of $a$.
+** curved refractive surface
+*** Thick lens equation (f, n_lens, R_1, R_2, t)
+$\frac{1}{f} = \left(n_{lens} - 1\right)\left[\frac{1}{R_1} - \frac{1}{R_2} + \frac{\left(n_{lens} - 1\right)t}{n_{lens}R_1 R_2}\right]$
++ $f$ - The focal point from the rear principle plane
++ $n_{lens}$ - The refractive index of the lens
++ $R_1$ The radius of curvature of the front surface
++ $R_2$ The radius of curvature of the rear surface
++ $t$ -  The thickness of the lens
+*** thin lens equation (f, n_lens, n_material, R_1, R_2, s_o, s_i)
+also called lensmakers equation, thin lens is a good approximation:
+
+$\frac{1}{f} = \left(n_{lens} - 1\right)\left[\frac{1}{R_1} - \frac{1}{R_2}\right]$
+
+or immersed in some non-air or non-vacuum:
+
+$\frac{1}{f} = \left(\frac{n_{lens}}{n_{material}} - 1\right)\left[\frac{1}{R_1} - \frac{1}{R_2}\right]$
+
+*** paraxial equation (n_1, n_2, s_o, s_i, R)
+$\frac{n_1}{s_o} + \frac{n_2}{s_i} = \frac{n_2 - n_1}{R}$
+*** focal length
+**** single curved surface (f_o, f_i, n_1, n_2, R)
+when object sits on focal point s_i goes to infinity (far field)
+$f_o = \frac{n_1 R}{n_2 - n_1}$
+
+when object at infinity rays converge at focal point
+$f_i = \frac{n_2 R}{n_2 - n_1}$
+**** lens
+***** back focal length (f, n_l, t, f, R_1)
+bfl is farfield light being focused to a point
+
+$bfl = f - \frac{\left(n_l - 1\right)tf}{n_l R_1}$
+
+or for multiple lenses:
+$bfl = \frac{f_2 \left(d - f_1\right)}{d - \left(f_1 + f_2\right)}$
+***** front focal length (f, n_l, t, f, R_2)
+ffl is an object at the focal point being columnated
+
+$ffl = f - \frac{\left(n_l - 1\right)tf}{n_l R_2}$
+
+or for multiple lenses:
+$ffl = \frac{f_1 \left(d - f_2\right)}{d - \left(f_1 + f_2\right)}$
+***** effective focal length
+As distance goes to zero it becomes easy to calculate
+$\frac{1}{efl} = \frac{1}{f_1} + \frac{1}{f_2} - \frac{d}{f_1 f_2}$
+
+*** lateral magnification (n_1, n_2, y_1, y_2, s_o, s_i, m)
+
+$n_1 \frac{y_1}{s_o} = -n_2 \frac{y_2}{s_i}$
+
+where y_1 is the object and y_2 is the image of that object. right hand side negative as its upside down
+
+$\frac{y_2}{y_1} = m = - \frac{n_1 s_i}{n_2 s_o}$
+
+for thick lenses:
+$M = \frac{y_i}{y_o} = -\frac{s_i}{s_o}$
+
+for multiple lenses close together:
+$M_1 = -\frac{f_1}{s_{o_1} - f_1}$
+
+$M_2 = -\frac{s_{i_2}}{d - s_{i_1}}$
+
+$M_T = M_1 M_2$
+*** angular magnification
+$M_\theta = \frac{\theta_e}{\theta_o} = \frac{\left(\frac{h}{f_e}\right)}{\left(\frac{h}{f_o}\right)} = \frac{f_o}{f_e} = \frac{f_1}{f_2}$
+*** gaussian lens formula (s_o, s_i and f)
+For a thick lens:
+$\frac{1}{s_o} + \frac{1}{s_i} = \frac{1}{f}$
+*** sign convention
+[[./images/optics-sign-convention.png]]
+[[./images/optics-sign-convention-thick.png]]
+*** lens power
+the degree to which a refractive lens, reflective mirror, or combined optical system converges or diverges light, measured in dioptre or $m^{-1}$:
+
+$P = \frac{1}{f}$
+*** telescope fov
+[[./images/telescope-fov.png]]
+*** two lenses close together
+$$
+  s_{i_2} = \frac{
+    f_2 d - f_2\left[\frac{
+      s_{o_1} f_1
+    }{
+      s_{o_1} - f_1
+    }\right]
+  }{
+    d - f_2 - \left[\frac{
+      s_{o_1} f_1
+    }{
+      s_{o_1} - f_1
+    }\right]
+  }$$
+*** diagrams
+Thick lens:
+[[./images/thick-lens-diagram.png]]
+** curved reflective surface
+*** focal length
+$f=-\frac{R}{2}$
+concave: negative because R is negative, due to being on the left, so f is positive
+convex: R pos so f negative, defocuses
+*** object and image distance
+$\frac{1}{s_o} + \frac{1}{s_i} = \frac{1}{f} \therefore \frac{1}{s_o} + \frac{1}{s_i} = -\frac{2}{R}$
+*** magnification
+$M_T = \frac{y_i}{y_o} = -\frac{s_i}{s_o}$
+*** ray diagrams
+[[./images/optics-mirror-ray-diagrams.png]]
+*** sign convention
+[[./images/optics-sign-convention-mirror.png]]
+[[./images/optics-sign-convention-mirror-2.png]]
+** optical aberrations
+[[./images/optical-aberrations.png]]
+$\nu$ is abbe number:
+[[./images/abbe-number.png]]
+** Wave Optics
+*** refractive index derivation
+$$n=\frac{c}{v}$$
+*** Plane wave equation (electric field)
+$\operatorname{E}(x,t) = E_0\cos(kx-\omega t + \varphi_1)$
+
+$$\vec{E} = \vec{E}_0\cdot\cos(\vec{k}\cdot\vec{r}-\omega t + \varphi)$$
+
+$$\operatorname{E}(x,t) = E_0\cos(kx - \omega t + \varphi_1) = Re\left[E_0 e^{i(kx - \omega t + \varphi_1)}\right]$$ <- because eulers formula
+
+$$\tilde{E} = E_0 e^{i(kx - \omega t + \varphi_1)} \implies E=\tilde{E}+ \overline{\tilde{E}}$$
+**** wavenumber
+$$k = \frac{\tau}{\lambda}n$$
+n refractive index
+**** angular frequency
+$$\omega = \tau f = \frac{\tau}{T}$$
+**** ang freq / wavenumber = speed of light
+$$\frac{\omega}{k} = \lambda f = c$$
+*** Intensity
+$$I=\frac{1}{2}\cdot n\cdot \varepsilon_0\cdot  c\cdot  {E_0}^2 \implies I \propto {E_0}^2$$
+*** Superposition
+$$\begin{align}\begin{aligned}
+    \operatorname{E}_T(z,t) &= E_0\sin(\omega t + \alpha_R) \\
+    {E_0}^2 &= {{E_0}_1}^2 + {{E_0}_2}^2 + 2{{E_0}_1}{{E_0}_2}\cos(\alpha_1 - \alpha_2)
+  \end{aligned}
+  & \leadsto \begin{cases}
+    \operatorname{E}_1(\omega) + \operatorname{E}_2(\omega) = \operatorname{E}_T(\omega)& \\
+    \alpha_R = \alpha_R((\alpha_1 - \alpha_2), E_1, E_2)& \\
+    E_T = E_T((\alpha_1 - \alpha_2), E_1, E_2)& \\
+    \alpha_1 - \alpha_2 = (2m)\pi &\rightarrow \begin{array}{ccc}{{E_0}_{\text{max}}}^2  & \widehat{=} & \text{Constructive interference} \end{array} \\
+    \alpha_1 - \alpha_2 = (2m + 1)m &\rightarrow \begin{array}{ccc} {{E_0}_{\text{min}}}^2 & \widehat{=} & \text{Destructive interference} \end{array} \\
+  \end{cases}
+\end{align}$$
+
+counterpropagating waves in cavity:
+$$E_T(z,t) = 2{E_0}_1\sin(kz)\cos(\omega t)$$
+
+waves with different frequencies:
+
+$$\begin{array}{c}
+  \bar{k}:= \frac{k_1 + k_2}{2},\bar{\omega}:= \frac{\omega_1 + \omega_2}{2},k_m:= \frac{k_1 - k_2}{2},\omega_m:= \frac{\omega_1 - \omega_2}{2} \\ \\ \\
+  E_T(z,t) = 2{E_0}_1\cos(\bar{k}z - \bar{\omega}t)\cos(k_m z - \omega_m t)
+\end{array}$$
+*** polarization of light
+if:
+
+$${E_0}_x = {E_0}_y = {E_0}$$
+$$\Delta\varphi=\pm m\pi$$
+
+Then the polarization is linear at $45^\circ$. +ve for $\Delta\varphi=\pm 2m\pi$, and -ve for $\Delta\varphi=\pm(2m + 1)\pi$
+
+if:
+
+$${E_0}_x \ne {E_0}_y$$
+$$\Delta\varphi=\pm m\pi$$
+
+Then the polarization is linear forming an angle $\alpha$:
+
+$$\alpha=\tan^{-1}\frac{{E_0}_y}{{E_0}_x}$$
+
+if:
+
+$${E_0}_x = {E_0}_y = E_0$$
+$$\Delta\varphi=\pm \frac{\pi}{2}$$
+
+Then the polarisation is circular, -ve right handed and +ve left handed.
+
+if:
+
+$${E_0}_x \ne {E_0}_y$$
+$$\Delta\varphi\ne\pm m\pi$$
+
+Then the electric field draws an ellipse, making an angle $\psi$ with the x-axis:
+
+$$\tan 2\psi = \frac{2{E_0}_x{E_0}_y\cos\varphi}{{E_0}_x^2-{E_0}_y^2}$$
+
+**** Fermat's principle
+
+Light propogates along the path that minimises the integral:
+
+$$t = \frac{1}{c}\int_A^B n\text{d}s$$
+
+It gives snells law as:
+
+$$n_i\sin\theta_i = n_t\sin\theta_t$$
+
+Fresnels coefficients:
+
+[[./images/fresnel-coeffs.png]]
+[[./images/fresnel-coeffs-1.png]]
+[[./images/fresnel-coeffs-2.png]]
+[[./images/fresnel-coeffs-3.png]]
+[[./images/fresnel-coeffs-4.png]]
+*** coherence, interference and diffraction
+**** coherence
+[[./images/temporal-coherence.png]]
+[[./images/temporal-coherence-1.png]]
+
+
+[[./images/spatial-coherence.png]]
+
+**** diffraction
+[[./images/diffraction-A.png]]
+[[./images/diffraction-B.png]]
+
+**** Interference
+***** Youngs double slit
+[[./images/double-slit.png]]
+***** Lloyd's interferometer
+[[./images/lloyd-interferometer.png]]
+***** Michelson interferometer
+[[./images/michelson-interferometer.png]]
+***** Mach-Zehnder interferometer
+[[./images/mach-interferometer.png]]
+***** Fabry-Perot interferometer (etalon)
+[[./images/fabry-interferometer.png]]
+[[./images/fabry-interferometer-1.png]]
+[[./images/fabry-interferometer-2.png]]
+*** Laser Physics
+[[./images/laser-0.png]]
+
+
+[[./images/laser-1.png]]
+
+
+[[./images/laser-2.png]]
+
+
+[[./images/laser-3.png]]
+
+
+[[./images/laser-4.png]]
+
+
+[[./images/laser-5.png]]
+
+
+[[./images/laser-6.png]]
+
+
+[[./images/laser-7.png]]
+
+
+[[./images/laser-8.png]]
+*** Fiber Optics
+[[./images/fiber-optics-0.png]]
+
+
+[[./images/fiber-optics-1.png]]
+
+
+[[./images/fiber-optics-2.png]]
+
+
+[[./images/fiber-optics-3.png]]
+
+
+[[./images/fiber-optics-4.png]]
+
+
+[[./images/fiber-optics-5.png]]
+
+
+[[./images/fiber-optics-6.png]]
+* Dynamics
+** Newtons Laws
+*** First Law body in motion
+$F = 0 \implies a = 0$
+*** Second Law rate of change of momentum is equal to the force acting on it
+$\frac{dP}{dt} = F$
+** Kepplers laws
+*** first law
+orbit of a planet is an ellipse:
+
+$$r=\frac{l}{1+\varepsilon\cos\theta}$$
+
+Furthermore we get a formula for eccentricity and the latus rectum:
+
+$$l=\frac{L^2}{m\alpha}$$
+
+$$\varepsilon = \sqrt{1+\frac{2EL^2}{\alpha^2m}}$$
+
+Where:
+
+$E = \frac{1}{2}m\|\dot{\vec{r}}\|^2 + V(\vec{r})$
+$L = mr^2\dot{\theta}$
+$\alpha = GM_\text{sun}m$
+
+*** second
+planet sweeps out equal area in an equal interval of time:
+
+$$\frac{\text{d}A}{\text{d}t} = \frac{r^2}{2}\frac{\text{d}\theta}{\text{d}t} = \frac{abn}{2} = \frac{\pi ab}{P}$$
+
+Where $n$ is the mean motion and $P$ is the period:
+
+$$n = \frac{2\pi}{P}$$
+
+*** third
+The ratio of the square of an object's orbital period with the cube of the semi-major axis of its orbit is the same for all objects orbiting the same primary.
+
+$$\frac{a^3}{T^2} = \frac{G(M + m)}{4\pi^2} \approx \frac{GM}{4\pi^2}$$
+
+for $m\ll M$.
+
+Alternatively, for the solar system specifically:
+
+$$T^2 = \frac{4\pi^2a^3}{GM_\text{sun}}$$
+
+** Simple Harmonic Motion
+*** Hook's Law
+$F_H = k\cdot x$
+where k is the spring constant in n/m or kg/s^2
+
+$m \ddot{x} = -k x$
+
+$\omega = \sqrt{\frac{k}{m}}$
+where \omega is the angular frequency
+
+$\ddot{x} = -\omega^2 x$
+
+solutions:
+$$\begin{array}{c}
+  x\left(t\right) =  \cos \left(\omega t\right) \\
+  x\left(t\right) =  \sin \left(\omega t\right)
+\end{array}$$
+
+principle of superpositions:
+if $x_1 \left(t\right)$ and $x_2 \left(t\right)$ are solutions to $m \ddot{x} = -k x$ then so are arbitrary linear combinations of $x_1$ and $x_2$:
+
+$x\left(t\right) = A x_1 \left(t\right) + B x_2 \left(t\right)$
+
+That is to say:
+$x\left(t\right) = A \cos \left(\omega t\right) + B \sin \left(\omega t\right)$
+
+knowing $x\left(0\right)$ and $\dot{x}\left(0\right)$ allows you to solve
+*** Amplitude
+$$\begin{align}
+  A \cos \left(\omega t\right) + B \sin \left(\omega t\right) &= R\cos\left(\omega t - \Phi\right) \\
+  \cos\left(\alpha - \beta\right) &= \cos\left(\alpha\right)\cos\left(\beta\right) + \sin\left(\alpha\right)\sin\left(\beta\right) \\
+  &\vdots \\
+  A &= R\cos\Phi \\
+  B &= R\sin\Phi \\
+  &\vdots \\
+  R &= \sqrt{A^2 + B^2} \\
+  \frac{B}{A} &= \tan\Phi \\
+\end{align}$$
+
+Where R is the amplitude
+*** Period
+$T = \frac{2\pi}{\omega}$
+*** Energy
+**** Angular
+***** Kinetic
+$$K=\frac{1}{2}m\left\langle\dot{\vec{r}},\dot{\vec{r}}\right\rangle = \frac{1}{2}m\dot{r}^2 + \frac{L^2}{2mr^2}$$
+
+where $L= mr^2\dot{\theta}^2$
+**** Potential
+$V = \frac{1}{2} k x^2$
+**** Total
+$E = \frac{1}{2}m\dot{x}^2 + \frac{1}{2}kx^2 = K + V$
+**** Average energies
+$$\begin{align}
+K_{av} &= \frac{1}{T} \int_0^T \left. \frac{1}{2} m \dot{x}^2 \right. dt \\
+V_{av} &= \frac{1}{T} \int_0^T \left. \frac{1}{2} k x^2 \right. dt\end{align}$$
+** oscillations with damping
+${\omega_0}^2 = \frac{k}{m}, \gamma = r/m$
+$F_{damping} = -vr$
+$\leadsto m\ddot{x} = \underbrace{-\dot{x}r}_{\text{damping}} \underbrace{-kx}_{\text{elastic}} + \underbrace{f(t)}_{\text{other}}$
+
+f(t) = 0:
+$\ddot{x} + \gamma\dot{x} + {\omega_0}^2x = 0$
+$\leadsto \lambda^2 + \gamma\lambda + {\omega_0}^2 = 0$
+
+*** underdamped case
+$\gamma^2 < 4\omega_0^2$
+$\lambda_1 = -\gamma/2 + i\beta$
+
+$\lambda_2 = \bar{\lambda_1}$
+
+where $\beta = \sqrt{{\omega_0}^2 - \gamma^2/4}\in\mathbb{R}$
+
+generally:
+$x(t) = e^{-(\gamma/2) t} (Ae^{i\beta t} + Be^{-i\beta t})$
+or:
+$x(t) = e^{-(\gamma/2) t}R\cos(\beta t - \phi)$ <- amplitude exponentially decreasing
+*** overdamped case
+$\gamma^2 > 4\omega_0^2$
+
+$x(t) = Ae^{\lambda_1 t} + Be^{\lambda_2 t}$
+*** critically damped
+$\gamma^2 = 4\omega_0^2$
+
+$x(t) = (A + Bt)e^{-(\gamma/2)t}$
+** forced oscillator
+$\ddot{x} + \gamma\dot{x} + {\omega_0}^2 = \frac{f_0}{m}\cos(\omega t)$
+
+for f_0 = 0 x(t) would tend to 0, not when f is nonzero
+
+look at a particular solution:
+$$\begin{align}
+  x_p(t) &= C\cos(\omega t) + D\sin(\omega t) \\
+  \dot{x}_p(t) &= -\omega C\sin(\omega t) + \omega D\cos(\omega t) \\
+  \ddot{x}_p(t) &= -\omega^2 C\cos(\omega t) - \omega^2 D\sin(\omega t)
+\end{align}$$
+
+sub into equation of motion:
++ At cos: $-\omega^2C + \gamma D \omega + {\omega_0}^2C = \frac{f_0}{m}$
++ At sin: $-\omega^2D + \gamma C \omega + {\omega_0}^2D = 0$
+
+Consider these as simultaneous equations, giving:
+
+$$\begin{align}
+  D &= \frac{f_0 \gamma \omega}{m\left[({\omega_0}^2 - {\omega}^2)^2 + \gamma{\omega}^2\right]} \\
+  C &= \frac{f_0 ({\omega_0}^2 - {\omega}^2)}{m\left[({\omega_0}^2 - {\omega}^2)^2 + \gamma{\omega}^2\right]} \\
+  x_p(t) &= C\cos(\omega t) + D\sin(\omega t) \\
+  x_p(t) &= R\cos(\omega t - \phi) \\
+  R &= \frac{f_0}{m\sqrt{({\omega_0}^2 - {\omega}^2)^2 + \gamma{\omega}^2}} \\
+  \tan(\phi) &= \frac{D}{C} = \frac{\gamma\omega}{{\omega_0}^2 - \omega^2}
+\end{align}$$
+
+
+$x_p(t)$ describes the steady state of the system at large t
+** 3D Kinematics
+*** Position
+Use vectors
+$\vec{v} = \overrightarrow{OP}$ for point P from origin
+
+**** angle
+$\vec{r}_1 \cdot \vec{r}_2 = \lVert\vec{r}_1\rVert\lVert\vec{r}_2\rVert\cos(\phi)$
+*** velocity/accel as a vector
+$\vec{v} = \dot{x}\hat{\imath} + \dot{y}\hat{\jmath} + \dot{z}\hat{k}$
+$\Delta\vec{r}(t) = \vec{r}(t + \Delta t) - \vec{r}(t)$
+$\vec{v}(t) = \dot{\vec{r}}(t) = \underset{\Delta t \to 0}{\lim}\frac{\vec{r}(t+\Delta t) - \vec{r}(t)}{\Delta t}$
+
+$v = \lVert\vec{v}\rVert$
+$v_x = \dot{x} = \frac{dx}{dt}$
+
+$\vec{a} = \dot{\vec{v}}$
+*** integrating vectors
+$$\begin{align}
+  \vec{v}(t) &= 2\hat{e}_1 + 2t\hat{e}_2 -3t^2\hat{e}_3 \\
+  \vec{r}(t) &= 2t\hat{e}_1 + t^2\hat{e}_2 - t^3\hat{e}_3 + \vec{c}
+\end{align}$$
+
+with a vector rather than a scalar constant
+
+** Momentum
+*** Angular
+$$\lVert\vec{a}\times\vec{b}\rVert = \lVert\vec{a}\rVert\lVert\vec{b}\rVert\sin\theta$$
+
+Direction is perpendicular to both a and b, clockwise inwards, anti-clockwise outwards
+
+$$\begin{align}
+  \hat{\imath}\times\hat{\jmath} &= \hat{k} \\
+  &\hspace{0.555em}\vdots \\
+  \vec{x}\times\vec{y}&=\begin{vmatrix}
+    \hat{e}_1 & \hat{e}_2 & \hat{e}_3 \\
+    x_1 & x_2 & x_3 \\
+    y_1 & y_2 & y_3 \\
+  \end{vmatrix}
+\end{align}$$
+
+
+Angular momentum is given by:
+
+$$\overrightarrow{L} = m\vec{r}\times\dot{\vec{r}} = m\vec{r}\times\vec{v}$$
+
+$\vec{r}$ is position vector and $\dot{\vec{r}}$ is velocity vector.
+
+For polar coordinates, $(r,\theta)$:
+
+$$\vec{r} = r\cos\theta\hat{e}_1+r\sin\theta\hat{e}_2$$
+
+$$r=r(t),\theta=\theta(t)$$
+
+$$\dot{\vec{r}} = (\dot{r}\cos\theta - r\dot{\theta}\sin\theta)\hat{e}_1 + (\dot{r}\sin\theta + r\dot{\theta}\cos\theta)\hat{e}_2$$
+
+We also have:
+$$\overrightarrow{L} = m\vec{r}\times\dot{\vec{r}} = m\vec{r}\times\vec{v} = m\hat{e}_3\big(r\cos\theta\cdot(\dot{r}\sin\theta + r\dot{\theta}\cos\theta) - r\sin\theta\cdot(\dot{r}\cos\theta - r\dot{\theta}\sin\theta)\big)$$
+
+$$\leadsto\overrightarrow{L} = mr^2\dot{\theta}\hat{e}_3$$
+
+Only angular velocity, $\dot{\theta}$, contributes to momentum, but not the radial velocity, $\dot{r}$.
+
+And the expression for the magnitude is trivially:
+
+$$\left\|\overrightarrow{L}\right\| = mr^2\dot{\theta}$$
+**** Conservation
+$$\frac{\text{d}}{\text{d}t}(\vec{a}\times\vec{b}) = \dot{\vec{a}}\times\vec{b} + \vec{a}\times\dot{\vec{b}}$$
+
+$$\frac{\text{d}}{\text{d}t}\overrightarrow{L} = m\frac{\text{d}}{\text{d}t}(\vec{r}\times\dot{\vec{r}}) = m(\vec{r}\times\ddot{\vec{r}})$$
+
+$$m\ddot{\vec{r}} = \overrightarrow{F} \implies \frac{\text{d}}{\text{d}t}\overrightarrow{L} = \vec{r}\times\overrightarrow{F}$$
+
+If the force acting on the particle can be written as $\overrightarrow{F} = f\left(\left\|\vec{r}\right\|\right)\vec{r}$, where $f$ is some function, then $\frac{\text{d}\overrightarrow{L}}{\text{d}t} = 0$, i.e. $\overrightarrow{L}$ is conserved. These are called central forces.
++ gravity is an example:
+
+  $$\overrightarrow{F}_g = -\frac{GmM}{r^3}\vec{r} = f\left(r\right)\vec{r} = f\left(\left\|\vec{r}\right\|\right)\vec{r}$$
+** Conservation of Energy
+$$f=f(x,y,z)$$
+$$\nabla f(\vec{r}) = \frac{\partial f}{\partial x}\hat{\imath} + \frac{\partial f}{\partial y}\hat{\jmath} + \frac{\partial f}{\partial z}\hat{k}$$
+
+Or generally:
+$$\nabla f(\vec{x}) = \sum_{k=1}^n\frac{\partial f}{\partial x_k}\hat{e}_k = \left[\sum_{k=1}^n\frac{\partial}{\partial x_k}\hat{e}_k\right]\cdot f(\vec{x})$$
+
+We say that a force $\overrightarrow{F}$ is conservative if it can be written as:
+$$\overrightarrow{F} = -\nabla V$$
+
+Where $V = V(x,y,z)$ is called the potential energy of $\overrightarrow{F}$
+
+For a particle of mass $m$ and position $\vec{r}(t)$, moving according to Newton's Second Law under the influence of conservative force with potential $V(\vec{r})$, the total energy:
+
+$$E=\frac{1}{2}m\left\|\dot{\vec{r}}\right\|^2 + V(\vec{r})$$
+
+is conserved.

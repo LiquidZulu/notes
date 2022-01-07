@@ -1,0 +1,18 @@
+#+TITLE:Axel Haestrod self ownership
+#+AUTHOR:LiquidZulu
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medicine.csl
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Flow
++ must say B had a right to homestead which dissappeared
++ B never had the right to homestead
++ they have to redistribute some of their wealth with LVT
++ implies acting as if no others had
+  + implies no other will can justifiable control yourself
+    + climbing everest
++ acting as if nobody else exists is the implication of self-ownership

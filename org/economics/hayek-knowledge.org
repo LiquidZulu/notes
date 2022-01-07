@@ -1,0 +1,49 @@
+#+TITLE:Notes on Hayekian Knowledge Problem
+#+AUTHOR:LiquidZulu
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Resources
+** Hayek's Essay
+https://mises.org/library/use-knowledge-society
+** Kiesling's Paper
+https://www.researchgate.net/publication/228283753_Knowledge_Problem
+* The Problem
++ The problem that we wish to solve through economics is that of finding the best use of scarce means for ends only the individuals involved know the relative importance of.
++ To solve this problem we need knowledge of those means and ends to be communicated to whomever is to make the economic plan
++ "Plan" here refers to any planning, whether it be decentralised, that is by the individuals who posses the knowledge in the first place, or centralised, that is planning by some single person or central body of people.
++ The knowledge here, of means and ends, can be viewed as knowledge of ones particular circumstances --- this is not the same as scientific knowledge, for the latter, you can expect that a handful of experts could possess all of the relevant information, through years of study.
++ This is not the case for the knowledge of particular circumstances, that changes by the second with each event, and which becomes irrelevant nearly as quickly. An engineer still uses the exact same equations today as engineers centuries ago, but an arbitrageur would be out of a job were he to rely on information aquired only days ago.
++ Moreover, scientific knowledge requires a /given/ set or distribution of data, that is, it requires that all the data be possessed by a single mind, this is not the case in economics.
++ It is a fact of nature that the knowledge of particular circumstances is initially spread out among many individuals, and must therefore be communicated to others in order that coordination may occur, allowing for a true division of labour.
++ That is to say, the economic problem that society faces is one of how to coordinate the decisions and actions of many individuals who posess diffuse and private knowledge.
++ One way you might think to communicate this knowledge is through surveying performed by the central planner (whether he be a single man or many men)
++ This raises some issues:
+  1. how are you to communicate this knowledge in a timely fashion to the central planner?
+  2. how are you to process the data received?
++ For problem (1) you are faced with the challenge that this private knowledge is difficult to articulate and communicate, especially through some standardised data collection form. But lets suppose we have some super-computer that can design brain chips and incredibly efficient logistics networks such that this is not an issue.
++ We are still left with the issue of how the planner is to process the data
++ Either they make use of statistical aggregates, that is lumping similar products and services together to allow any minute bumps to be smoothed out, making the computation possible
++ Or, they would have to go through and solving for the initial setup and any changes that occur thereafter
++ It is worth noting here that any problem that economics seeks to solve must come about as a result of some change of particular circumstances. If circumstances did not change then no new problems could arise, everything would just go along as if it were a machine set in motion.
++ So, we see from this that taking a statistical aggregate cannot solve the problems, as the purpose of statistics is to ignore any small changes in your data. This is perfectly proper when those changes are as a result of purely random circumstances, say if you were to model the radioactive output of an \alpha source, but this is emphatically /not/ the problems that economics is concerned with.
++ Those small changes are as a result of deliberate actions on the part of individuals. These are the problems that we want to solve with economics, how best to use the available means given this change, so ignoring these changes in support of a statistical aggregate cannot possibly give us a reasonable economic system.
++ Moreover, the lumping together of similar products ignores the differences of those products --- it may be that they are in different locations, or they are sold at different times of day, or inumerable other particulars about those products that might be different and might have an effect on their impact on how to achieve the ends of man. That is to say, the knowledge pertaining to those products is /highly/ contextual, only one with intimate awareness of the situation at hand knows about their utility.
++ So what if the central planner just went through and tried solving the given problem for any individual? Well, then this planner is faced with the problem of pulling out from the set of all knowledge, the particular knowledge that is of relevance to achieving the individuals ends.
++ After all, there are vanishingly few things that might not have some minor effect on the economic calculus there. Whats more is that this is essentially de-centralised planning but with more steps, if we could have some way to communicate only that relevant knowledge to the individual at hand we would have achieved this perfect central planning without the need for a central planner.
++ The money system is that way, price signals are able to communicate only the information relevant to only those people who are concerned about it.
++ Given some change in circumstances, the person who is affected by this change need only look to the prices of the goods relevant to attaining his end, that is, he need only look at the cost incurred by the means available to him. If he requires nails of either size A or size B, but this change has seen the price of B nails shoot up, he knows that he should use less of these nails, in favour of more A's.
++ What this means is that, for some reason, B's are being more profitably used elsewhere, and thus in the man using less of them, he allows this more productive use to go forward without his molestation. Now, it could be that either some new use of B's has been found and thus many more are being used, or it could be that a factory producing B's has shut down, the particular cause of the B shortage is entirely irrelevant to the man, all he needs to know is the relative scarcity of his available means such that he can pick the least scarce.
++ This change in the price of B does not only effect the nail market, those who make use of B would turn to its substitutes, which are numerous, in turn people who already use those substitutes turn to substitutes of those, and so on until some nth order substitute is reached.
++ Through this, the relevant knowledge relating to the change has been communicated to the individuals that are affected by the change, they dont need to know any of the particulars, they dont even need to know from what industry the change originated. All they must know is the relative scarcity of their means after the change, such that they can adjust their behaviour.
++ From the above we can divide the knowledge problem into two main components:
+  1. The /Complexity Knowledge Problem/: The difficulty of coordinating individual plans and choices in the ubiquitous and unavoidable presence of dispersed, private, and subjective knowledge.
+  2. The /Contextual Knowledge Problem/: The epistemic fact that some knowledge relevant to such coordination does not exist outside of the market context; such knowledge is either created in the process of market interaction, tacit knowledge that is not consciously known,[fn:1] or inarticulate knowledge that is difficult to express.
++
+
+* Footnotes
+
+[fn:1]Michael Polanyi, "The Tacit Dimension" (/University of Chicago Press/)

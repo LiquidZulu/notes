@@ -1,0 +1,38 @@
+#+TITLE:Evictionism vs Pro Choice
+#+AUTHOR:LiquidZulu
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Flow
++ if the baby is able to be evicted into an artificial womb, would you be fine with the mother instead deciding to kill it?
+  + no normative position on killing
+    + this is a debate about when its fine to kill your baby
+      + indifferent to killing, dont care
+        + all norms presuppose intelligence optimisation
+    + what moral system
+      + not prohibiting action
+        + leads to pro choice
+          +
++ mother wants to abort
+  + impermissible
++ personal position on murder
+  +
++ moral inter-subjectivity
+  +
++ dodging that you personally dont like stabbing
+  +
++ their argument is simply that you cannot derive from an is that its bad to murder
+  + motte and bailey
+    +
++ intelligence optimisation
+  +
+    k
+  + intelligence = entropy reduction
+    +
++ denying NAP, not sufficient
+  + what is sufficient
+  + evictionism pre-supposes it
++ dont know why it tends to

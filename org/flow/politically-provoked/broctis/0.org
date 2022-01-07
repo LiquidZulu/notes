@@ -1,0 +1,79 @@
+#+TITLE:Healthcare debate
+#+AUTHOR:LiquidZulu
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+* References
+In making this I referenced works by the other listed authors, in alphabetical order, as follows (note: none of them are aware of this work and they have not endorsed it):
++ [[https://mises.org/wire/its-time-give-britains-national-health-service][Antony Sammeroff, "It's Time to Give Up on Britain's National Health Service"]] ([[https://archive.ph/XKW4y][archived]]).
++ David T. Beito, /From Mutual Aid to the Welfare State: Fraternal Societies and Social Services, 1890-1967/ (Chapel Hill: University of North Carolina Press, 2000)
++ [[https://mises.org/library/four-step-healthcare-solution][Hans-Hermann Hoppe, "A Four-Step Healthcare Solution"]] ([[https://archive.ph/IUtei][archived]]).
++ [[https://www.tapatalk.com/groups/libertyhq/healthcare-problem-survey-t785.html][Jargon, et al. "LibertyHQ forums › Public Forum › Economics › Healthcare Problem Survey"]] ([[https://archive.ph/rokH6][archived]] [print version]).
++ [[https://mises.org/wire/how-government-regulations-made-healthcare-so-expensive][Mike Holly, "How Government Regulations Made Healthcare So Expensive"]] ([[https://archive.ph/u3gHX][archived]]).
++ [[https://www.yourfriendsarewrong.com/][Tom Woods, "Your Facebook Friends Are Wrong About Healthcare"]]
+* Notes
+** Insurance
++ insurers are forced to insure that which is un-insurable (conditions you can systematically influence)
+  + restrictions on the right of refusal
++ insurance involves the pooling of risks, it implies that there will be winners and losers
++ insurers are required to
+  1. enroll everyone who applies ("guaranteed issue")
+  2. cover pre-existing conditions
+  3. adopt a policy known as "community rating" where they must charge the same premium to all with minor exceptions for geographical area and age
+     + there is a limit on how large the difference can be between, say, the very young and very old
++ insurance companies earn only 2.2 cents on the dollar in profit
+** Fraternal Societies
++ lodge practice cost ~$2 per year, about the days wage for a labourer
+  + this was low compared to other medical societies
+* Flow
++ libertarian left
++ current is inefficient
+  + 50% face bankruptcy
+  + cant be privatised as its inelastic
+  + fully national will save money
+  + spend more money per capita
++ market wouldnt lend to lodge system
+  + around 1900's
+    + different market
+    + insurance and hospitals are fighting
+    + inelastic
+      + products arent changing yet price goes up
+    + IP laws
+      + more productive to copy another companies drug
+        +
++ subsidies
+  + govt can incentivise
+  + companies wouldnt produce new medicines without subsidies
+    + covid vaccine
+      +
++ how does it know what to spend on
+  + hard question
+    + 50/50
+      + you dont know how either cost
++ the US is worse
+  + they spend more
++ why does it follow that the more nationalised it is the better it is?
++ govt doesnt have to make a profit
+  + why would that mean its efficient
++ crusoe no incentive to research
++ restrictions on govt servants from expropriation
+  +
++ need to subsidise the production of new medicine
+  + So many new drugs bro
+    + new drugs do very little
+      + open insulin project
++ democracy
+  + its not ethical
+    + subjective morals
+      + how to measure most amount of good
+        + what is good
+          + happiness?
+            +
+          + why would people produce more at the 70k cap
++ a lot of the money comes from insurance fights
+  + started with insurance companies getting people under their belt
+    + insurance spiral
++ what is fair compensation
+  +
