@@ -1,0 +1,24 @@
+#+TITLE: Austrian Econ vs Participatory Econ / Is Ancap Anarchist?
+
+* Flow
++ what contention
+  + particapatory is a suggestion for decentral planning
+    + promote cooperation
+  + inherent flaws in markets and private institutions
+    + problem with private enterprise is that workers want to have some sort of self management [hyphen broken! arrrrgh]
+      + not per se true, mutual profit
+    + in markets there is a flaw wrt how prices communicate
+      + problem in communication
+        +
+        + average person doesnt know all the social relations
+          + but is it better or worse than central planning? How exactly is planning done in particapatory econ?
+            + not saying that central planning is better
+            + issue is that lets assume that there are workers in one factory who want to try and get to know the conditions of another factory, because we are in a market we look at prices (what?) however prices only give you a single number
+              +
+      + public goods
+        + steet lamps example, solved by private roads
+          +
+        + define public good
+          + all people can enjoy jointly without one individuals consumption reducing the consumption of others
+          + social benefits
+        + nothing is a good as such

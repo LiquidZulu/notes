@@ -1,0 +1,62 @@
+#+TITLE: SEO Checklist
+
+Note, "I" is quite often meaning the character of the story, often the youtuber themselves.
+
+* Seo Checklist
+** Points to hit [0/14]
++ [ ] who's the character?
+  + [ ] their want?
+  + [ ] their need?
+  + [ ] their flaw?
+  + [ ] how do they grow?
+  + what story/journey could the above create?
++ [ ] what's the desire/motivation of the story?
++ [ ] what's the obstacle?
++ [ ] what're the stakes --- why is it important?
++ [ ] make them care
+  + [ ] show what you have so the audience feels the loss when you lose it
++ [ ] what's the resolution --- the one core idea that is the final message of the video that wraps everything up?
+  + deliver on the title and thumbnail
++ [ ] storyboard it [0/3]
+  + [ ] storylines you have
+  + [ ] hook for each
+  + [ ] different things that can happen
++ [ ] attach a story to every point I make and tell the story before I make that point
++ [ ] answer questions using spectacle
++ [ ] if things go static stories die, because life is never static.
++ [ ] drama is anticipation mingled with uncertainty
++ [ ] make comment goals (2 or 3)
++ [ ] cater to the archetypal viewer
++ [ ] reference popular media
+** Questions to ask [0/11]
++ [ ] is there incentive to watch until the end?
++ [ ] can I add something?
++ [ ] what are the different loops that I can open?
++ [ ] what are the different questions that the viewer could ask themselves?
++ [ ] what's the hook?
++ [ ] what do viewers need to see in the first few seconds based on the title and thumbnail so that they feel like their click is worth it?
++ [ ] is there a way to make the viewer laugh or feel surprised or feel something in the first 10 seconds?
++ [ ] is there a way to have two storylines?
+  + [ ] surface level story, and hidden stories (finding nemo is ostensably about finding nemo, but really about marlon addressing his insecurities as a father)
+  + [ ] is there a way to build surface level and underlying tension in each story?
+    + short term: will dory's short term memory make her forget what marlon told her, long term: will we find nemo?
++ [ ] am I giving them 4 or 2+2?
+  + https://www.youtube.com/watch?v=KxDwieKpawg
++ [ ] in doing X big thing [0/3]
+  + [ ] what do I want?
+  + [ ] what happens if I dont get what I want?
+  + [ ] what will I do to get what I want?
+** Editing [0/3]
++ [ ] Show where possible
++ [ ] if theres a bit of information where you can delete what is before and after it and it flows just as well, cut it
++ [ ] tell stories with B-roll
+** End Screen
++ Next logical step
++ What do the avatars care about?
++ Make people want to know what happens next.
++ be persuasive
+  + mention the avatars desire
+  + point out what more there is for them to do
+    + use "have to"
+  + describe the result of them doing that.
++ be confident that the linked video is good

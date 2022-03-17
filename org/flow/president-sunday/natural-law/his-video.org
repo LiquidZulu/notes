@@ -1,0 +1,15 @@
+#+TITLE: His Video
+
+* Notes
++ EoL written in 1982
++ "where did you get the notion that there were normative laws prior to convention"
+  + in response to "The assertion of an order of natural laws discoverable by reason is, by itself, neither pro- nor anti-religious."
+    + normative means relating to an evaluative standard, I can coin the law of blue-shirt-preference, where the evaluative standard is that preferring blue shirts is defined as good and preferring other colours is defined as bad.
+    + A norm is a standard for evaluating or making judgments about behavior or outcomes
+      + this can be done by defining any arbitrary behaviour as having positive valance and others as having negative valance
++ "an apple let fall at a certain height will just go into orbit"
+  + no?
++ "teleology bad because we are constituted by history"
++ natural law as goodness for the creature
+  + thats somewhat aristetolean, I take a more praxeologic view on natural law
+    + "methodical categories that define what we are"

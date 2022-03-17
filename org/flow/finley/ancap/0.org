@@ -1,0 +1,8 @@
+#+TITLE: Ancap debate
+
+* flow
++ foundation behind ancap is that its not acceptable to violate peoples rights
+  + a government system without law enforcement is open to lots of rights enforcement
+    + if we have someone enforcing the law its likely that people will have their rights violated because law enforcement is violent
+      + that violence tends to be applied only to a certain group of people who we believe are criminals, the process for determining this group is not 100% effective, so if it governs a large enough group of people at some point someone will have their rights violated
++

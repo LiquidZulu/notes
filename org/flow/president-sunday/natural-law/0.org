@@ -1,0 +1,122 @@
+#+TITLE: Natural Law Theory vs President Sunday
+
+* Notes
+** Childrens Rights
+*** Definitions
+Children are those self-owners who cannot yet engage in human action but may at some point in the future. The relevant point being that they therefore cannot express their own will.
+
+Guardians are the executors of the childs will
+*** Areas of potential conflict
+1. Conflicts between a child and his guardian over his own autonomy
+2. Conflicts between a guardian and someone he claims to have done harm to his child
+3. Conflicts between a former child and someone he claims to have harmed him
+4. Conflicts between two potential guardians over the claim to a child
+***
+** Homesteading
+Homesteading is defined as the original appropriation of a scarce nature-given good. Ownership is different to mere possession, which implies that late-comers cannot be the owners of a property, if they were then we would be back to mere possession which contradicts ownership not being possession.
+
+Furthermore it would be impossible to do anything if late-comers had an equal say over the use of a property as the first-comer, as before the first-comer could begin using the nature-given good for anything he would have to wait for permission of every late-comer, which is a set of indeterminate size that may include people who are yet to be born.
+
+Abandonment of priority to the first-comer would also run contrary to the conflict-avoiding nature of argumentation and the very purpose of property rights in the first place. This is because priority given to the late-comer is by definition a conflict-initiation norm---it is a norm that supposses those who are initiating the conflict get priority in a dispute over property rights.
+** What are rights
+** The Necessity for Law and thus Property Rights
+#+begin_quote
+As long as scarcity and hence potential interpersonal conflict exists, every society requires a well-defined set of property rights assignments.
+#+end_quote
+--- Hans-Hermann Hoppe, /The Ethics of Liberty/ p. xiii
++ the law assigns property
++ by the very fact that one is engaging in any ethical deliberation (or any deliberation at all), it is implied that one need concern oneself with scarcity, at the very least of the means implemented in the deliberation, and of appropriation, at the very least of the means one must appropriate to make the ethical deliberation.
+*** The purpose of a human ethic
+#+begin_quote
+In fact, Rawls, to whom the philosophy profession has in the meantime accorded the rank of the premier ethicist of our age, was the prime example of someone completely uninterested in what a human ethic must accomplish: that is, to answer the question of what I am permitted to do right now and here, given that I cannot not act as long as I am alive and awake and the means or goods which I must employ in order to do so are always scarce, such that there may be interpersonal conflicts regarding their use.
+#+end_quote
+--- Hans-Hermann Hoppe, /The Ethics of Liberty/ p. xiv
++ cannot act, and hence remain alive, without the use of scarce means, that scarcity raising the possibility of conflict over those means
++ A human ethic has 2 properties it must satisfy:
+  1. universalisation---applies to all mankind
+  2. assures the survival of mankind (no point in concerning yourself with a human ethic if no humans are alive)
+**** Argumentum e Contrario
+If it is not the case that a person A was the owner of his body and all goods appropriated by him two possibilities remain:
+1. another person, B, is the owner of A and all goods appropriated by A
+2. all things are universally co-owned, A and B are equal owners of each other and all goods aquired by either party.
+
+(1) fails on the grounds of not being a universal ethic---it describes a society of two distinct classes; humans and sub-humans
+
+(2) fails on two separate grounds:
+a. it would lead to the extinction of humanity as in order to act one would have to ask everyone else for permission to act, which is itself an action, meaning no action could occur.
+b. co-ownership itself is impossible, as it cannot handle disputes over the co-owned means.
+
+** What is science
+Science refers to a systematic enterprise that builds and organizes knowledge, and the set of knowledge produced by this enterprise.[fn:1]
+*** Definitions
+**** Merriam-Webster[fn:2]
+1.
+   a. knowledge or a system of knowledge covering general truths or the operation of general laws especially as obtained and tested through scientific method
+   b. such knowledge or such a system of knowledge concerned with the physical world and its phenomena (ex:natural science)
+2.
+   a. a department of systematized knowledge as an object of study (ex:the scicence of theology)
+   b. something (such as a sport or technique) that may be studied or learned like systematized knowledge (ex:I have it down to a science)
+3. a system or method reconciling practical ends with scientific laws (ex:cooking is both a science and an art)
+4. the state of knowing---knowledge as distinguished from ignorance or misunderstanding
+
+** Argumentation Ethics
+*** What is argumentation
+Argumentation is an interaction wherein two or more parties assert premises in support of two or more contradictory conclusions, with the goal of each party being to find what the correct conclusion is. Argumentation is specifically the method of solving disputes over claims of truth through the use of peaceful means, that is one tries to convince their interlocutor through the force of their argument, not by aggressing upon them.
+
+The ideological salesman is in the business of persuading his opponents of his own conclusion, without paying any mind to what the truth of the matter is.
+
+*** Ethic only applies during argumentation
++ inconsistent system of ethics, therefore false
+  + argumentation does not turn an irrational animal into a rational one (a person)
+Argumentation must take place between people, i.e. rational animals or actors. The fact that B deciding to engage in argumentation with A does not turn A into a person where before he was some beast incapable of action, it follows that this is an inconsistent system of ethics---in one moment the adherent asserts the ethic of liberty and the next some negation of it. Inconsistency is by definition contradictiory---to dispute this is to say that one may remain consistent in the ethic of non-aggression where they only aggress on a person in one location in spacetime but dont aggress on others in different locations in spacetime, which is an absurdity.
+* Opening Statement
+For centuries, economics and ethics have been bifurcated into two separate disciplines; economics being a value-free "positive" science and ethics being a "normative" science if it was even referred to as a science at all. Murray Rothbard in his two Magna Opera, /Man Economy and State/, and /The Ethics of Liberty/ successfully rediscovers the common origin of both sciences in a theory of property. On the one hand such core concepts in economics as aggression, fraud, and exchange rely on a prior theory of property to make any sense at all; similarly in ethics, or more specifically political philosophy, any ethic one proposes implies a system of property rights assignments.
+
+Rothbard in deliberating upon how one could come to the discovery of a rational ethic recognised two properties any ethic for man must satisfy:
+1. universalisation---the ethic must apply to all of humanity or else it would not be a human ethic
+2. the ethic must assure the survival of mankind, as the entire purpose of ethics is to determine how to /live/ ones life.[fn:3] Moreover no anti-life ethic could possibly ever be proposed as argumentation, being an action, requires the party in question to be alive to do the proposing.
+
+In these two properties Rothbard saw a proof for his ethics in the form of an argumentum e contrario; if it is not the case that a person, A, was the owner of his body and all goods appropriated by him, two possibilities remain:
+1. another person, B, is the owner of A and all goods appropriated by A
+2. all things are universally co-owned, A and B are equal owners of each other and all goods aquired by either party.
+
+(1) fails on the grounds of not being a universal ethic---it describes a society of two distinct classes; humans and sub-humans
+
+(2) fails on two separate grounds:
+a. first, it would lead to the extinction of humanity as in order to act one would have to ask everyone else for permission to act, which is itself an action, meaning no action could occur---a denial of the acting nature of man.
+b. second, co-ownership itself is impossible, as it cannot handle disputes over the co-owned means between co-owners, making it nonsensical to discuss as a property right.
+
+It is in this recognition of a rational ethic that Rothbard re-discovered the natural law theory of old, systematising the diffuse truths into a modern, rational, framework much like his colleague Ludwig von Mises had for praxeology, the science of human action. Rothbard used as his foundation the works of the late Scholastics including the great St. Thomas Aquinas, through to more recent natural law theorists such as John Locke and Hugo Grotius.
+
+Furthermore one can show that no other ethic may be rationally justified, even if we remove the necesscity to adhere to the properties of a human ethic. We show this through the modern-day successor to Murray Rothbard, Hans-Hermann Hoppe's masterful argument from argument. This argument notes first and foremost that truth claims can only be raised and disputed in the course of an argumentation, called the /a priori/ of argumentation. Second argumentation does not exist in a normative void, it does not consist of free-floating propositions not tied to any proposer, rather argumentation is an action, requiring the use of scarce means. This therefore implies that one could never propose a norm that violates the norms entailed by the act of argumentation.
+
+As an example, one could never argue that it is pointless to argue; this would be called a dialectic contradiction as the proposition is negated by the very fact of its proposal. Norms of this sort--that cannot be proposed as they contradict one or more norms entailed in the act of arguing--are denoted as dialectically false, or irrational norms. Applying this to the property rights ethic, we have that argumentation is a conflict-free way of interacting, it requires that both parties make exclusive use of scarce means towards the same end. If in the course of an argument I threatened my opponent with death if they dared to disagree with me I would not actually be engaging in an argument, as I would not follow the pre-requisite notion that I agree that I may be wrong on the matter and that I want to be right on the matter, and that I hope that my opponent may be able to show me to the truth should they have it.
+
++ each person entitled to control over his own physical body so as to be able to act independently and come to a conclusion autonomously (he cannot be a mouthpiece)
++ [point about only needing body parts required by argumentation], the point is not about not aggressing against certain body parts, its about not aggressing to solve the dispute in any way.
++ peaceful conduct is a subset of non-aggressive conduct
++ add a note about how argumentation is a very specific type of interation and that you cant just arbitrarily choose that the end of your engaging in argumentation is any arbitrary end. [like how the end of trade must be to raise oneself on his value scale (other examples?)]
++ if the conclusions derived in an argumentation only matter during the argumentation thir applies to everything
++ dialectic contradiction to deny access to a yardstick when a yardstick is required to settle the dispute
++ If it was the case that argumentation did not pre-suppose mutual recognition of exclusive control over ones body, it would be the case that one or more parties in the argumentation would be unable to reply.
+
+* flow
++ Why care?
+  + if you care at all about living, which you do you have to accept a human ethic for life. So it seems pretty important to study that ethic
++ there is nothing wrong with having norms and inserting those norms, you just cant sneak them in---be explicit in your normative presuppositions
++ argumentation cannot take place in a normative void---certain norms are presupposed by the act of arguing.
+  + cannot argue with a slave, if A claims to own B that would imply that B is merely a tool of A's action rather than a separate actor himself. But argumentation itself is an inter-/action/, meaning it can only take place between actors. I would not be arguing if I simply tell my opponent what to say at each step and have them obey, I would just be having some sort of a game.
+    + I could not disagree with myself over the validity of a truth claim so I cannot argue with a mouthpiece of mine---an argumentation is a dialogue, not a monologue.
+    + the fact of arguing means that both parties agree that there is a disagreement over what is being said and that the other party may have some path to the truth of the matter.
+    + you could not in an argument prevent the opponents use of the scarce means required to make the argument
+    + "what if I just accepted those norms during the argument but not after"
+      + this would make you inconsistent and thus wrong, you cannot argue for an inconsistent position, so you cannot argue an ethic stating that you should change your norms inside and outside of argumentation.
++ Do you propose an ethic of slavery, or an ethic of self-ownership.
+
+* Footnotes
+
+[fn:1]https://www.wikidata.org/wiki/Q336 (https://archive.ph/Blr6n)
+
+[fn:2]https://www.merriam-webster.com/dictionary/science (https://archive.ph/TQoHB)
+
+[fn:3]"Ethics" is derived from the ancient greek ēthikós (ἠθικός) [sounds like "theek hoes"], meaning "relating to one's character." A man cannot have a character if he is dead.
