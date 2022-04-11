@@ -1,0 +1,64 @@
+#+TITLE: Argumentation Ethics Discussion
+
+* Notes
+** AE
+*** Explanation
+(goal is to get him to agree that conflict-avoidance is a normative pre-supposistion of arugmentation.)
++ argumentation is an interaction wherein two or more parties assert premises in support of two or more contradictory conclusions, with the goal of each party being to find what the correct conclusion is
++ Argumentation is specifically the method of solving disputes over truth claims through the use of peaceful means---one tries to convince their interlocutor through the force of their argument, rather than through force of violence.
+  + if argumentation didnt have to be peaceful it would mean that you didnt care about the truth as you would be choosing to get your interlocutor to submit to your will through violence, rather than trying to get to the truth with them.
++ Argumentation is not simply about trying to convince others that you are correct whilst paying no mind to the truth.
++ Argumentation is not simply free-floating propositions with no attached proposer, it is a human action requiring the use of scarce means
++ Argumentation cannot exist in a normative void, one could not argue that it is pointless to argue for instance. This is called a dialectic falsehood.
++ Each participant in an argumentation must be afforded exclusive control over their body, as they cannot be a mouthpiece for another.
+*** Counterarguments
+**** Only applies during an argument
++ To make this claim one would have to equally apply it to all conclusions reached within an argumentation.
++ Inconsistent ethics are false by definition
+**** "socrates argued with his slaves"
+This proves only that socrates was inconsistent, in one moment he afforded total use of the slaves bodies to them, and in the next he didnt.
+
+** What is science
+Science refers to a systematic enterprise that builds and organizes knowledge, and the set of knowledge produced by this enterprise.[fn:1]
+*** Definitions
+**** Merriam-Webster[fn:2]
+1.
+   a. knowledge or a system of knowledge covering general truths or the operation of general laws especially as obtained and tested through scientific method
+   b. such knowledge or such a system of knowledge concerned with the physical world and its phenomena (ex:natural science)
+2.
+   a. a department of systematized knowledge as an object of study (ex:the scicence of theology)
+   b. something (such as a sport or technique) that may be studied or learned like systematized knowledge (ex:I have it down to a science)
+3. a system or method reconciling practical ends with scientific laws (ex:cooking is both a science and an art)
+4. the state of knowing---knowledge as distinguished from ignorance or misunderstanding
+** The Necessity for Law and thus Property Rights
+#+begin_quote
+As long as scarcity and hence potential interpersonal conflict exists, every society requires a well-defined set of property rights assignments.
+#+end_quote
+--- Hans-Hermann Hoppe, /The Ethics of Liberty/ p. xiii
++ the law assigns property
++ by the very fact that one is engaging in any ethical deliberation (or any deliberation at all), it is implied that one need concern oneself with scarcity, at the very least of the means implemented in the deliberation, and of appropriation, at the very least of the means one must appropriate to make the ethical deliberation.
+*** The purpose of a human ethic
+#+begin_quote
+In fact, Rawls, to whom the philosophy profession has in the meantime accorded the rank of the premier ethicist of our age, was the prime example of someone completely uninterested in what a human ethic must accomplish: that is, to answer the question of what I am permitted to do right now and here, given that I cannot not act as long as I am alive and awake and the means or goods which I must employ in order to do so are always scarce, such that there may be interpersonal conflicts regarding their use.
+#+end_quote
+--- Hans-Hermann Hoppe, /The Ethics of Liberty/ p. xiv
++ cannot act, and hence remain alive, without the use of scarce means, that scarcity raising the possibility of conflict over those means
++ A human ethic has 2 properties it must satisfy:
+  1. universalisation---applies to all mankind
+  2. assures the survival of mankind (no point in concerning yourself with a human ethic if no humans are alive)
+**** Argumentum e Contrario
+If it is not the case that a person A was the owner of his body and all goods appropriated by him two possibilities remain:
+1. another person, B, is the owner of A and all goods appropriated by A
+2. all things are universally co-owned, A and B are equal owners of each other and all goods aquired by either party.
+
+(1) fails on the grounds of not being a universal ethic---it describes a society of two distinct classes; humans and sub-humans
+
+(2) fails on two separate grounds:
+a. it would lead to the extinction of humanity as in order to act one would have to ask everyone else for permission to act, which is itself an action, meaning no action could occur.
+b. co-ownership itself is impossible, as it cannot handle disputes over the co-owned means.
+** Counterarguments
+*** Can one argue in favour of sleep?
++ a person can simply sleep without trying to justify their conduct; this holds no criminal status as it has nothing to do with conflicts over scarce means. Argumentation ethics applies to those areas specifically where there is a conflict, and sets this out as necessarily criminal.
+
+* Flow
++

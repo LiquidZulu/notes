@@ -3,7 +3,7 @@
 Note, "I" is quite often meaning the character of the story, often the youtuber themselves.
 
 * Seo Checklist
-** Points to hit [0/14]
+** Points to hit [0/16]
 + [ ] who's the character?
   + [ ] their want?
   + [ ] their need?
@@ -28,6 +28,12 @@ Note, "I" is quite often meaning the character of the story, often the youtuber 
 + [ ] make comment goals (2 or 3)
 + [ ] cater to the archetypal viewer
 + [ ] reference popular media
++ [ ] Make an audience proxy (state things the viewer is thinking)
++ [ ] Problem every 2 minutes
+** Intro [0/4]
++ [ ] 8 words right at the start explaining the concept
++ [ ] Personal (character) motivation
++ [ ] Create an enemy
 ** Questions to ask [0/11]
 + [ ] is there incentive to watch until the end?
 + [ ] can I add something?
@@ -50,6 +56,14 @@ Note, "I" is quite often meaning the character of the story, often the youtuber 
 + [ ] Show where possible
 + [ ] if theres a bit of information where you can delete what is before and after it and it flows just as well, cut it
 + [ ] tell stories with B-roll
++ [ ] Keep pace as fast as humanely possible, without impacting the pacing
+** Thumbnail
++ concept more important than aestethics
++ borrow from other successful videos (yoink and twist)
++ make the dominant subject someone people know (so not me when starting off)
++ provide action
++ portray the story of the video
++ other parts of the image shouldnt take focus away from the important, clickable, elements
 ** End Screen
 + Next logical step
 + What do the avatars care about?
