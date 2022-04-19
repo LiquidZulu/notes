@@ -27,3 +27,16 @@
 ** What is their level of knowledge
 + they know some basic libertarianism, but want to hone their arguments further, and/or have a video ready to crush anybody who doesnt understand libertarianism
   + this video needs to be able to both expand their knowledge and give them a springboard for debate, it need not provide some brain worm the ability to fully understand the topic.
+* Choice of videos
+** Choosing a topic
++ should be simple and easy to understand, no specific context should be required (for my case, I think context minimisation is the goal)
++ should be as interesting as possible
++ relevant to what is delivered
++ as an example, "I got hunted by the FBI" is far more appealing than "I got hunted by my brother"
+** Choosing a title
++ short
++ simple
++ easy to understand
++ "offering people 100k to quit their job" is better than "offering people in random restaurants 100k to quit their job"
+** Other
++ build anticipation for videos

@@ -52,11 +52,33 @@ Note, "I" is quite often meaning the character of the story, often the youtuber 
   + [ ] what do I want?
   + [ ] what happens if I dont get what I want?
   + [ ] what will I do to get what I want?
-** Editing [0/3]
+** Editing [0/5]
 + [ ] Show where possible
 + [ ] if theres a bit of information where you can delete what is before and after it and it flows just as well, cut it
 + [ ] tell stories with B-roll
 + [ ] Keep pace as fast as humanely possible, without impacting the pacing
++ [ ] add breather moments to allow for the pace to not feel too fast https://www.youtube.com/watch?v=o8ZbGnwXjj4
+** How to keep people watching [0/20]
++ [ ] deliver on title and thumbnail (video "I ate 100 bananas" shouldnt start with people eating apples or you buying bananas)
++ [ ] /exceed/ the expectations made by the thumbnail
++ [ ] instantly explain the payoff
++ [ ] tell them why to watch
++ [ ] get right into content after delivering
++ [ ] remove every dull moment
++ [ ] find 10 most critical people you know to roast your video
++ [ ] payoff at the end
++ [ ] you can make anything work but it has to be interesting to the audience, original, and good
++ [ ] big stunts
++ [ ] the title should be "bananas are the best food on the planet" rather than "I like bananas"
++ [ ] consider what the experience will be for people in the video, if they liked it they might want to watch more of your videos.
++ [ ] viewers can tell when you are half-assing
++ [ ] (storyline) have an objective
++ [ ] stay on topic
++ [ ] no filler, only content that is neccesary to the narrative and meets the expectations
++ [ ] for payoff have the clear goal that is teased throughout the video
++ [ ] build anticipation to the payoff
++ [ ] wait until the very end to give the payoff
++ [ ] watchtime is not created equal, engagement and viewer surveys will differentiate between a good 25min video and a great one
 ** Thumbnail
 + concept more important than aestethics
 + borrow from other successful videos (yoink and twist)
@@ -64,6 +86,16 @@ Note, "I" is quite often meaning the character of the story, often the youtuber 
 + provide action
 + portray the story of the video
 + other parts of the image shouldnt take focus away from the important, clickable, elements
++ confusion doesnt make people want to click, curiosity \ne confusion
++ should be accurate in the most visually applealing way
++ should be simple and clear
++ colourful and bright
++ have 2-3 different versions of the thumbnail to A/B test
++ check how they look across youtube (thumbsup.tv)
++ recognisable figures improve CTR
+** Title
++ "and this happened" is better than "what happens next will shock you"
++ a good title says what it needs to say in as few characters as possible
 ** End Screen
 + Next logical step
 + What do the avatars care about?
