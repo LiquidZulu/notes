@@ -1,0 +1,42 @@
+#+TITLE: Economic Methodology Debate
+
+* Notes
++ logical-positivist (empiricist) school comes from the Vienna school, their view is that there exists two types of propositions:
+  + empirical propositions---say something about the real world and must be verifiable, or falsifiable, by experience
+    + statements that are not falsifiable are not scientific statements
+  + analytical propositions---true by definition, dont say anything about reality, just about the relationships between words, "bachelors are unmarried men" for instance.
+    + logic and mathematics are analytic
++ they thought the task of science was to give predictions "if A then B," these must be testable
+** Methadological dualism
++ first type
+  + children prefer macdonalds to burger king
+  + germans drink more beer than the french
+  + women prefer taller to shorter men
++ second type
+  + there is mutual profit in every voluntary trade
+  + interpersonal conflict is possible only in scarce goods
+  + without private property in factors there can be no cost accounting
+  + nothing can be owned by multiple parties at the same time
+Each of the first type have a sensical negation, those of the second type do not. This is methodological dualism. As the latter set of propositions have no sensical negations we know in advance (read /a priori/) whether or not they or true---or rather, that they /are/ true.
+** Refutation of the logical-positivist research program
+Is the logical-positivist proposition that a given proposition is either analytical, or empirical, itself analytical or empirical? If its analytical it does not say anything about the real world, if its empirical its on principle falsifiable, so we have to go out and test it.
+
+The logical-positivist's scientific method cannot apply to human actions because it requires consistency, i.e. that all variables are kept equal. Moreover, as we cannot scientifically predict what peoples future states of knowledge will be, and our states of knowledge impact our choices, we therefore cannot scientifically predict human action. Predicting human action is an art, not a science, you cannot get a formula that will tell you how people will act.
+** A priori economic truths
++ mutual profit in voluntary trade
++ unitary profit in exploitation
++ law of diminishing marginal utility
+
+* Flow
++ empiricism takes us further
++ arent many prax truths to get us very far
+  + dont know the effect of a given policy
+    + give an example
+      +
++ test an a priori and finds it isnt true
+  + minimum wage causing unemployment
+    + two areas that are bunched together two counties with similar incomes
+      +
++ monopsony is if there is one employer
+  + marginal cost with employing
++
