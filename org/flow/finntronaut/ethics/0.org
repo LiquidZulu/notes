@@ -1,8 +1,8 @@
-#+TITLE: Natural Law Theory: Anarcho-Capitalism vs Propertarianism
+#+TITLE: Ethics debate vs Finntronaut
 
 * Notes
 ** Homesteading
-Homesteading is defined as the original appropriation of a scarce nature-given good. Ownership is different to mere possession, which implies that late-comers cannot be the owners of a property, if they were then we would be back to mere possession which contradicts ownership not being possession.
+Homesteading is defined as the original appropriation of a scarce nature-given good. Ownership is pre-supposed as being different to mere possession by both parties in a dispute, which implies that late-comers cannot be the owners of a property, if they were then we would be back to mere possession which contradicts ownership not being possession.
 
 Furthermore it would be impossible to do anything if late-comers had an equal say over the use of a property as the first-comer, as before the first-comer could begin using the nature-given good for anything he would have to wait for permission of every late-comer, which is a set of indeterminate size that may include people who are yet to be born.
 
@@ -60,7 +60,7 @@ The ideological salesman is in the business of persuading his opponents of his o
 Argumentation must take place between people, i.e. rational animals or actors. The fact that B deciding to engage in argumentation with A does not turn A into a person where before he was some beast incapable of action, it follows that this is an inconsistent system of ethics---in one moment the adherent asserts the ethic of liberty and the next some negation of it. Inconsistency is by definition contradictiory---to dispute this is to say that one may remain consistent in the ethic of non-aggression where they only aggress on a person in one location in spacetime but dont aggress on others in different locations in spacetime, which is an absurdity.
 *** Universalisation
 + ask him if hes a particularist, can divert into [[Argumentum e Contrario]] here
-Argumentation takes for granted that the rules we live by are universal because argumentation involves not violent attacks, but simply persuasion. Therefore any argument we offer has to, in principle, be acceptable to all people. Lets take the example of A wishing to argue that he should be able to aggress against B, it would be impossible for A to convince B to go along with this, by the definition of aggression. You cannot consent to crime. Therefore, to get B to acquiesce to this norm A is stuck not with argumentation, i.e. rational justification, but with violence.
+Argumentation takes for granted that the rules we live by are universal because argumentation involves not violent attacks, but peaceful exchanges of propositions with the goal being to accept the truth should it be demonstrated. Therefore any argument we offer has to, in principle, be acceptable to all people. Lets take the example of A wishing to argue that he should be able to aggress against B, it would be impossible for A to convince B to go along with this, by the definition of aggression. You cannot consent to crime. Therefore, to get B to acquiesce to this norm A is stuck not with argumentation, i.e. rational justification, but with violence.
 *** Examples of impossible arguments
 + "nobody should be allowed to use scarce means"
 *** modus tollens argument
@@ -84,19 +84,6 @@ B aggresses on A, for A to object to retribution, he must engage in discourse wi
 ** The self-defeat of rights-sceptics
 If A has a right to X, this means that he is allowed to enforce him doing X. If a rights-sceptic claims that A has no such right, it either means that he thinks others have a right to enforce that A not do X, or that nobody has a right to enforce anything. The former fails on contradicting the belief of the rights sceptic that nobody is allowed to enforce anything, the latter fails on the grounds that the rights-sceptic cannot have an objection to A enforcing his right to X, as he himself claims that he has no right to enforce that A not do X.
 
-** Walter Block debate https://www.youtube.com/watch?v=BhBp_k3rXY4
-+ "most of the time when you are debating you are trying to deprive the other of something rather than find the truth"
-+ "humans act at the limits of their immorality"
-+ "what is the most just society we can get away with and survive"
-+ "dont use should, use can and is"
-  + "a just society is one that can survive"
-    + "can ancap come into being and can it survive competition without being conquered"
-+ "whether something is just it wont stop the strong from killing you"
-  + this completely ignores the purpose of law, law matters only when people break it, if people all lived in perfect harmony there would be no need to come up with ways for solving disputes---as there would be no disputes.
-** Protertarianism explanation https://medium.com/@theBosstiat/propertarianism-as-explained-by-a-libertarian-9ed8d3a50df0
-+ Demonstrated property refers to any property that humans demonstrate a propensity to retaliate against the imposition of costs upon
-  + imposition of costs is defined as a reduction in the quality of the property
-  + "It is important to note, though, that “imposition of cost” is an empirical term. That is, if humanity, by and large, views some activity as imposing costs, then it does."
 ** Useful SEP pages
 *** Justice https://plato.stanford.edu/entries/justice/
 + "The idea of justice occupies centre stage both in ethics, and in legal and political philosophy."
@@ -106,92 +93,57 @@ If A has a right to X, this means that he is allowed to enforce him doing X. If 
 + "The fulcrum and central question of natural law theories of law is: How and why can law, and its positing in legislation, judicial decisions, and customs, give its subjects sound reason for acting in accordance with it?"
 
 * flow
-+ how can you know that the ethics will always fail rather than they have previously failed
-  + rothbardian ethics will always end up with piracy
-    + BUT WHY
-      + piracy is a general term for civilisations that are sustainable only because they do not produce commons and they parasitically depend on the goods and commons of others
-        + what are the commons
-          + those things which I depend on
-            + how is a rothbardian society parasitic of commons, does it not allow for the production of these things?
-              + parasitic because 2 things
-                + people need an incentive to come somewhere
-                + you have to be able to create a demand for population
-                + you have to be able to create commons desireable for people to stay int
-                + create commons sufficient to create marginal workers
-                + problem is that you cant limit the commons to those who are not parasitic
-                  + why is this a problem (i.e. why does it imply the destruction of the society)
-                    + necessary but not sufficient
-                      + what is the doolittle state
-                        +
-          + behavioural
-          + life
-          + stuff
-          + mates
-          + children
-          + built capital
-          + territory
-  + when did they previously fail?
-  + dont allow you to create a high trust society, because no creation of the commons
-  + incentivises rent seeking
-    + doesnt prohibit it
-      + but how does it incentivise it
-        + false promises baiting into hazard-jewler who sells diamond rings to black folk requiring a hefty deposit with a hefty interest rate
-          + predatory lending
-            +
-    + rent seeking
-      + attempt to attain some portion of returns-from-transfer (interests) without contributing to the protuction of the thing in question
-      + example
-        + in the free market
-          + gangster protection money
-    + we only have to agree we dont have to provide blah
-  + represses creation of commons
-+ we know what ethics means the problem is that the context for applied ethics varies across circumstances, therefore we can say whether any normative claim is ethical
-+ what is ethics
++ it has to be stated that argumentation cannot exist in a normative void... one could not argue that argumentation is pointless
+  + violation of humes
+    + saying that you are not speaking is dialectic contradiction
+    + think you ought speak is a subjective belief
+      + grass ought to be green is of a different type
+        +
++ semantic point of whether lnc "applies"
+  + first if it is true that the conclusions only matter in argumentation... that applies to all conclusions
+    + the proof is of the same sort, the negation doesnt make sense
+      + I ought not ever speak
+        + we have that speech presupposes that you ought to speak
+          +
+        + determinism---if you go back far enough you realise that the preferences that you have you did not prefer to have those preferences
+          + you did ought to choose it
+        + could believe that fav team ought win the championship
+          +
++ triple logic
+  + how do we determine the correct system of logic to implement in a given scenario
+    +
++ definition of argumentation too strict
+  + argumentation is not just free-floating propositions
+    + devils advocate
+      +
++ getting to the truth
+  + what would it mean to say that argumentation need not be peaceful... violently attacking the opponent to get at truth
+    + rhetoritician who is very good at peddling falsehoods
+      + I know that I dont know
+        + how do you know they are false
+          +
++ definition of argumentation is unspecified---can one put a hierarchy on the qualifications for arguing
+  + cant put
+    + then contradictory norms in argumentation
+      + desire for agreement getting both parties further away from the truth
+      + peaceful means getting in the way of getting at agreement
++ not arguing because hasnt accepted presuppositions
+  + truth
+    +
+  + agreement
+    + what?
+      +
++ not clear which sect of libertarianism AE implies if any
+  + sects of libertism that contradict each other
+    + two incompatible NAP's
+      +
++ leap from pacifistic argumentation to non-aggressive
+  + no violence in argumentation, therefore no self-defence
+    + peaceful dispute resolution
++ action axiom makes it possible for one to follow the NAP when they prefer to aggress
+  + this makes virtue impossible because cannot violate
++ self interest---some christians who want to convert others but they say that those who are not aware will go to heaven so they do a disservice to others, similar to AE, people are better off serving their self-interest than if they are converted
   +
-+ would rothbardian ethic result in extermination
-  + rothbardian places a restraint on creation of commons
-    + property needs an insurer, some institution
-      + is it the case that we need a property rights to be defended for them to exist?
-+ "reasonable expectation" is subjective preference
-+ get back to what ethics is
-+ what is reciprocity
-+ blackmail
-  + the group has determined that its a crime
-    + because people demand reciprocity
-      + majority, or all?
-        + the group evolves this, nobody has to decide it
-          + its based on custom
-            + legislation is not the same as law, law is discovered
-              + it is a crime to do something which creates retaliation cycles
-              + can he give me an analogous statement to "crime is the initiation of conflict"
-                + "100 judges came to this decision"
-                + prohibative actions
-                  + transfer of demonstated interest
-                  + voluntary
-                  + productive
-                  + fully informed
-                  +
-                  + free of imposition of costs against a demonstrated others by externality
-                  + productive
-                  + informed
-                  + productive
-                  + fully informed
-                  + voluntary transfer of demonstrated interests
-                  + free of imposition of costs against a demonstrated others by externality
-                  + warrantied within the limits of liability and restitutability
-  + hes just describing different law systems
-  + is blackmail a voluntary exchange
-    + yes
-      + under european ethics
-        + is it productive
-        + is it fully informed
-        + is it warrantied
-        + are you liable
-        + is it voluntary
-          + its coerced?
-            + the blackmailed will want to retaliate against me
-              + status harm will ruin him
-                +
 * Footnotes
 
 [fn:1]https://www.wikidata.org/wiki/Q336 (https://archive.ph/Blr6n)

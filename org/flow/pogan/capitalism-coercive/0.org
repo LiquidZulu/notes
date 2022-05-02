@@ -1,0 +1,75 @@
+#+TITLE: Is capitalism coercive?
+
+* Notes
+** Marxist and Austrian Class Analysis
+*** What marx gets right
++ "The history of mankind is the history of class struggles."[fn:1]  It is the history of struggles between a relatively small ruling class and a larger class of the exploited. The primary form of exploitation is economic: the ruling class expropriates a part of the productive output of the exploited and uses it for its own consumptive purposese.
++ The ruling class is unified by its common interest in upholding its exploitative position and maximising its exploitatively appropriated surplus product. It never deliberately gives up power or exploitation income. Instead, any loss in power or income must be wrestled away from it through struggles, whose outcome ultimately depends on the class consciousness of the exploited, i.e., on whether or not and to what extent the exploited are aware of their own status and are consciously united with other class members in common opposition to the exploitation.
++ Class rule manifests itself primarily in specific arrangements regarding the assignment of property rights, or, in Marxist terminology, in specific "relations of production." In order to protect these arrangements of production relations, the ruling class forms and is in command of the state as the apparatus of compulsion and coercion. The state enforces and helps reproduce a given class structure through the administration of a system of "class justice," and it assists in th ecreation and the support of an ideological superstructure designed to lend legitimacy to the existence of class rule.
++ Internally, the process of competition within the ruling class generates a tendency toward increasing concentration and centralization. A multipolar system of exploitation is gradually supplanted by an oligarchic or monopolistic one. Fewer and fewer exploitation centers remain in operation, and those that do are increasingly integrated into a hierarchical order. And externally, e.g., within the international system, this internal centralization process will (the more intensively the more advanced it is) lead to imperialist interstate wars and the territorial expansion of exploitative rule.
++ Finally, with the centralization and expansion of exploitative rule  approaching its ultimate limit of world domination, class rule will increasingly become incompatible with the further development and improvement of "productive forces." Economic stagnation and crises become more and more characteristic and create the "objective conditions" for the emergence of a revolutionary class consciousness of the exploited. The situation becomes ripe for the establishment of a classless coeity, the "withering away of the state," "the replacement of government of men over'men by the administration of thing^,"^ and, as a result, unheard of economic prosperity.
+*** Marxist exploitation theory
++ factor prices, in particular the wages paid to the labourers by the capitalist, are lower than the output prices, which is deemed to be surplus value, the taking of this surplus value is deemed exploitation.
+
+*** Austrian exploitation theory
++ coercive exchange, i.e. exchange where one party loses out ex-ante at the gain of the other.
+  + e.g. a slave's utility is reduced at the expense of an increase in the wealth appropriated by his master.
+  + zero-sum, the masters gains are the slaves losses.
+  + antagonistic
+    + i.e. non-harmonious
+  + hampers the development of productive forces
+** His video
++ thinks that Murray founded Austrian school
++ "because one must agree to wage labour its consensual," is false he says
+  + labourers cannot simply walk away from their jobs or find new employment, the process to apply for a new job is not a situation where you are monetarily compensated for your time
+    + boo hoo? Marriage analogy
++ "how do we assure that the pay you receive is sufficient for your needs"
+  + define needs
+  + you determine that on your own, nobody owes you anything
+  + "capitalists give you a certain amount so that you spend money on goods and services"
+    + no, they give you a certain amount because they want you to work for them, and you dont want to work for free
++ "why cant corporations simply provide a low-level wage"
+  + all the other corporations bidding wages up
+** LTV
++ a theory of value has to serve as the basis for explaining exchange ratios
++ Value is subjective
++ Marginal utility (i.e. I value a second coat less highly than the first coat even where it takes the same amount of labour to produce it)
++ an oak-tree of a hundred years age possesses a higher value than corresponds to the half minute's labour required in planting the seeds.
++ time preference---the labourer values the present wages more highly than the future product of his labour
+* flow [2/3]
++ [X] ask if he's a marxist and ask if I can steelman the marxist position with [[What marx gets right]]
++ [X] What is coercion and what makes capitalism coercive?
+  + alt: what is exploitation...
+    + exploitation technical term meaning not anything normative meaning removal of surplus labour
+      + then what is coercion if its not to do with exploitation?
+        + capitalism has two classes, capitalists and workers
+          + what of people who are both capitalists and workers? (i.e. everyone lol)
+        + "there will always be coercion from capitalists towards workers"
+          + because they cant have their basic needs met?
+            + why does this constitute coercion? Define coercion
+              + there is some extenuating circumstance such that the choice isnt free
+                + loss of basic needs without the exchange
+                  + food, water, shelter
+                    + red herring, not talking about individual
+                      + what makes marriage voluntary, where wage labour isnt?
+                        + same considerations need to be made
+                          +
++ [ ] Do you support an ethic of slavery or one of self-ownership?
++ "but much of capitalist property was gained through conquest!"
+  + and /this/ form of capitalism is indeed exploitative, but this is not the capitalism that I subscribe to, the marxist claim is even under a so-called "clean" capitalism there would be exploitation, this I take issue with
++ capitalism has a unique feature where basic needs and necessities that workers need is gate-kept by coercive forces by the property owners, all that needs to be shown is that this is uniquely detrimental
+  + the onus on myself is to show that capitalism is not coercive or that the coercion is not distinct from other systems
++ LTV, workers need to be given labour value necessary to do the labour
++ welfare should be expanded
++ what is the thrust of his argument here, if not that coercion should be prohibited
+  + go over the fact that I am speaking of our ideal law
+    + the debate is not over what the best definition of coercion is
++ and why is that definition of coercion superior
+  + it will be more useful
+    +
+  + ties into proposition
+    + both trivially tie into the proposition
++
+* Footnotes
+
+[fn:1]Karl Marx, /The Communist Manifesto/, section 1.

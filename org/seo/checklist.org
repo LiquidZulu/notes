@@ -2,7 +2,7 @@
 
 Note, "I" is quite often meaning the character of the story, often the youtuber themselves.
 
-* Seo Checklist
+* SEO Checklist
 ** Points to hit [0/16]
 + [ ] who's the character?
   + [ ] their want?
@@ -58,7 +58,7 @@ Note, "I" is quite often meaning the character of the story, often the youtuber 
 + [ ] tell stories with B-roll
 + [ ] Keep pace as fast as humanely possible, without impacting the pacing
 + [ ] add breather moments to allow for the pace to not feel too fast https://www.youtube.com/watch?v=o8ZbGnwXjj4
-** How to keep people watching [0/20]
+** How to keep people watching [0/23]
 + [ ] deliver on title and thumbnail (video "I ate 100 bananas" shouldnt start with people eating apples or you buying bananas)
 + [ ] /exceed/ the expectations made by the thumbnail
 + [ ] instantly explain the payoff
@@ -79,6 +79,9 @@ Note, "I" is quite often meaning the character of the story, often the youtuber 
 + [ ] build anticipation to the payoff
 + [ ] wait until the very end to give the payoff
 + [ ] watchtime is not created equal, engagement and viewer surveys will differentiate between a good 25min video and a great one
++ [ ] Signal to the viewer early on that you know something that they dont, e.g. "I've uncovered something about Elon Musk that nobody is talking about."
++ [ ] Get rid of signposting, e.g. over-explaining and ‘telling’ the viewer what's about to happen instead of ‘showing’ them.
++ [ ] subtly re-introduce the hook at several points in the video, most viewers forget what the incentive to watch is 5 or 6 minutes in
 ** Thumbnail
 + concept more important than aestethics
 + borrow from other successful videos (yoink and twist)
@@ -93,6 +96,8 @@ Note, "I" is quite often meaning the character of the story, often the youtuber 
 + have 2-3 different versions of the thumbnail to A/B test
 + check how they look across youtube (thumbsup.tv)
 + recognisable figures improve CTR
++ you probably only want 1 person in your thumbnail (obviously just a rule of thumb)
++ spike their curiosity so much that they will wonder what happened if they dont click
 ** Title
 + "and this happened" is better than "what happens next will shock you"
 + a good title says what it needs to say in as few characters as possible
