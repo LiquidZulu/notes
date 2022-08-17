@@ -1,0 +1,194 @@
+#+TITLE: Hoppe Discussion with Esoteric Entity
+
+* Notes
+** Their series
+*** Argumentation Ethics
++ dont need body to remain in-tact to argue for something (can break my legs whilst I use my mouth)
++ doesnt make a distinction between liberty rights and claim rights
+  + liberty right: the ability for a moral agent to act in certain ways (eg: freedom of association)
+  + claim right: obligations others have to another moral agent (eg: payment of damages inflicted)
++ assume that AE is true and proves property rights to be valid
+  + then have it that one has a liberty right to propose something but no claim rights
+    + property rights imply both---to have a property right in X implies a corressponding duty for others to not infringe on this right
++ what of legal children who do not currently have the ability to argue
++ "if someone aggresses against a person then they forfeit their right to not be aggressed against"
+  + misunderstanding of estoppel
++ consistency principle better---all other possible ethics fall into slavery and are thus not consistent
+  + universal co-ownership is universalisable, what makes it non-consistent?
+*** Secessionism
++ secessionism relies on the mother-state recognising the secession
+  + this does not alter the legality of secession
++ smaller nations can be more oppressive
+  + hoppe's point is that there is a tendency towards greater degrees of property rights as you truncate nations further
++ a greater number of geo-political rivals implies that there is a greater need to expropriate from the population to allow for a greater ability to attack those rivals
+  + the more you expropriate, the lower the wealth of the nation will be, people will be at a greater ability to leave when there is a greater competition between nation-states.
+  + furthermore, if it was the case that smaller nations enacted a tendency towards less adherence to natural law would this not make anti-secession libertarian praxis?
+
+** Argumentation Ethics
+*** What is argumentation
+Argumentation is an interaction wherein two or more parties assert premises in support of two or more contradictory conclusions, with the goal of each party being to find what the correct conclusion is. Argumentation is specifically the method of solving disputes over claims of truth through the use of peaceful means, that is one tries to convince their interlocutor through the force of their argument, not by aggressing upon them.
+
+The ideological salesman is in the business of persuading his opponents of his own conclusion, without paying any mind to what the truth of the matter is.
+
+*** Ethic only applies during argumentation
++ inconsistent system of ethics, therefore false
+  + argumentation does not turn an irrational animal into a rational one (a person)
+Argumentation must take place between people, i.e. rational animals or actors. The fact that B deciding to engage in argumentation with A does not turn A into a person where before he was some beast incapable of action, it follows that this is an inconsistent system of ethics---in one moment the adherent asserts the ethic of liberty and the next some negation of it. Inconsistency is by definition contradictiory---to dispute this is to say that one may remain consistent in the ethic of non-aggression where they only aggress on a person in one location in spacetime but dont aggress on others in different locations in spacetime, which is an absurdity.
+*** Universalisation
++ ask him if hes a particularist, can divert into [[Argumentum e Contrario]] here
+Argumentation takes for granted that the rules we live by are universal because argumentation involves not violent attacks, but simply persuasion. Therefore any argument we offer has to, in principle, be acceptable to all people. Lets take the example of A wishing to argue that he should be able to aggress against B, it would be impossible for A to convince B to go along with this, by the definition of aggression. You cannot consent to crime. Therefore, to get B to acquiesce to this norm A is stuck not with argumentation, i.e. rational justification, but with violence.
+*** Examples of impossible arguments
++ "nobody should be allowed to use scarce means"
+*** modus tollens argument
+/Modus tollens/ is:
+1. $p \implies q$
+2. $\neg p$
+3. $\therefore \neg q$
+
+"if p implies q and q is not true, p must not be true," we can apply this to argumentation ethics as follows (A=/I ought to own that which I originally appropriate/, B=/I ought to preserve life/):
+1. $\neg B\implies \text{performatory self-contradiction}$
+2. $\therefore (\neg(\neg B))$
+3. $\therefore B$
+4. $\neg A\implies\neg B$
+5. $\neg(\neg B)\implies\neg(\neg A)$ /modus tollens on 4/
+6. $B\implies A$
+7. $A$
+
+In words, the claim that you ought not live ($\neg B$) is a dialectic contradiction, therefore you ought to preserve your own life, the anti-homestead ethic implies the anti-life ethic, therefore via modus tollens, the negation of the anti-life ethic implies the negation of the anti-homestead ethic, so a life-ethic implies a homestead ethic. As an anti-life ethic is dialectically false, an anti-homestead ethic is also dialectically false.
+*** Counterarguments
+**** Only applies during argumentation
++ inconsistent system of ethics, therefore false
+  + argumentation does not turn an irrational animal into a rational one (a person)
+Argumentation must take place between people, i.e. rational animals or actors. The fact that B deciding to engage in argumentation with A does not turn A into a person where before he was some beast incapable of action, it follows that this is an inconsistent system of ethics---in one moment the adherent asserts the ethic of liberty and the next some negation of it. Inconsistency is by definition contradictiory---to dispute this is to say that one may remain consistent in the ethic of non-aggression where they only aggress on a person in one location in spacetime but dont aggress on others in different locations in spacetime, which is an absurdity.
+
+This counterargument fails on a number of grounds. First if it is true that the conclusions reached in an argumentation only matter during the course of that argumentation the same could be said of all conclusions, not only those related to the argument from argument. Its as if I were to grant that it is true that voluntary trades are mutually beneficial but only when we are alctually arguing and that after the argument I revert back to believing in the contrary, that they are not mutually beneficial. This would be the complete abdication of truth.
+
+Second, when used by someone arguing a dialectically false ethic, even if we grant them that their ethics can change inside and outside of an argument, this leaves them with the position of stating an inconsistent and therefore contradictory ethic. It's as if I were to say that murder is bad in one part of spacetime but good in another---I am simultaneously taking the opinion that murder is both good and bad.
+**** Only applies to the body parts required for argumentation
+The second counterargument is that argumentation ethics only precludes me from being violent towards the body parts that one is using in the course of an argument, it may be true, the sceptics claim, that I would contradict myself by cutting my interlocutors tongue out, but I would not by breaking his legs. This counterargument misses the mark in that Hoppe's argument is not about which body parts are being used, its about solving the dispute through peaceful rather than violent means. It is certainly true that breaking a mans legs is violent, therefore this is an impermissible move in an argument.
+** Estoppel
+B aggresses on A, for A to object to retribution, he must engage in discourse with B, that is he must at least temporarily adopt the stance of a peaceful, civilised person in trying to persuade A, through reason and consistent, universal principles, of why A should not punish him. This means that B is claiming that A should not perform the retribution on B, meaning that he thinks this action is unjust. But that retribution specifically mirrors the prior action of B, meaning he thinks it is a proper thing to be done. Therefore B could not make this claim without contradicting himself, meaning he cannot object.
+** The self-defeat of rights-sceptics
+If A has a right to X, this means that he is allowed to enforce him doing X. If a rights-sceptic claims that A has no such right, it either means that he thinks others have a right to enforce that A not do X, or that nobody has a right to enforce anything. The former fails on contradicting the belief of the rights sceptic that nobody is allowed to enforce anything, the latter fails on the grounds that the rights-sceptic cannot have an objection to A enforcing his right to X, as he himself claims that he has no right to enforce that A not do X.
+
+* flow
++ disagreement with hoppe/paleo is the content of the concepts relating to libertarianism
+  + too platonistic
+    + issue with that is they dont have any way of explaining necessarily what justifies property
+      + AE, which is aristotelian
+        + no way within paleo movement to distinguish between a corporate title and IP and any other kind of property
+          + because they have accepted that property is a legal concept and because property is legal what counts as a claim is due to a 3rd party
+            + how do the norms emerge?
+              + AE
+                + isnt a difference between fiat property and property as an action
+                  + define these terms
+                    + fiat property: property as being characterised within a legal framework---have a state with political organisation that is influencing the norms of property that people can make claims around
+                      + what counts as private property when a state exists is not necessarily something that is defensible because if someone made a claim over land that conflicts with a prior homestead
+                        + this is not property in the hoppe sense
+                          + problem is that in hoppes epistemelogical approach to characterise property and defend it within a legal context
+                            + a *natural legal
+                              + problem is that I am conflating the norm that emerges with what property titles are defensible---if you do not distinguish between property norms and what is right you have no way of explaining how states emerge
+                                + Hoppe explicitly characterises states as organisations that were originally covenant communities
+                                  + no way to distinguish between political fiat and actual property
+                                    + you do, one set arises out of conflict avoidance the other doesnt
+                                      + but what within hoppes reasoning would justify this characterisation
+                                      + what counts of conflict avoidance
+                                        + what is specifically the basis within the claim---what counts as a claim
+                                          + initial appropriator
+                                            + why cant I say that IP counts as property
+                                              + ideas arent scarce---no conflicts
+                                                + still havent provided a basis as what counts as a claim
+                                                  + I have, it arises out of conflict avoidance
+                                                    + this standard doesnt emerge out of any methadological framework it is the basis for trying to determine...
+                                            + why cant a group create a political organisation to create corportate law?
+                                              + the legal status of a corportate entity that exists in modernity which exists because the state is able to create arbitration as a type of firm because it has a monopoly
+                                                + what specifically do you think is problematic about this?
+                                                + well, that monopolisation is aggressive
+                    + property as an action: actual property rights
+                    + latter requires that you are acting on the resource?
+                      + no methadological basis for property
+                        +
+                + assumption that goes into hoppe that property norms are something which exist outside of people acting on resources
+                  + they dont, you require action for conflicts to occur
+                    +
++ platonistic
+  + its aristotelian
+    + determines what counts as a concept based on what is required to cause that concept to emerge
+      + at least the basic structure is aristotelian, LNC and whatnot
+        + nothing within this internal reasoning that causes those original concepts to emerge
+          + what initial concepts? AE is the initial concept
+            + are we talking about AE or "these concepts"
+              + we were discussing the root of property rights in the hoppean sense
+                + gets back to some of the criticisms---there is no way to clearly see that property norms are different from the act of claiming itself
+                  + doesnt differentiate between different claims
+                    + any property system /has/ to diffeerentiate beteween different claimsu
+                      + what counts as a claim to begin with is determined by the action thats taken to cause it to emerge
+                        + no basis for characterising what counts as property
+                          +
++ from where do you derive the action axiom (AE isnt derived from an action that caused it to be true)
+  + because of the fact that in modernity people are moral agents
+    + what does it mean to be a moral agent?
+      + a being which has sapience---capable of internalising its actions
+        + circular, moral agent is capable of internalising its actions---relies on the action axiom
+      + a being that can recognise itself as different from its environment and make an internal narrative for itself
+        + can recognise what a claim is
+          + how?
+            + if its capable of recognise itself as a being then its capable of recognising its actions as something beyond "I see food I take it"
+              + circular no?
+                + not circular because what hes saying is that it doesnt have any intrinsic recognition of what an action is it has to create an internal narrative for what action is. If something is a moral agent then it can necessarily create a narrative for what its actions are
+                  + concept of action is not something that is necessarily exclusive to moral agents
+                    + then how do moral agents imply the action action axiom
+                      +
++ cognitive dissonance/programming debunks action as being purposeful behaviour
+  + can engage in involuntary behaviour within your own internal reasoning
+    + so how does this imply that action isnt purposeful behaviour?
+      + the use of psychological programming which causes someone to build an internal narrative of information that causes them to only be able to do certain things within some domain
+        + altering what people will choose
+          + maintained by an involuntary response that they arent conscious of
+            + lets assume that it is involuntary, how does this imply that action isnt purposeful behaviour?
+              + the problem that this presents with transcandental argument of action is that you have some behaviour that both counts as rationally informed behaviour
+                + because I have taken this platonistic approach somethign that we can demonstrate to be the case based on what can be shown to cause these things to emerge
+                  + missing the point
+                    + not sidestepping---focusing on epistemelogical justification
+                      + yes, which you did by pointing out that programmineg implies that action isnt purposeful behaviour
+                        + not that psychological programming refutes it its that there are observed behavioural states that count as both
+                          + then purposeful because "rationally informed" means rationally
+                            + purposeful and non-purposeful at the same time
+                              + people who act upon a political understanding of society because of this internal narrative that is re-enforced through artificial incentives pushed by cathedral
+                                + how is this non-purposeful?
+                                  + first because while you are following the lines of thought that conform to the narrative you engage in praxeologically rational behaviour and you are also able to introspect on the nature of concepts within that conception, but as soon as somethign that is presented against that narrative its not conceivable due to cognitive dissonance
+                                    + cognitive dissonance is an involuntary response when something is presented that challenges someones perceived sense of interests---if you provided a tribesman cloud seeding technology or demonstrate that this isnt a method to actually get to rain
+                                      + if no cognitive dissonance for rain-dancers then why not for NPC's?
+                                        + so cognitive dissonance for NPS's implies that they are engaged in both purposeful and non-purposeful behaviour at the same time?
+                                          + you can have something that is not maintained through praxeologically rational thought and based on how the brain is functioning you can be acting upon this as if you are engaging in rational though
+                                            + in what sense are you engaging with rational thought
+                                              + beacuse you are not conscious of the paramaters that cause cognitive dissonance and when you are reflecting upon it you are simply engaging with these concepts in the sense that you are engaging in
+                                                + NPC has parametric domain---outside of this domain its non-purposeful, inside it is
+                                                  + wheres the intersection
+                                                    + there isnt a universal way of determining this
++ how are you determining that the intersection even exists?
+  + \exists because every person responds the exact same way when you have roughly treaded upon these paramaters
+    + how does this imply that \exists an intersection?
+      + suggests that something other than individual rational thought is going on
+        + what about ancaps who respond similarly too?
+          + depends on specifically who you are talking about
+            + common arguments will go in similar ways
+              + Go openings are similar
+                + when talking about chess/go you are speaking about action within a framework
+                  + its an analogy
+                    + tendency towards better arguments
+                      + this sort of response is responded to in more-or-less the same way
+                        + they at least understand the base principles of argumentation, similarly people who understand the base principles of Go or chess will open in similar ways
+                          + programmed internal narrative
+                            + the set of moves that you think are viable in Go changes
+                              + when they havent had cognitive dissonance they are capable of engaging in rational though
+                                + but do they at least understand the basic principles of argumentation
+                                  + the association between these concepts isnt made consciously
+                                    + you are trying to prove that they both arent and are acting because they choose similar counterarguments
+                                      + how do you know it is coming from a master-narrative and not simply the reality that some arguments are better?
+                                        +
++ no normative pre-suppositions to argumentation
+  + "I ought never argue" is a contradiction because its an argument against the act of argumentation
+    + doesnt like my definition
+      + what is your definition of argumentation?
+        + communication between two different actors over a concept or premise that they are disputing

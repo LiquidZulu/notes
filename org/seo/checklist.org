@@ -2,7 +2,7 @@
 
 Note, "I" is quite often meaning the character of the story, often the youtuber themselves.
 
-* SEO Checklist
+* SEO Checklist :noexport:
 ** Points to hit [0/16]
 + [ ] who's the character?
   + [ ] their want?

@@ -1,0 +1,16 @@
+#+TITLE: Non-Aggression Principle
+#+STARTUP: latexpreview
+
+Define "This dispute should be resolved violently" as $\mathbb{V}$
+
+\begin{array}{rl}
+
+  1. & q \longrightarrow \neg\mathbb{V} \\
+  2. & \neg\mathbb{V}\wedge\neg\text{NAP} \longrightarrow p\wedge\neg p \\
+  3. & \neg(p\wedge\neg p) \\
+  4. & \neg(\neg\mathbb{V}\wedge\neg\text{NAP}) \\
+  5. & \neg\text{NAP} \longrightarrow \neg\mathbb{V}\wedge \neg\text{NAP} \\
+  6. & \neg(\neg\text{NAP}) \\
+  7. & \text{NAP}\ \blacksquare \\
+
+\end{array}

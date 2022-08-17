@@ -1,0 +1,27 @@
+#+TITLE: Natural Law Debate
+
+* flow
++ property rights
+  + proudhon---property has a contradictory relationship with freedom, on the one hand property is good for liberty as it means the owner has a right to use the property and not be hindered, on the other hand the non-owner becomes dominated by the owner.
+    + domination
+      + A and B are neighbors, B buys everything surrounding A, for A to leave he needs B's permission
+        + forestalling
+    + latecomer ethic?
+      + not always latecomer, so when is it the latecomer?
+        + use-based, physical frequent manipulation
+          + how frequent must it be?
+            + depends on the property in question
+              + what is the algorithm? Or rather does \exists an algorithm?
+                + for continuum problem needs difference in principle
+                  + isnt an objective straight-forward line
+    + if everything is privately owned and the owner has an absolute say
++ what is property?
+  + property rights are necessary because people need to use means in order to live, based on life-affirmation
+    + conflict avoidance not the base principle
+      + altering land without hindrance is
+        + come to scotland on a night out and bat loses his trousers
+          + what is the criteria-set that defines when lethal force is just in the defense of property rights
+            + times where it is justified to initiate conflict---move into home
+              + property rights are necessary for conflict avoidance
++ what is the core of law
+  + self-interest---stirner

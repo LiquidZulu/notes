@@ -1,0 +1,194 @@
+#+TITLE: Austrian Vs Chicago Economics
+
+* Notes
++ Austrians agree with Chicagonians on many /policy/ issues but the approach to economic science is quite different
+** Danny's Video
+*** Praxeology
++ cant make statements about the real world and know whether they are true a priori
+  + seems false---pythagorean theorem doesnt tell you anything about the real world (???)
+    + cant tell if any of the real world objects actually match the theoretical triangle---irrelevant, for any triangle that the theory applies to it is true
+    + "cetirus paribus" means you arent saying anything about the real world
+*** Rationality
++ no useful economic statements are possible if you do not assume that people are using the correct means to attain their end
+  + mutual profit in trade---he misses the "ex ante" part
+*** Indifference
++ indifference cannot make for a theory of action---I do not choose based on those factors which I do not care about
++ indifference assumes:
+  + all goods can be divided into arbitrarily small units;
+  + humans take such infinitesimal amounts into consideration when choosing; and
+  + the transaction costs in any exchange can be made arbitrarily small
++ coke bottle example
+  + cannot add an infinitesimal quantity of coke to a bottle, quantities of coke must be non-negative real numbers (constrained by chemichal boundries)
+*** Utility
++ we operate on the basis of inter-personal utility comparisons---say you have two friends and one spare beer, one thing you might do to determine who you give it to is who you think would value it more
+  + :|
+  + I give it to john instead of derek because I think john is better able to make square circles than derek therefore he should have it
++ going to donate to one of two charities who do different things, the one you donate to might be the one which will produce the most net benefit
+  + in reality, the one you donate to will be the one you expect will raise you most on your own scale of values---there is no theoretic rigour to this notion of inter-personal comparisons of utility, you cannot say which a man will donate to on its basis.
++ "economics can help us to do these comparisons better," how is this the case if the comparisons can never have any basis in science?
++ "how can austrians make an economic criticism of the government?" No such thing is possible, economics is value-free
++ Pareto improvements, someone gets a beer and nothing is taken from anyone else---fails on the grounds that I might perceive someone else getting a beer to be a bad, these still rely on interpersonal utility comparisons
+** Class Theory
++ public choice sees the state as being simply another firm, austrian class analysis recognises that the state has distinctly different economics undergirding it
+  + state does not live or die by public demand, it lives or dies by public opinion
+  + political vs economic means
+
+** Methodology
+*** Meta
++ Austrians see economics as an a priori as opposed to a posteriori science
++ Friedman's "The Methodology of Positive Economics" states that one should develop models with false assumptions:
+  #+begin_quote
+  The relevant question to ask about the "assumptions" of a theory is not whether they are descriptively "realistic," for they never are, but whether they are sufficiently good approximations for the purpose in hand. And this question can be answered only by seeing whether the theory works, which means whether it yields sufficiently accurate predictions.
+  #+end_quote
++ economics is not about making testable predictions, consider "people respond to incentives." If to test this I told a man "I'll give you $20 if you cut off your big toe," regardless of what happens my claim is safe and secure.
+*** Methadological dualism
++ first type
+  + children prefer macdonalds to burger king
+  + germans drink more beer than the french
+  + women prefer taller to shorter men
++ second type
+  + there is mutual profit in every voluntary trade
+  + interpersonal conflict is possible only in scarce goods
+  + without private property in factors there can be no cost accounting
+  + nothing can be owned by multiple parties at the same time
+Each of the first type have a sensical negation, those of the second type do not. This is methodological dualism. As the latter set of propositions have no sensical negations we know in advance (read /a priori/) whether or not they or true---or rather, that they /are/ true.
+*** Refutation of the logical-positivist research program
+Is the logical-positivist proposition that a given proposition is either analytical, or empirical, itself analytical or empirical? If its analytical it does not say anything about the real world, if its empirical its on principle falsifiable, so we have to go out and test it.
+
+The logical-positivist's scientific method cannot apply to human actions because it requires consistency, i.e. that all variables are kept equal. Moreover, as we cannot scientifically predict what peoples future states of knowledge will be, and our states of knowledge impact our choices, we therefore cannot scientifically predict human action. Predicting human action is an art, not a science, you cannot get a formula that will tell you how people will act.
+*** A priori economic truths
++ mutual profit in voluntary trade
++ unitary profit in exploitation
++ law of diminishing marginal utility
+** Business Cycles
+*** Meta
++ Chicagonians subscribe to the efficient markets hypothesis---EHM denies that there could be such a thing as a boom (see [[https://mises.org/library/following-efficient-markets-hypothesis-absurdity][here]] and [[https://mises.org/library/bursting-eugene-famas-bubble][here]]), EMH says that market prices react quickly to news so that at any time prices reflect publicly available information.
+  + cannot explain clustered malinvestment
+*** Structure of Production
+What does it take to make a ham sandwich?
++ Ham
+  + butcher
+    + land and labour
+    + fridge
+    + knives
++ Bread
+  + bakery
+    + land and labour
+    + oven
+    + flour
++ Lettuce
+  + farming
++ Mayo
+  + farming
++ Plate
+  + plate factory
++ Table/chairs
+  + furniture manufacturer
++ Land (deli, standing room, etc)
++ Labour
+Everything will eventually terminate in land and labour.
++ time dimension, the butcher needs a knife before he can cut the ham, but theres also spending by entrepreneurs in every stage.
++ hayekian triangle: earlier stages require less spending than later stages (why?). The price spread between stages in ERE (taking out uncertainty) is interest, i.e. investors invest in something today for expected returns in the future.
+*** Sustainable Growth
+**** Graphical overview
++ the fact that there are differing rates of time preference means that the high time preference can borrow from the low time preference.
++ tradeoff between consumption and investment; we can consume today and have less to invest, or we can invest today and have less to consume.
++ an increase in saving corresponds with a decrease in consumption and increase in investment
++ When there is more investment we get a lower interest rate and more loans
++ the hayekian triangle gets squished down because people are deciding to consume less (save more) and gets longer, so there is more investment in the earlier stages of production with less investment in later stages
+
+[[./graphs.png]]
+
+Because consumers are consuming less this frees up resources for use in production. Lower discount on earlier factors of production makes it such that it will be relatively cheaper to make new capital goods
+**** Textual overview
+Saving involves freeing up resources for production. In credit markets, saved funds are made available to entrepreneurs to purchase factors of production. New, longer lines of production are started, which is in line with consumers' time preferences. The additional investment (in excess of what is required for maintaining/replacing existing capital stock) pays off with an expanded set of resources in the future, i.e., economic growth.
+*** Unsustainable Growth
+Artificial credit expansion in that you just pump additional funds into the credit markets that does not correspond with an increase in peoples desire to save. The newly created money entering through credit markets represents an increased supply of loanable funds.
++ interest rate falls but not because of a decrease in time preference
++ At the lower interest rate, saving decreases
++ Consumption and borrowing increase
++ firms take the new funds and invest in new, longer lines of production
++ factor prices are bid up across the board. Wages increase, employment increases, consumption increases, investment spending increases.
++ In short, we have a general /boom/.
+*** Overconsumption and Malinvestment
+Artificial credit expansion causes overconsumption and malinvestment. Overconsumption because consumers did not show that they preferred future output to present output, in fact, they /decreased/ saving at the lower interest rate.
+
+The credit expansion does not represent an increase in real resources available for consumption or investment.
++ factors of production become increasingly scarce
++ Prices are bid up higher than entrepreneurs expected
++ Costs increase, expected profits turn into losse
++ projects are abandoned
+
+Malinvestment - entrepreneurs were led to believe consumers had saved, real resources were available for production, and that longer, more capital-intensive production would be profitable.
+
+*** Lessons learned
+If you look at highly aggregated data, you misdiagnose the problem and give bad solutions---you had to look at the malinvestment in the different stages of production to be able to see the errors, you had to disaggregate.
+
+Sustainable production is based on a real reallocation of resources away from consumption, i.e., real savings.
+
+Unsustainable booms are caused by artificial increases in credit. Recessions are the time when we fix the mistakes of the past.
+*** Block on government discounting investment
+Present discounted value on a dollar over a year say, is how much you would be willing to bid to receive that dollar in a year given some interest rate. If you have an interest rate of 4% the present discounted value is $.96, and at 3% its $.97. So if government artificially lowers the interest rate from 4% to 3% it encourages investors to invest in this project of 1 years duration because it increases the value of it by about 1%---there will be a tendency enacted towards investments of this sort. But crucially this effect is far stronger in long-term investments, at 70 years we have it that the present discounted value of a dollar at 3% and 4% respectively is $.12 and $.06, namely it doubled. So artificial lowering of interest rate encourages long-term investments a lot.
+
+The market interest rate, on the other hand, is determined by the time preference of consumers, i.e. how desperate they are to get the good now. So if the market interest rate is 4% and the government sets it at 3%, then entrepreneurs are lead to invest in longer-term projects than they would otherwise.
+
+*** The argument
+**** Sustainable Growth
++ If there is a change in time preference such that more people save this leads to more funds available for credit markets
++ This opens up credit for entrepreneurs to purchase factors of production
++ New, longer lines of production are started, which corresponds to the consumers' lower time preferences.
++ The additional investment pays off with an expanded set of resources in the future---economic growth
+**** Unsustainable Growth
+We are increasing loans without people actually foregoing consumption.
++ there is additional credit without the corresponding increase in savings as the time preferences of consumers has remained the same
++ This additional credit means more loanable funds to entrepreneurs meaning longer lines of production
++ interest rate falls[fn:1] meaning consumption and borrowing increase
++ because the fall in interest rate was artificial and didnt reflect consumers' TP, consumers are therefore overconsuming
++ factor prices are bid up due to the increase in investment
++ Wages increase, employment increases, consumption increases, investment spending increases.
++ In short, wea have a general /boom/.
++ Eventually these factor prices go way higher than the entrepreneurs expected they would have because there was no true saving backing up those additional loans
++ So entrepreneurs have to start re-allocating capital---we are now in a bust.
+**** Graphs
+***** Sus
+[[./graphs.png]]
+***** Unsus
+[[./graphs1.png]]
+
+** Law
++ chicagonians state that property rights should be determined on the grounds of economic efficiency---cart before the horse. The reductio case is a judge determining if a man has stolen a womans purse by asking how much each party would be willing to pay for it.
+* Flow
++ ~how I came to the position of believing austrian > chicago
+  + started learning through austrianism, started readinig watching, friedman convinced him
++ what would you say are the main points that make you believe that your system is preferable?
+  + his 5 problems
+    + praxeology doesnt work
+    + rationality---austrian rationality is a much weaker assumption in that it assumes less (this is a good thing), man doing a rain dance to make it rain is acting rationally---no economic conclusions from this, chicago better, successful action.
+      + mutual profit in trade, doesnt have ex ante particle
+      + chicago assumption is close enough to true---this is unknowable
+  + a priori as opposed to a posteriori science
+  + economics is a partially empirical pursuit
+    + what is the empirical part?
+      + why does philosophy outside matter?
+  + science is creating models
+    + thinking is models
+      + "people think with models, therefore we should base logic on models"
++ "plausible guesses"
++ min wage---incredibly rich person, wants to hire a bunch of people
++ major fundamental flaw with the other school that is not reconcileable with economics
+  + is indifference a valid concept?
+    + its irrelevant to economics
++ do you think there is a particular theory that has been introduced by my particular school that makes it indespensible
+  + ABCT
+    + possible that it doesnt explain the actual business cycles that we see
+      + chicago could advocate this
+      + plausible description of the downturns
+        + fact that friedman advocated QE
+        + why make it 0.02% worse?
+  + ECP/Knowledge problem
+  + cardinal utility
+  + interpersonal comparison of utility
++ logical structure behind your interpersonal comparison
+  + they are weighing one thing up against another
+    + weighing up which is bigger
+      +

@@ -1,0 +1,27 @@
+#+title: Voluntary Prisons
+
+* My Response
+#+begin_quote
+In having been found guilty of a crime - either violation of the NAP or breach of a rule set by a covenant (a rule you agreed to) - you are told to submit yourself to a custodial penalty or face physical removal
+#+end_quote
+It is strange wording to say "either violation of the NAP or breach of a rule set by a covenant," to explain I will quickly elucidate the title-transfer theory of contracts set forth by Rothbard. The only valid contracts are those that define the transfer of the title to property. Under this definition Kinsella points out[fn:1] that it is not actually logically possible to break a contract. Lets imagine that we are in a green-shirt covenant where the rule is that you must wear green shirts at all times. How could this rule be formed contractually? It would require some manner of penalty clause, perhaps if you are found not wearing a green shirt, you agree to transfer the title to 5 units of gold. The instant you are indeed found sans green shirt, you instantaneously transfer said gold to whomever the contract was with, perhaps John Galt. Therefore no crime has actually occurred insofar as no conflict over that gold exists. If Galt comes to you and asks for his newly acquired property and you refuse, /then/ crime is afoot---you are essentially robbing him.
+
+A custodial penalty could not be involuntarily enforced upon the breacher of this contract, the just punishment is not locking away the theif, but rather taking the stolen property (restitution) and an additional sum equal to what was initially taken (retribution). On the other hand, physical removal would be trivial to set up contractually---either Galt is the owner of the entire covenant--all of the roads, buildings, etc--or a penalty clause is embedded in the contract such that any buildings that the non-green-shirt-wearer owns is immediately tranferred to Galt. Here it is a simple case of evicting an unwanted person from ones property.
+
+
+#+begin_quote
+You can accept the penalty or you are no longer provided with privileges garnered by membership of a covenant - additionally in having violated the terms you have arguably sacrificed your own rights (performative contradiction to violate rights but claim for yourself.
+#+end_quote
+Indeed, this would be a valid form of imprisonment, "hey, you blue shirted cunt, if you don't sit on the naughty step for 5 minutes your holdings in the covenant will be forfeit and you will have no legal defence against eviction." However, it is wrong to say that this person has sacrificed their own rights---it is entirely unclear what exactly it means for a man to sacrifice his rights. Lets picture our above 5-unit-gold-thief, he has not /sacrificed his right to/ either the retributive or restitutive sum of gold. Such a statement would be to imply that he had some manner of right to them, which he gave up, which we shall attack piecemeal. The criminal certainly has no right to the restitutive sum---this belongs to the victim insofar as the victim wants it back. He also has no right to the retributive sum; the instant he committed the crime he demonstrated that he thinks it is valid for the victim to do the same to him. This is not a forfeiting of rights anymore than me agreeing to give someone a hearty handshake is me forfeiting my right to not shake his hand---in either case I demonstrate that I believe it is a valid interaction (in the former case via dialectic contradiiction, in the latter via direct consent).
+
+Furthermore, this is more than a mere semantic squabble, in saying that rights are being ceded here, or in the later case of "temporarily trading liberty for the retention of other rights in the future," you inadvertently cede the ground to our enemies that capitalism in some way limits freedom through the trading of rights away---or even worse that the NAP is some mere "agreement" between individuals which can be rescinded within some domain. This loses the ground that the NAP is an objective ethic---quite the loss indeed.
+
+
+* Towards a Theory of Libertarian Prisons
+The above being said, the mere concept of libertarian prisons is not per se invalid. One such case where imprisonment is just is in retribution against kidnappers---so it is perfectly valid to assert that the local sheriff who locked a man up for possession of a firearm may be locked up in turn. Furthermore, you are correct that a sufficiently set up covenant contract could indeed have terms for imprisoning someone if that person wishes to return to the covenant---this is in essence Murphy's view[fn:2] that libertarian prisons could act as being almost insurance agencies, where people voluntarily go there to demonstrate to everyone that they wish to be redeemed.
+
+
+* Footnotes
+[fn:2]https://www.youtube.com/watch?v=SzYJYSm-MfI
+
+[fn:1]I can't remember where, perhaps in /Against Intellectual Property/.

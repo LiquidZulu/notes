@@ -1,0 +1,11 @@
+#+TITLE: Gun Laws in the USA, UK, and the Anglosphere
+
+* Notes
+** Uvalde shooting https://www.youtube.com/watch?v=vF5hsI2Bxbc
++ aydin doesnt trust the feds
+** Borer argument for NAP
++ a conflict resolution system (law) has 4 options for who to deny in a given conflict:
+  1. deny the aggressor (NAP)
+  2. deny the victim (victim can just aggress back and we have the mere-possessor ethic)
+  3. deny both (contradiction when A wants to kill B and B wants to not be killed)
+  4. deny neither--might makes right (argumentation ethics)
