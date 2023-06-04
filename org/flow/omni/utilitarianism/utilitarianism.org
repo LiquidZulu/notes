@@ -1,0 +1,147 @@
+#+title: Utilitarianism
+
+* Notes
+** FabianLiberty debate
++ "why cant moral rules have exceptions?"
+  + this would be arbitrarily specialising the norms, any rational norm must be derived based on the nature of the entire class of entities that it applies to
++ "why cant I make a rule that you can stab someone if and only if your name is matthew?"
+  + this would be entirely arbitrary, there is no relevant difference between the set of matthews and the set of non-matthews, this is a particularistic norm.
+    + "if in group A norm(A) applies, if in group non-A norm(non-A) applies"
+      + this is one norm for one group and another for another
++ kill bill coma-rapists analogy
+  + it would make people freightened to go to hospitals if they knew that they could be raped in a coma
+    + it makes me very freightened to know that someone might engage in aggression against me---so... NAP?
+  + if people can rape those in comas they might be more likely to rape other people
+    + if people can even consider the concept of rape they are more likely to rape others, so is it justifiable to use a computer chip in ones brain to completely wipe out certain discovered concepts?
+      + If so what concepts ought be wiped out?
+  + the source of pleasure matters, it is not good to derive pleasure from an impermissible source
+    + what defines those pleasure sources that are permissible as against those that are impermissible?
++ intrinsically good means something that is good in itself
+** Omni's proof https://benthams.substack.com/p/a-proof-of-utilitarianism
+1. One should do what perfectly moral third parties would prefer they do.
+   + false, altruism. The attempt is to rescue this with (2), but it assumes that "better outcome" is arrived at via some utility calculus, rather than what is best for the individual himself
+2. For any possible events, perfectly moral people should prefer the better one occur rather than the worse one.
+3. If something is better for some and worse for none, it is better overall.
+4. Distribution of utility across people is irrelevant as long as the utility is fixed (so, for example, it’s just as good for three people to have 3 utility as for one person to have 9).
+   + "3 utility" lol
+
+Where is the /therefore utilitarianism/ here?
+** Argumentation Ethics
++ it cannot be denied that norms for avoiding conflict are valuable, because argumentation is itself a peaceful means of dispute resolution (you are avoiding conflicts by arguing)
+  + any property rights theory which assigns property to the aggressor is incoherent on these grounds---this would be a conflict-authorising system of property, and thus not a rational system of property at all
+** Utilitarianism
+*** Cardinal Utility
+**** types of data
++ nominal data --- I am male, we are debating on youtube, I live in scotland etc
+  + used in surveys
++ ordinal data --- 1st, 2nd, 3rd, ...
+  + no "distance" from one rank to the next
+  + used in preference scales, military ranks, etc
+    + "how much higher ranked is the colonel than the major? 1? 1 what? 2? 2 what?"
+      + does it make sense to talk about a third of a rank? does it make sense to multiply colonel by colonel? or divide lieutenant by pi?
++ cardinal data
+  + interval-level data --- degrees celsius
+    + it doesn't make sense to say that 10C is "twice as hot" as 5C, but it does make sense to say that it is 5C more than 5C
+    + negative degrees celsius just indicate that the temperature is lower than positive celsius, negative money indicates money that is owed as opposed to owned
+  + ratio-level data
+    + has an objective zero-point, such as length
+      + it does make sense to talk about 10cm being twice as long as 5cm, you can literally place two lengths of 5cm after one another and yield 10cm
+**** The category error of cardinal utility
++ the utility function requires that utility is ratio data
+  + differentiation, optimisation, etc, all require ratio data
++ cardinal utility implies that there is an identifiable, constant unit for measuring utility or preference, which implies that satisfactions are all qualitatively the same
+  + this is the claim that the satisfaction received from having an ice cold beer is the /same/ as the satisfaction of running a marathon, and that its the /same/ satisfaction as everyone else might feel
++ cardinal utility also implies that satisfaction is objectively measurable
++ what is 0 utility?
+  + is utility always positive like length or weight or can it be negative?
+  + is dissatisfaction negative utility? We are always dissatisfied so are we always in the negative and climbing towards 0 or climbing towards infinity?
+    + the zero-point must be non-arbitrary, how can the utilitarian objectively choose between conceiving of utility as always being negative or always being positive?
+* flow
++ [X] what is the utilitarian thesis as you understand it?
+  + plausible---very parsimonious theory, intuitions, veil of ignorance,
+    + what actually /is/ utilitarianism
+      + consequentialism---what actions you should take depend on the consequences
+      + welfarism---the states of affairs we care about are how well peoples' lives are going
+      + the best option is the one
+    + veil of ignorance is not a human ethic
+      + Rawls' parties presumably understand scarcity
+        + utilitarianism---assume ex ante pareto principle
++ kill one to save five
++ how determine how well peoples lives are going?
+  + hedonism---determined by pleasure - pain
+    + cardinal?
++ [X] what type of data is utility? (nominal, ordinal, interval, or ratio)
+  + nominal is clearly ludicrous (does john possess the attribute utility? true/false --- this is nonsense, and prevents any "maximising" of utility)
+  + ordinal utility prevents inter-personal comparisons of utility, thus no maximisation of utility is possible
+  + interval utility would imply that all satisfactions are qualitatively the same. Also it would need to be shown that the intervals are common to all men, that my satisfaction from drinking an ice cold beer is the same as the satisfaction my mother gets from it, nothing less will allow for the interpersonal comparison of utility.
+  + ratio utility would require an objective 0 point
+  + cardinal utility requires that it be objective and measurable
++ [X] what is 0 utility?
+  + not have any experience or negative
++ [-] is utility always positive like length or weight or can it be negative?
+  + [ ] is dissatisfaction negative utility?
+  + [X] we are all always dissatisfied to some degree, so are we always climbing to 0 or to infinity?
+    + ratio utility would require a non-arbitrary zero-point, so the utilitarian must make a non-arbitrary classification of utility as being either always negative (climbing to 0) or always positive (climbing to infinity)
++ [ ] whats a util
+  + difficult to compare pleasure and pain
+    +
++ masochist
+  + distinguish pain and suffering
+    + then how do you measure pleasant vs unpleasant
+      + neural correlates of pleasure
+        + seems like its possible to do it in principle
+    + care about whether its positive or negative
+      + so how do you determine this?
++ how did you figure out any single moral truth if we dont know how to measure utility
+  + we can come up with plausible judgements
+    + how do you know that they are plausible without any method of validation
+      + rely on peoples reports
+        +
+  + can rely on peoples' reports
+    + how can peoples' reports yield a ratio measure?
+      + economic theory has to apply to all men, not just men you agree with
+        +
++ we have preference scales for states of the world
+  + prefer A to B and B to C -> prefer A to C
+    + prefer A to B and B to C, there is some probability of A and inverse probability of C
++ implausible
+  + compare pain and suffering
+    +
++ pleasure varies between people
++ kill bill coma-rapists analogy
++ universal norms have to apply across the entire class that they were derived for
++ worries about NAP
+  + dont aggress, sounds intuitive, its false
+    + libertarians agree that you can initiate force
+      + conflict initiation, not force---no exceptions
+        + actions cant be contradictory
+          + use "mutually exclusive" if you want
+            + stabbing people,
+              + the stabbing is the
++ currently sleeping on my property
+  + "no purpose that I have with the concrete"
++ suppose omni fall out of a plane, has a parachute, catches onto side of building
+  +
++ ethics based on seemings
+  + no, its based on reason
++ need to have rights
+  + ought be property rights---what is your property theory?
+  + what are those situations when its good to violate rights
+    + what are rights?
+      + denote various things that you can do with that property
+        + gave a few examples but no concrete theory defining property
+          + certain things that you are allowed to do with it and others arent
+            + more precisely its to do with exclusion
+          + gets very difficult
+            + not for me!
+              + right to a match that you are in possession of
+                + light the match, it releases particles that go into other peoples lungs
++ sleep at house over night
+  + its not about whether I discover the invasion, its about whether it is contradicting my use
+    +
++ own a house, allow vagrants in
+  +
++ are taking up exclusion costs with the lawn
+  + using a thing involves excluding others
++ has to be a specific conflict, not non-specific "you statistically might have increased some cancer"
+  +

@@ -2,7 +2,7 @@
 .idea
 *.log
 tmp/
-*.ignore/
+*.ignore*
 *.blend1
 *.mkv
 *.mp4

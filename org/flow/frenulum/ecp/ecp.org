@@ -1,0 +1,65 @@
+#+title: ECP Debate
+
+* Notes
+** Syllogism
+1. Without private property in the factors of production they cannot be traded;
+2. if the factors cannot be traded there can be no factor prices;
+3. if there are no factor prices economic calculation is impossible;
+4. without economic calculation lines of production are chosen in an arbitrary manner.
+
+This means that the most value-productive arrangement of the factors of production cannot be found in a socialist society.
+** Supposed Solutions
+*** Gross Output Planning
++ each industry given quotas for how many widgets to produce
+  + this does not answer the question of /how/ to produce what they are producing, it also is not providing accurate information about /what/ to produce.
+    + soviet union had a lot of buildings without roofs because the nail-production targets were given in tonnes and it was easier to reach those targets with really big nails rather than the small roofing nails
+    + very hard to find clothes for children or petite women because clothing quotas were in yards of cloth
+*** People's Republic of Walmart
++ big businesses /do/ have factor prices, they do not command every single factor of production
+  + its still /internal/ socialism, not total socialism
++ kernel of truth; as a business grows larger and larger and tends towards a state of socialism then it will be ever less capable of planning
+** General Notes
++ finding out what people want is the /easy/ problem, the knowledge problem. Finding out how to produce what people want is the ECP
++ the USSR was only able to stay around for even the short time it did by copying prices from elsewhere
+* Flow
++ different principles
+  + in capitalism there is profit not in socialism
++ mysterious process
+  + there is a finite amount of resource and multiple groups who who could use it in collaboration the people who would be using the resource and the results etc are all considered in conjunction and decided what would be the best use
+    + the /deciding/ is the thing I am asking for
+      + car manufacturers say they dont need it planes say they do
+        +
++ not arguing for socialism being good, but its possible
++ department says "we would be willing to pay this amount of money for this resource" but they dont actually have to pay
+  + why wouldnt I just say that I would be willing to pay infinity money?
+    + "they will recognise that it will have better benefits "
+      +
++ the most efficient use of resources is not able to be achieved
+  + the market /tends towards it/ though, socialism does not
+    +
++ govt wants to build a railway and it owns the MoP to produce the railway the people vote and decide on what they need to build a railway, they vote on the plans for the ideal railway
+  +
++ government "goes through a process" of deciding the best usage of resources
+  + /what/ process?
+    + scarcity-demand calculation
+      + what does it look like to perform a scarcity-demand calculation?
+        + govt wants to build a hospital and a railway; which project needs a material more? An aeroplane needs stronger lighter materials more than the hospital
+          + how do we know that we shouldnt make planes out of carbon fiber composites
+            +
++ mises quote, one will acts
+  + aggregate will, democracy
+    + its still a single will
+      +
++ railroad from city A to B
+  + go around more steel less engineering, vice versa
+    + its an arbitrary decision
+  + fastest, safest, etc are all arbitrary
+    + engineer brain
+      + "might cut corners"---corner cutting is good!
+        + "apply artificial values to items based on their scarcity"
+          + this does not solve the problem
++ profit synonymous with value, no???
+  + economic calculation allows you to choose lines of production non-arbitrarily
+    +
++ syllogism
+  +

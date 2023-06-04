@@ -1,0 +1,61 @@
+#+title: Taxation Is Theft
+
+* Opening Statement
+Theft means the taking of the property of another, specifically it is possessing property without the consent of the owner. This is because if you have the owners consent it is not theft, only those situations where your possession is sans-consent is there any conflict, and law studies only those situations where there is conflict.
+
+On this ground taxation is theft, the state does not receive consent for taxed funds. If you do not pay your taxes you will be locked in a cage and the state will take the funds by force. Of note here is that the law does not come from the state, to adopt legal positivism which is the theory that the state creates law, is to make law a pointless field with no reason for existing. This is because legal positivism is either a contradiction, or it relegates law to being a mere description of the actual possessions that obtain, the former is clearly false, and the latter makes law pointless. This is because if law is merely describing which possessions obtain it can be summed up in the single sentence "if $A$ wins a conflict over the use of $\alpha$ then the law on this matter is that $A$ won." Ok, $A$ won, so what? Law on this view is a complete nothing-theory with nothing to say about anything.
+
+Furthermore, on this view it cannot be said that such atrocities as the holocaust are criminal, because if there is no objective standard for law then the jews were not murdered as the German law deemed them to have no rights. So, we can summarise this as follows:
+1. Taxation is a non-consensual possession of property
+2. non-consensual possession of property is theft
+c. taxation is theft
+
+Therefore my opponent has to attack either the premise that taxation is non-consensual or the premise that non-consensual possession of property is theft. For the first, my opponent may wish to invoke some notion of a social contract, thus I shall attack this idea. There is no such thing as a social contract, at no point did anyone sign or agree to in some other way such a contract. Moreover, any notion of implicit consent cannot rescue the social contract, this is because we know there is a group of people called anarchists who explicitly dont consent to taxation. It would take a truly deluded mind to think that if the IRS asked US citizens whether they want to be taxed that they would be able to receive anywhere close to the current wealth they seize from the people.
+
+An alternative route my opponent may wish to go is to say that taxation is a necessary evil because it increases net utility, or some other utilitarian justification. The problems with such a stance are twofold. First, such a stance would not be sufficient to demonstrate that taxation is not theft, rather it would cede this ground with a position that taxation is indeed theft but that it is good theft. Second, such a stance relies on an inter-personal comparison of utility which cannot be performed.
+
+If instead of attacking the position that taxation is non-consensual my opponent claims that non-consensual possession of property is not theft then my opponent must explain either what non-consensual possessions would not be theft or what consensual possessions would be theft, both positions are clearly ludicrous.
+
+* flow
++ selfish desires are moral
+  + amish societies that opt-out of society
++ consent is consent, everyone knows what consent means
+  + "disanalogous"
+    + talking about a system that you dont have to opt-in
+      + ...you do have to opt in, you are forced
+        + the state is disanalogous to the house, the house is respecting private property, tax is rejecting it
++ anarchists not meaningful portion
+  + irrelevant, a single anarchist demonstrates taxes to be theft
++ syllogism
+  1. Taxation is a non-consensual possession of property
+     + how do we go about saying its non-consensual---people receive benefits
+       + rape victims who orgasm are still raped
+         + disanalogy because you might not be sexually satisfied---you might not be taxtually satisfied, you dont opt-in to taxes
+           + can opt-in to social programs---THIS DOES NOT MAKE TAX NOT THEFT
+             + I'm not analogising social programs to rape, I'm analogising the funding of those programs to rape
+               + "not whether theyre good"---it is, they're bad because they violate consent
+     + The jews had the option to not live in germany
+       + genocide is disanalogous because its an attack on society and not support
+         + where is the difference in terms of consent? Benefit does not imply consent per rapeductio
+  2. non-consensual possession of property is theft
+  3. taxation is theft
++ cant produce infinite resources
+  + specialists are required, division of labour
+    + division of labour is destroyed by taxation because taxation is extortion
+  + division of labour requires upkeep
++ taxes have existed a long time, it is a by-product of trading
+  + taxation has always existed
++ taxation is the raising of funds for government services
++ social safety net
++ "get a lot back from your taxes"
+  + this does not demonstrate taxes to not be theft, go back to syllogism
++ taxation as a part of society for a long time, its giving a good for another good
+  + non-consensually, this is disanalogous to a long-term tradeoff of paying a man apples to upkeep your building
++ "opt-out" as living in a country without taxes
+  + this does not demonstrate taxation to not be theft, p1 or p2 must be attacked
+  + jews could leave germany
++ non-consensual is a given
+  + then I win!
++ libertarian society as coercive
+  + society requires coercion
+    + false, society is the negation of coercion, to the extent that you have coercion you have anti-society

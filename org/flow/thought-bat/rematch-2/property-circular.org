@@ -1,0 +1,80 @@
+#+title: Are property rights circular?
+
+* Notes
+** Property rights
++ Property rights are conflict avoiding norms---the non-aggressor has the property right
++ "Let exclusion stand"---ownership as the owner excluding others from the resource in question
+
+** Homestead Principle
++ Ownership is assigned to the firstcomer---i.e. the person who initially directs the use of the resource in question
++ Derivation:
+  1. ownership is distinct from control
+  2. If $B$ can become the owner of a thing by merely taking it from $A$ this means that ownership is not distinct from the ability to control a resource
+  3. Only the first-comer is the one who does not take it from anyone else
++ There are only two fundamental alternatives for obtaining property in external goods:
+  1. By doing something with the good in question with which nobody had done anything before---homesteading
+  2. By mere verbal decree---subjective property borders, cannot avoid conflicts
+
+** Objective, Intersubjectively ascertainable
++ Objective---the property borders must pertain to reality as opposed to the arbitrary content of ones mind.
+  + subjective property borders might contradict, contradictions are false
++ Intersubjectively ascertainable---the borders must be "public," third parties must be able to perceive their existence
+  + if the borders were not public then conflicts cannot be avoided
+
+* Flow
++ reductios
+  + coconut island---plane crashes, family wakes up and one guy has all of the food, guy who owns all the coconuts says you cant have any, NAP would imply that the family has no options but to starve
+  + quicksand---you and son walking and son gets caught in quicksand, to the left theres a rope and you can throw the rope to the son, but the rope is owned by the other guy and you arent allowed to take it
+    + seems illegal to take rope---conflict avoidance, is it not better to have property norms that dis-incentivise conflict
+      + what are "special" scenarios, this is completely arbitrary, therefore cant avoid conflicts
+        + continuum requires principled difference
+          + one is expected in modern society
+            + whether one is expected depends on the cognition of the individuals in question
+              + economics assumes rational self-interest (???)
+                + "real" costs
+                  + objective economic value
+                    + whether the means were efficacious, whether the action is in error
+                      + why isnt me killing thought bat special?
+            + "modern" is also an arbitrary cutoff
+  + flagpole---on 10th floor apartment, fall off and catch onto pole
++ desert island of kililng the other and eating
+  + who gets to kill the other guy?
+    + legal system is determined socially, might makes right
+      + authorising conflicts
+        + unreasonable to expect
+        + rather than assigning property rights in special situations property rights should dis-incentivise conflict
+          + which system would dis-incentivise conflict more, 'dont kill' or 'kill'
++ normal vs special
+  + isolated situation with few(!) people where the (real) cost of applying the principle is overwhelmingly high, low externalities
+    + what is a real cost?
+      + I have an objective which says I dont want to die, I can perceive that jump
+        + real cost is not attaining the end sought after
+          + goal is raping child, its a real cost if I dont attain this end
+            + my end in this situation doesnt stop at raping a child, the follow-on is I want to be happier
+              + hypothetical goals rely
+            + "are allowed" non normative
+              + someone wont prohibit you from it
+                + then law is merely desci
+  + argument doesnt rely on this????
+    + both in general and specially the legal system is more successful if it dis-incentivises conflict initiation
+      + so dont authorise conflicts!
+        + rational self-interest to do crimes in special scenarios
+          + omelas---psychic cost would be not outweigh benefits (subjective value)
+            +
+          + rape child to save world
+  + why isnt me killing thought bat special?
+    +
++ NAP as a general maxim
++ A takes X lends to B and B resists
+  + initiation of conflict determined by who is the owner---clarify this
+    + latecomer and firstcomer are just different labels---nominalism?
+      + I make mug, set it down, we are both at the table, I transfer to thought bat
+        + latecomer is just another word for non-owner
+          + owner=firstcomer
++ homesteading is first possession et al
++ what else is there to law
+  + economics
+    + the jurist is the interpreter of the law
+     +
+
+Law to the legal positivist, then, is a description of the specific arrangement of possessions that actually obtain, rather than a theory describing the just arrangement of possessions. Let’s break that down, the legal positivist is making the claim that law has nothing to do with justice, rather, the law is determined by raw might, that is if $A$ is able to physically defeat $B$ in a conflict and thus perform an action $\alpha$, the positivist goes only as far to point and say, "look, $A$ won the conflict, therefore the law on this conflict is that $A$ won." But, this is a complete non-theory; ok, $A$ won, so what? How on Earth they think they get to cordon off an area of philosophy and take the label “law” for what can be summed up in the sentence, “whoever wins a given conflict has won that conflict,” is beyond me. The legal positivist as such can’t even elucidate a theory predicting when people will choose to engage in conflict and who is likely to win---those would be the domains of economics and military theory respectively.

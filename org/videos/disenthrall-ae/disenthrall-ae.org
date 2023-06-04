@@ -1,0 +1,56 @@
+#+title: Argumentation Ethics is Not a Moral Philosophy - https://www.youtube.com/watch?v=0f_QuwsrOd0
+
+* The Video
+** What is AE
++ Hoppe PFS argument
+  + there are normative pre-suppositions in argumentation that cannot be disputed using the method of argumentation
+  + these pre-suppositions leave one in a performative contradiction when trying to argue against common libertarian claims (self-ownership, NAP)
+  + you cant argue against libertarianism without thereby falling into contradiction
++ Christian's summary (via PFP163):
+  1. All truth-claims--all claims that a given proposition is true, false, indeterminate or undecidable or that an argument is valid and complete or not--are raised, justified and decided upon in the course of an argumentation.
+  2. The truth of this proposition (P1, above) cannot be disputed without falling into a contradiction, as the attempt to do so would itself have to come in the form of an argument. Hence the /a priori/ of argumentation.
+  3. Argumentation is not free-floating sounds but a human action, i.e., a purposeful human activity employing physical means--a person's body and various external things--in order to reach a specific end or goal: the attainment of agreement concerning the truth value of a given proposition or argument.
+  4. While motivated by some initial disagreement, dispute, or conflict concerning the validity of some truth claim, every argumentation between a proponent and an opponent is itself a conflict-free--mutually agreed upon, peaceful--form of interaction aimed at resolving the initial disagreement and reaching some mutually agreed-upon answer as to the truth-value of a given proposition or argument.
+  5. The truth or validity of the norms or rules of action that make argumentation between a proponent and an opponent at all possible--the praxeological presuppositions of argumentation--cannot be argumentatively disputed without falling into a pragmatic or performative contradiction.
+  6. The praxeological presuppositions of argumentation, then, i.e., what makes argumentation as a specific form of truth-seeking activity possible, are twofold: (a) each person must be entitled to exclusive control or ownership of his physical body (the very means that he and only he can control directly, at will) so as to be able to act independently of one another and come to a conclusion on his own, i.e., autonomously; and (b), for the same reason of mutually independent standing and autonomy, both proponent and opponent must be entitled to their respective prior possessions, i.e., the exclusive control of all other, external means of action appropriated indirectly by them prior to and independent of one another and prior to the onset of their argumentation.
+  7. Any argument to the contrary: that either the proponent or the opponent is not entitled to the exclusive ownership of his body and all prior possessions cannot be defended without falling into a pragmatic or performative contradiction. For by engaging in argumentation, both proponent and opponent demonstrate that they seek a peaceful, conflict-free resolution to whatever disagreement gave rise to their arguments. Yet to deny one person the right to self-ownership and prior possessions is to deny his autonomy and his autonomous standing in a trial of arguments. It affirms instead dependency and conflict, i.e., heteronomy, rather than conflict-free and autonomously reached agreement and is thus contrary to the very purpose of argumentation.
+** What AE is NOT
++ AE not a moral philosophy
+  + normative is non-descriptive---it has oughts
++ "hoppe never says any oughts"
+  + property rights are conflict-avoiding /norms/
++ "all hoppe does is say what you can and can't argue about"
+  + the reason you cant argue about certain things is that they are contradictory, contradictions are false, so their negation is true
++ you cannot DENY property rights as valid, property rights are normative, the NAP is an undeniable norm/ought
+** A Big Problem (No Proof/Syllogism)
++ Staight from hoppe: "(a) justification is propositional justification—a priori true is-statement; (b) argumentation presupposes property in one’s body and the homesteading principle—a priori true is-statement; and (c) then, no deviation from this ethic can be argumentatively justified—a priori true is-statement."[fn:1]
+  + this is clearly a syllogis
+** A Bigger Problem (Control vs Property)
++ control vs property
+  + they have an issue with "exclusive control or ownership," specifically hoppe says "must be entitled to exclusive control or ownership"
+    + being entitled to exclusive control *IS* what it means to own a thing, a property right means the right to control a thing
+  + "exclusive control or ownership is getting at the same idea" OR "exclusive control is directly tied to hoppes concept of humans having self ownership"
+    + "both introduce issues"
+  + they seem to not mention the "must be entitled to" part
+** An Apocalyptic Problem (Performative Contradiction)
++ a performative contradiction is when the propositional content of a statement contradicts with the pre-suppositions of asserting it
++ "hard" version is a genuine problem, "soft" version is just an accusation of hypocrisy
+  + A "hard" PC is when you present an argument along with a "sidecar of evidence" which demonstrates the argument to be unsound
++ Patrick makes the claim, "Patrick should never speak;" whether he should speak is untouched by whether he is actually speaking
+  + patrick is merely a hypocrite---a hypocrite can say true things
++ "Words on a wall" objection
+  + this applies to the "Patrick should never speak" but it clearly would not apply to "arguments should not be made"---i.e. disputes should be resolved violently
++ Patrick claims "I should use force to take what I want from you"
+  + the claim is not contradicted by his non-use of force
+** Tu Quoque
++ the point that AE provides is that on the socialist's own premises they should shut up and not preach socialism
+* The Positive Argument
++ fundamentally law is about how conflicts should be resolved; if you have some conflict you are both asserting contradictory property claims; /asserting as such/ requires that you accept the NAP and all of its implications.
++ whatever theory you might come up with to resolve disputes over scarce means it would /have/ to involve argumentation, or else you are not resolving disputes at all. It is not logically possible to deny the validity of resolving disputes peacefully, no matter how you would try to do this you would therefore find yourself in contradiction, you affirm the validity of property rights by attempting to dispute their validity. This is affirmation by denial, this is how Aristotle proved the laws of thought. In disputing property rights you steal the concept of property rights.
+  + disputes /couldn't/ be resolved without propositional exchange, if you are engaged merely in private thought or contemplation this is not bringing you closer to resolving any disputes.
++ disputes cant be resolved without there being the possibility for argumentation---if we were to follow the norm of aggression then we per se could not resolve disputes; it is only by violating this norm that dispute resolution is possible in the first place
++ if you have /rational/ dispute resolution this means that the norm in question for resolving disputes is rational; if this norm is rational it must be able to be proposed in an argument, if it is rational this means that the other party must in principle be able to rationally accept it as true and valid---this is impossible for any socialist ethic
+
+* Footnotes
+
+[fn:1]Hans-Hermann Hoppe (2005), “On The Ultimate Justification of the Ethics of Private Property,” p. 345, in idem., The Economics and Ethics of Private Property, second ed.
